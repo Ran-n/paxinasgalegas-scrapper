@@ -2,9 +2,9 @@
 # -*- coding: utf-8 -*-
 #+ Autor:	Ran#
 #+ Creado:	02/07/2021 20:55:47
-#+ Editado:	03/07/2021 00:48:36
+#+ Editado:	03/07/2021 00:50:36
 #------------------------------------------------------------------------------------------------
-from conexions import proxie
+import conexions
 import sys
 from bs4 import BeautifulSoup as bs
 import os
@@ -52,7 +52,7 @@ def gardarJson(ficheiro, contido, sort=False):
 #    print(json.dumps(contido, indent=indent, sort_keys=sort)
 #------------------------------------------------------------------------------------------------
 # request inicial
-req = proxie.porProxie(verbose=verbose, maxCons=20)
+req = conexions.porProxie(verbose=verbose, maxCons=20)
 soup = bs(req.get(lig+str(num_pax), timeout=10),'html.parser')
 
 # xFCR: está mal o das páxinas
