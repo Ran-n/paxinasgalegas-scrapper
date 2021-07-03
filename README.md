@@ -1,14 +1,14 @@
 # Raspador da web PaxinasGalegas
 [web](https://www.paxinasgalegas.es/)
 
-Exemplos de execución:
-    ./paxgal.py -b 'restaurantes coruña'
-    python3 paxgal.py -b 'restaurantes coruña' -o /root
+Exemplos de execución:  
+    ./paxgal.py -b 'restaurantes coruña'  
+    python3 paxgal.py -b 'restaurantes coruña' -o /root  
 
-Opcións:
--a/-h/? → Mensaxe de axuda
--b      → Catex da búsqueda a realizar (con comiñas e sen usar espazos)
--o      → Catex da ruta de saída para o ficheiro de resultados
+Opcións:  
+-a/-h/? → Mensaxe de axuda  
+-b      → Catex da búsqueda a realizar (con comiñas e sen usar espazos)  
+-o      → Catex da ruta de saída para o ficheiro de resultados  
 
 ## Doazóns
 🙇🙇‍♀
