@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 #+ Autor:	Ran#
 #+ Creado:	02/07/2021 20:55:47
-#+ Editado:	03/07/2021 14:24:47
+#+ Editado:	03/07/2021 14:32:20
 #------------------------------------------------------------------------------------------------
 import conexions
 import sys
@@ -90,7 +90,7 @@ while True:
         nome = nome.get_text().strip()
         tfno = tfno.get('data-phone')
         tfno = tfno if tfno else 'Non dispoñible'
-        rua = rua.get_text().strip()+' - '+municipio.get_text()
+        direccion = rua.get_text().strip()+' - '+municipio.get_text()
 
         try:
             web = web.find(class_='enlace_web valign-middle font-normal font-weight-bold overflow-hidden').get_text().strip()
@@ -106,7 +106,7 @@ while True:
         restaurantes.append({
             'Nome local': nome,
             'Teléfono': tfno,
-            'Dirección': rua,
+            'Dirección': direccion,
             'Páxina web': web
             })
 
