@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 #+ Autor:	Ran#
 #+ Creado:	02/07/2021 20:55:47
-#+ Editado:	03/07/2021 13:20:24
+#+ Editado:	03/07/2021 14:24:47
 #------------------------------------------------------------------------------------------------
 import conexions
 import sys
@@ -75,30 +75,39 @@ result_max = int(soup.find(id='spnPagTotRes').get_text())
 
 while True:
     print('> Sacando info da páxina {}'.format(pax_num))
-    print('> {} de {} resultados'.format(result_num, result_max))
+    print('> {} de {} resultados\n'.format(result_num, result_max))
     
     # saca lista de datos interesantes
     nomes = soup.find_all(class_="titulo font-large text-decoration-underline")
     tfnos = soup.find_all(class_='start valign-middle font-large')
     ruas =  soup.find_all(class_='calle')
+    municipios = soup.find_all(class_='municipio font-weight-bold')
     descripcions = soup.find_all(class_='contenido color-text-3')
+    webs = soup.find_all(class_='pie border-dotted-top-default overflow-hidden')
 
-    for nome, tfno, rua, descripcion in zip(nomes, tfnos, ruas, descripcions):
+    for nome, tfno, rua, municipio, descripcion, web in zip(nomes, tfnos, ruas, municipios, descripcions, webs):
 
         nome = nome.get_text().strip()
         tfno = tfno.get('data-phone')
         tfno = tfno if tfno else 'Non dispoñible'
-        rua = rua.get_text().strip()
+        rua = rua.get_text().strip()+' - '+municipio.get_text()
+
+        try:
+            web = web.find(class_='enlace_web valign-middle font-normal font-weight-bold overflow-hidden').get_text().strip()
+        except:
+            web = 'Non dispoñible'
 
         if 'Esta empresa ha cesado su actividad' in descripcion.get_text().strip():
             nome = riscar(nome)
             tfno = riscar(tfno)
             rua = riscar(rua)
+            web = riscar(web)
 
         restaurantes.append({
             'Nome local': nome,
             'Teléfono': tfno,
-            'Dirección': rua
+            'Dirección': rua,
+            'Páxina web': web
             })
 
     # novo request para seguinte páxina
