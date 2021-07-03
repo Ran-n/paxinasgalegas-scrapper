@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 #+ Autor:	Ran#
 #+ Creado:	02/07/2021 20:55:47
-#+ Editado:	03/07/2021 00:50:36
+#+ Editado:	03/07/2021 12:17:48
 #------------------------------------------------------------------------------------------------
 import conexions
 import sys
@@ -12,7 +12,7 @@ import json
 from datetime import datetime
 #------------------------------------------------------------------------------------------------
 lig = 'https://www.paxinasgalegas.es/resultados.aspx?tipo=0&texto='
-num_pax = 0
+pax_num = 0
 busqueda = ''
 restaurantes = []
 #------------------------------------------------------------------------------------------------
@@ -28,12 +28,8 @@ if any(['-a' in args, '-h' in args, '?' in args, len(args) == 0]):
 # palabras de búsqueda
 if '-b' in args:
     try:
-        for ele in args[args.index('-b')+1].split():
-            lig = lig + ele + '+'
-            busqueda += ele + '+'
-        lig = lig[:-1]
-        lig += '&pagina='
-        busqueda = busqueda[:-1]
+        lig += '+'.join(args[args.index('-b')+1].split())+'&pagina='
+        busqueda = ' '.join(args[args.index('-b')+1].split())
     except:
         raise Exception('Non se proporcionou valor de búsqueda')
 
@@ -42,6 +38,20 @@ if '-v' in args:
     verbose = True
 else:
     verbose = False
+
+# a carpeta de saida:
+if '-o' in args:
+    try:
+        carpeta = args[args.index('-o')+1]
+        if not os.path.exists(carpeta):
+            raise Exception('A ruta especificada non existe')
+    except:
+        raise Exception('Non se proporcionou un valor para o path da carpeta')
+    finally:
+        if not carpeta.endswith('/'):
+            carpeta += '/'
+else:
+    carpeta = './'
 #------------------------------------------------------------------------------------------------
 # garda un ficheiro en memoria en formato json e coa extensión dada no nome
 def gardarJson(ficheiro, contido, sort=False):
@@ -53,31 +63,30 @@ def gardarJson(ficheiro, contido, sort=False):
 #------------------------------------------------------------------------------------------------
 # request inicial
 req = conexions.porProxie(verbose=verbose, maxCons=20)
-soup = bs(req.get(lig+str(num_pax), timeout=10),'html.parser')
 
-# xFCR: está mal o das páxinas
-# cambialo por número de restaurantes
-# número máximo de páxinas
-max_pax = int(soup.find(id='spnPagRango').get_text().split('-')[1].strip())
-print('> Para a búsqueda {} hai un total de {} páxinas'.format(busqueda, max_pax))
+soup = bs(req.get(lig+str(pax_num), timeout=10),'html.parser')
+result_num = int(soup.find(id='spnPagRango').get_text().split('-')[1].strip())
+result_max = int(soup.find(id='spnPagTotRes').get_text())
 
-# loop para tódalas páxinas dispoñibles
-for i in range(num_pax, max_pax+1):
-    print('> Sacando info da páxina {} de {}'.format(num_pax, max_pax))
+while True:
+    print('> Sacando info da páxina {}'.format(pax_num))
+    print('> {} de {} resultados'.format(result_num, result_max))
     
-    # nomes dos locais
-    for ele in soup.find_all(class_="titulo font-large text-decoration-underline"):
-        nome = ele.get_text().strip()
+    for nome, tfno in zip(soup.find_all(class_="titulo font-large text-decoration-underline"), soup.find_all(class_='start valign-middle font-large')):
+        tfno = tfno.get('data-phone')
+        restaurantes.append({
+            'Nome local': nome.get_text().strip(),
+            'Teléfono': tfno if tfno else 'Non dispoñible' 
+            })
 
-    # números de teléfono
-    for ele in soup.find_all(class_='start valign-middle font-large'):
-        tfno = ele.get('data-phone')
-        if not tfno: tfno = 'Non dispoñible'
+    # novo request para seguinte páxina
+    pax_num += 1
+    if result_num != result_max:
+        soup = bs(req.get(lig+str(pax_num), timeout=10),'html.parser')
+        result_num = int(soup.find(id='spnPagRango').get_text().split('-')[1].strip())
+    else:
+        print('> Fin')
+        break
 
-    restaurantes.append({'Nome': nome, 'Tfno': tfno})
-
-    # nova páxina
-    soup = bs(req.get(lig+str(num_pax), timeout=10), 'html.parser')
-
-gardarJson(datetime.now().strftime('%Y-%m-%d %H.%M.%S')+'_'+busqueda+'.txt', restaurantes)
+gardarJson(carpeta+datetime.now().strftime('%Y-%m-%d %H.%M.%S')+' '+busqueda+'.txt', restaurantes)
 #------------------------------------------------------------------------------------------------
