@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 #+ Autor:	Ran#
 #+ Creado:	02/07/2021 20:55:47
-#+ Editado:	03/07/2021 14:32:58
+#+ Editado:	03/07/2021 14:36:47
 #------------------------------------------------------------------------------------------------
 import conexions
 import sys
@@ -23,7 +23,8 @@ args = sys.argv[1:]
 if any(['-a' in args, '-h' in args, '?' in args, len(args) == 0]):
     print('> Axuda :')
     print('-a/-h/?\t→ Esta mensaxe')
-    print('-b\t→ Catex da búsqueda a realizar (con comiñas se usas espazos)')
+    print('-b\t→ Catex da búsqueda a realizar (con comiñas se usar espazos)')
+    print('-o\t→ Catex da ruta de saída para o ficheiro de resultados')
     sys.exit()
 
 # palabras de búsqueda
