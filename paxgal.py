@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 #+ Autor:	Ran#
 #+ Creado:	02/07/2021 20:55:47
-#+ Editado:	03/07/2021 12:17:48
+#+ Editado:	03/07/2021 13:20:24
 #------------------------------------------------------------------------------------------------
 import conexions
 import sys
@@ -11,6 +11,7 @@ import os
 import json
 from datetime import datetime
 #------------------------------------------------------------------------------------------------
+timeout = 10
 lig = 'https://www.paxinasgalegas.es/resultados.aspx?tipo=0&texto='
 pax_num = 0
 busqueda = ''
@@ -60,11 +61,15 @@ def gardarJson(ficheiro, contido, sort=False):
 # función de print pero bonita para os dics e tal formato json
 #def pjson(contido, indent=4, sort=False):
 #    print(json.dumps(contido, indent=indent, sort_keys=sort)
+
+# modifica un catex para que esté riscado
+def riscar(texto):
+    return ''.join([u'\u0336{}'.format(c) for c in texto])
 #------------------------------------------------------------------------------------------------
 # request inicial
 req = conexions.porProxie(verbose=verbose, maxCons=20)
 
-soup = bs(req.get(lig+str(pax_num), timeout=10),'html.parser')
+soup = bs(req.get(lig+str(pax_num), timeout=timeout),'html.parser')
 result_num = int(soup.find(id='spnPagRango').get_text().split('-')[1].strip())
 result_max = int(soup.find(id='spnPagTotRes').get_text())
 
@@ -72,20 +77,37 @@ while True:
     print('> Sacando info da páxina {}'.format(pax_num))
     print('> {} de {} resultados'.format(result_num, result_max))
     
-    for nome, tfno in zip(soup.find_all(class_="titulo font-large text-decoration-underline"), soup.find_all(class_='start valign-middle font-large')):
+    # saca lista de datos interesantes
+    nomes = soup.find_all(class_="titulo font-large text-decoration-underline")
+    tfnos = soup.find_all(class_='start valign-middle font-large')
+    ruas =  soup.find_all(class_='calle')
+    descripcions = soup.find_all(class_='contenido color-text-3')
+
+    for nome, tfno, rua, descripcion in zip(nomes, tfnos, ruas, descripcions):
+
+        nome = nome.get_text().strip()
         tfno = tfno.get('data-phone')
+        tfno = tfno if tfno else 'Non dispoñible'
+        rua = rua.get_text().strip()
+
+        if 'Esta empresa ha cesado su actividad' in descripcion.get_text().strip():
+            nome = riscar(nome)
+            tfno = riscar(tfno)
+            rua = riscar(rua)
+
         restaurantes.append({
-            'Nome local': nome.get_text().strip(),
-            'Teléfono': tfno if tfno else 'Non dispoñible' 
+            'Nome local': nome,
+            'Teléfono': tfno,
+            'Dirección': rua
             })
 
     # novo request para seguinte páxina
     pax_num += 1
     if result_num != result_max:
-        soup = bs(req.get(lig+str(pax_num), timeout=10),'html.parser')
+        soup = bs(req.get(lig+str(pax_num), timeout=timeout),'html.parser')
         result_num = int(soup.find(id='spnPagRango').get_text().split('-')[1].strip())
     else:
-        print('> Fin')
+        print('> Fin do raspado')
         break
 
 gardarJson(carpeta+datetime.now().strftime('%Y-%m-%d %H.%M.%S')+' '+busqueda+'.txt', restaurantes)
