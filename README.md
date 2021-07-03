@@ -16,6 +16,8 @@ Opcións:
 -a/-h/? → Mensaxe de axuda  
 -b      → Catex da búsqueda a realizar (con comiñas e sen usar espazos)  
 -o      → Catex da ruta de saída para o ficheiro de resultados  
+-v      → Mensaxes de información da evolución do raspado
+-V      → Mensaxes da opción "-v" e das conexións do módulo "conexions"
 
 ## Doazóns
 🙇🙇‍♀
