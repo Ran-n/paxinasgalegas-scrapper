@@ -1,5 +1,5 @@
 # Raspador da web PaxinasGalegas
-[web](https://www.paxinasgalegas.es/)
+[Páxina web raspada](https://www.paxinasgalegas.es/)
 
 Exemplos de execución:  
     ./paxgal.py -b 'restaurantes coruña'  
