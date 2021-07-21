@@ -1,0 +1,5319 @@
+[
+ {
+  "Nome local": "A Nova Lanchiña Pulpeira",
+  "Teléfono": "981 916 829",
+  "Dirección": "Eusebio da Guarda, 1 (Esq. Juan Varela) - 15007 - A Coruña",
+  "Páxina web": "www.anovalanchiña.es",
+  "Etiquetas": [
+   "Pulperías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "O Garabullo",
+  "Teléfono": "981 289 890",
+  "Dirección": "Novoa Santos, 16 Bajo - 15006 - A Coruña",
+  "Páxina web": "www.facebook.com/o-garabullo",
+  "Etiquetas": [
+   "Asadores, parrilladas y churrasquerías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "Restaurante Javimar",
+  "Teléfono": "981 132 515",
+  "Dirección": "Fariña Ferreño, 18 - 15009 - A Coruña",
+  "Páxina web": "www.restaurantejavimar.es",
+  "Etiquetas": [
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "Restaurante Noray",
+  "Teléfono": "981 224 886",
+  "Dirección": "Plaza María Pita, 15 - 15001 - A Coruña",
+  "Páxina web": "www.restaurantenoray.com",
+  "Etiquetas": [
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "Restaurante Peruano – Pollería Rudy's",
+  "Teléfono": "981 278 709",
+  "Dirección": "Avda. de Chile, 32 Bajo - 15009 - A Coruña",
+  "Páxina web": "www.pollosalabrasarudys.com",
+  "Etiquetas": [
+   "Pollos asados",
+   "Restaurantes",
+   "Restaurantes ",
+   "Peruanos"
+  ]
+ },
+ {
+  "Nome local": "Restaurante Tempura",
+  "Teléfono": "981 201 298",
+  "Dirección": "Avda. de Pedro Barrié de La Maza, 23 - 15003 - A Coruña",
+  "Páxina web": "www.restaurantetempura.es",
+  "Etiquetas": [
+   "Catering",
+   "Restaurantes",
+   "Restaurantes ",
+   "Japoneses",
+   "Restaurantes ",
+   "Tailandeses"
+  ]
+ },
+ {
+  "Nome local": "Taj Mahal",
+  "Teléfono": "981 918 573",
+  "Dirección": "Pondal, 1-3 Bajo - 15004 - A Coruña",
+  "Páxina web": "www.tajmahalcoruna.com",
+  "Etiquetas": [
+   "Restaurantes",
+   "Restaurantes ",
+   "Indios"
+  ]
+ },
+ {
+  "Nome local": "+ Rico",
+  "Teléfono": "981 916 921",
+  "Dirección": "Ronda de Outeiro, 272 Bajo - 15010 - A Coruña",
+  "Páxina web": "www.facebook.com/-rico",
+  "Etiquetas": [
+   "Cervecerías",
+   "Restaurantes",
+   "Restaurantes ",
+   "Italianos y pizzerías"
+  ]
+ },
+ {
+  "Nome local": "100 Montaditos",
+  "Teléfono": "698 180 926",
+  "Dirección": "Ctra. Baños de Arteixo, 43 (C. Cial. Marineda City), Planta 2, Loc. 29 - 15008 - A Coruña",
+  "Páxina web": "spain.100montaditos.com",
+  "Etiquetas": [
+   "Bares y cafeterías",
+   "Cervecerías",
+   "Mesones y taperías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "100 Montaditos",
+  "Teléfono": "Non dispoñible",
+  "Dirección": "Galera, 40 bajo - 15001 - A Coruña",
+  "Páxina web": "www.100montaditos.com",
+  "Etiquetas": [
+   "Bares y cafeterías",
+   "Cervecerías",
+   "Mesones y taperías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "100 Tapas",
+  "Teléfono": "881 994 143",
+  "Dirección": "Trva. de Rianxo, 5 bajo - A Coruña",
+  "Páxina web": "www.facebook.com/100-tapas",
+  "Etiquetas": [
+   "Mesones y taperías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "55 Pasos",
+  "Teléfono": "981 907 825",
+  "Dirección": "Ntra. Sra. del Rosario, 9 - 15001 - A Coruña",
+  "Páxina web": "www.facebook.com/55-pasos",
+  "Etiquetas": [
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "57 Bar Atlántico",
+  "Teléfono": "981 262 078",
+  "Dirección": "Andén de Riazor, s/n - 15011 - A Coruña",
+  "Páxina web": "www.facebook.com/57-bar-atlantico",
+  "Etiquetas": [
+   "Bares y cafeterías",
+   "Cervecerías",
+   "Mesones y taperías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "8ª Región",
+  "Teléfono": "981 280 643",
+  "Dirección": "Puente, 32 - 15009 - A Coruña",
+  "Páxina web": "Non dispoñible",
+  "Etiquetas": [
+   "Bares y cafeterías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "A Balea",
+  "Teléfono": "981 248 328",
+  "Dirección": "San Vicente, 66 - 15007 - A Coruña",
+  "Páxina web": "www.facebook.com/a-balea",
+  "Etiquetas": [
+   "Asadores, parrilladas y churrasquerías",
+   "Mesones y taperías",
+   "Restaurantes",
+   "Sidrerías"
+  ]
+ },
+ {
+  "Nome local": "A Boca do Lobo",
+  "Teléfono": "981 906 552",
+  "Dirección": "Tinajas, 1 Bajo (C/ Santo Domingo, 14) - 15001 - A Coruña",
+  "Páxina web": "www.facebook.com/a-boca-do-lobo",
+  "Etiquetas": [
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "A Casa das Tortillas",
+  "Teléfono": "Non dispoñible",
+  "Dirección": "Orzán, 5 - 15001 - A Coruña",
+  "Páxina web": "www.facebook.com/a-casa-das-tortillas",
+  "Etiquetas": [
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "A Chispa 1",
+  "Teléfono": "881 067 062",
+  "Dirección": "Javier López López, 25 - 15009 - A Coruña",
+  "Páxina web": "Non dispoñible",
+  "Etiquetas": [
+   "Asadores, parrilladas y churrasquerías",
+   "Mesones y taperías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "A Cocteleira",
+  "Teléfono": "981 913 862",
+  "Dirección": "Chile, 27 Bajo - 15009 - A Coruña",
+  "Páxina web": "Non dispoñible",
+  "Etiquetas": [
+   "Bares y cafeterías",
+   "Restaurantes",
+   "Take away, comida para llevar"
+  ]
+ },
+ {
+  "Nome local": "A Codorniz",
+  "Teléfono": "981 227 030",
+  "Dirección": "Galera, 10 - 15001 - A Coruña",
+  "Páxina web": "www.facebook.com/a-codorniz",
+  "Etiquetas": [
+   "Mesones y taperías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "A Despensa Galega - Torre de Nuñez",
+  "Teléfono": "881 067 300",
+  "Dirección": "Agra del Orzán, 35 Bajo - 15010 - A Coruña",
+  "Páxina web": "www.facebook.com/a-despensa-galega",
+  "Etiquetas": [
+   "Jamonerías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "A do Cuñado",
+  "Teléfono": "881 065 502",
+  "Dirección": "Avda. Novo Mesoiro, 5 bajo - 15190 - A Coruña",
+  "Páxina web": "www.facebook.com/a-do-cuñado",
+  "Etiquetas": [
+   "Bares y cafeterías",
+   "Cervecerías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "A Factoría Verde",
+  "Teléfono": "881 965 848",
+  "Dirección": "Wenceslao Fernández Flórez, 3 - 15005 - A Coruña",
+  "Páxina web": "www.afactoriaverde.com",
+  "Etiquetas": [
+   "Alimentación a granel",
+   "Restaurantes",
+   "Restaurantes vegetarianos",
+   "Tiendas de alimentación",
+   "Tiendas ecológicas"
+  ]
+ },
+ {
+  "Nome local": "A Gaiteira",
+  "Teléfono": "881 928 943",
+  "Dirección": "Gaiteira, 31 bajo - 15009 - A Coruña",
+  "Páxina web": "Non dispoñible",
+  "Etiquetas": [
+   "Mesones y taperías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "A Gaiteira II",
+  "Teléfono": "981 138 702",
+  "Dirección": "Avda. del Pasaje, 32 - 15006 - A Coruña",
+  "Páxina web": "www.agaiteira2acoruna.com",
+  "Etiquetas": [
+   "Bares y cafeterías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "A la Brasa",
+  "Teléfono": "981 265 457",
+  "Dirección": "Juan Flórez, 38 Bajo - 15004 - A Coruña",
+  "Páxina web": "Non dispoñible",
+  "Etiquetas": [
+   "Catering",
+   "Marisquerías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "A Lagareta",
+  "Teléfono": "881 897 813",
+  "Dirección": "Franja, 24 - 15001 - A Coruña",
+  "Páxina web": "www.facebook.com/a-lagareta",
+  "Etiquetas": [
+   "Mesones y taperías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "A Mundiña",
+  "Teléfono": "981 209 278",
+  "Dirección": "Estrella, 10 - 15003 - A Coruña",
+  "Páxina web": "www.amundina.com",
+  "Etiquetas": [
+   "Catering",
+   "Marisquerías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "A Mundiña",
+  "Teléfono": "881 899 327",
+  "Dirección": "Real, 77 - 15003 - A Coruña",
+  "Páxina web": "www.amundina.com",
+  "Etiquetas": [
+   "Catering",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "A Nova Lanchiña Pulpeira",
+  "Teléfono": "981 235 854",
+  "Dirección": "Capitán Juan Varela, 30 Bajo - 15007 - A Coruña",
+  "Páxina web": "www.anovalanchiña.es",
+  "Etiquetas": [
+   "Pulperías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "A Parra",
+  "Teléfono": "981 209 186",
+  "Dirección": "San Amaro, 1 - 15002 - A Coruña",
+  "Páxina web": "Non dispoñible",
+  "Etiquetas": [
+   "Bares y cafeterías",
+   "Mesones y taperías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "A Peneira",
+  "Teléfono": "981 260 712",
+  "Dirección": "Avda. de Calvo Sotelo, 18 Bajo - 15004 - A Coruña",
+  "Páxina web": "www.restauranteapeneira.es",
+  "Etiquetas": [
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "A Ponte",
+  "Teléfono": "Non dispoñible",
+  "Dirección": "Río Monelos, 22 Bajo - 15006 - A Coruña",
+  "Páxina web": "Non dispoñible",
+  "Etiquetas": [
+   "Mesones y taperías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "A Pulpeira do Rompeolas",
+  "Teléfono": "881 925 425",
+  "Dirección": "Manuel Murguía, 10 bajo - 15011 - A Coruña",
+  "Páxina web": "Non dispoñible",
+  "Etiquetas": [
+   "Bares y cafeterías",
+   "Cervecerías",
+   "Pulperías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "A Pulpería de Melide",
+  "Teléfono": "981 152 197",
+  "Dirección": "Pza. de España, 16 Bajo - 15001 - A Coruña",
+  "Páxina web": "www.pulpeirademelide.com",
+  "Etiquetas": [
+   "Catering",
+   "Pulperías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "A Roda",
+  "Teléfono": "981 228 671",
+  "Dirección": "Capitán Troncoso, 8 Bajo - 15001 - A Coruña",
+  "Páxina web": "www.mesonaroda.com",
+  "Etiquetas": [
+   "Mesones y taperías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "A Rúa",
+  "Teléfono": "Non dispoñible",
+  "Dirección": "Pedralonga, 31 bajo - 15009 - A Coruña",
+  "Páxina web": "Non dispoñible",
+  "Etiquetas": [
+   "Loterías y apuestas del estado, administraciones de loterías",
+   "Mesones y taperías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "A Sella",
+  "Teléfono": "981 200 701",
+  "Dirección": "Angel Rebollo, 73 - 15002 - A Coruña",
+  "Páxina web": "Non dispoñible",
+  "Etiquetas": [
+   "Mesones y taperías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "A Taberna de Cunqueiro",
+  "Teléfono": "981 212 629",
+  "Dirección": "Estrella, 22 - 15003 - A Coruña",
+  "Páxina web": "www.atabernadecunqueiro.com",
+  "Etiquetas": [
+   "Mesones y taperías",
+   "Restaurantes",
+   "Take away, comida para llevar"
+  ]
+ },
+ {
+  "Nome local": "A Taberna do Xan",
+  "Teléfono": "981 976 302",
+  "Dirección": "Galera, 26-28 - 15003 - A Coruña",
+  "Páxina web": "Non dispoñible",
+  "Etiquetas": [
+   "Mesones y taperías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "A Tixola",
+  "Teléfono": "981 211 932",
+  "Dirección": "Florida, 37 Bajo - 15001 - A Coruña",
+  "Páxina web": "www.instagram.com/mesonatixola",
+  "Etiquetas": [
+   "Bares y cafeterías",
+   "Mesones y taperías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "Abarrote",
+  "Teléfono": "881 878 421",
+  "Dirección": "San Andrés, 53 - 15003 - A Coruña",
+  "Páxina web": "www.abarrote.es",
+  "Etiquetas": [
+   "Mesones y taperías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "Abica",
+  "Teléfono": "981 903 766",
+  "Dirección": "Avda. de la Marina, 9 Bajo - 15001 - A Coruña",
+  "Páxina web": "www.facebook.com/abica",
+  "Etiquetas": [
+   "Restaurantes",
+   "Take away, comida para llevar"
+  ]
+ },
+ {
+  "Nome local": "Ábrego",
+  "Teléfono": "981 226 500",
+  "Dirección": "Jardines de Méndez Núñez, 2 - 15006 - A Coruña",
+  "Páxina web": "www.facebook.com/abrego",
+  "Etiquetas": [
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "Abuel@",
+  "Teléfono": "881 887 931",
+  "Dirección": "La Haya, 1 (Urb. Valaire) - A ZAPATEIRA - 15008 - A Coruña",
+  "Páxina web": "www.facebook.com/abuel",
+  "Etiquetas": [
+   "Bares y cafeterías",
+   "Restaurantes",
+   "Take away, comida para llevar"
+  ]
+ },
+ {
+  "Nome local": "Abuín",
+  "Teléfono": "981 120 907",
+  "Dirección": "Federico Tapia, 8 - 15005 - A Coruña",
+  "Páxina web": "Non dispoñible",
+  "Etiquetas": [
+   "Bares y cafeterías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "Acrunia",
+  "Teléfono": "881 873 033",
+  "Dirección": "Enciclopedia Francesa, 4 Bajo - 15008 - A Coruña",
+  "Páxina web": "www.facebook.com/acrunia",
+  "Etiquetas": [
+   "Mesones y taperías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "Adega O Bebedeiro",
+  "Teléfono": "981 210 609",
+  "Dirección": "Angel Rebollo, 34 - 15002 - A Coruña",
+  "Páxina web": "www.adegaobebedeiro.com",
+  "Etiquetas": [
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "Agustín",
+  "Teléfono": "981 224 795",
+  "Dirección": "Franja, 5 Bajo - 15001 - A Coruña",
+  "Páxina web": "Non dispoñible",
+  "Etiquetas": [
+   "Marisquerías",
+   "Mesones y taperías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "Alambique",
+  "Teléfono": "981 211 740",
+  "Dirección": "Socorro, 57 Bajo - 15003 - A Coruña",
+  "Páxina web": "Non dispoñible",
+  "Etiquetas": [
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "Alcume",
+  "Teléfono": "981 210 174",
+  "Dirección": "Galera, 44-46 - 15003 - A Coruña",
+  "Páxina web": "www.facebook.com/alcume",
+  "Etiquetas": [
+   "Asadores, parrilladas y churrasquerías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "Alia Die",
+  "Teléfono": "881 895 332",
+  "Dirección": "Olmos, 12-14 - 15003 - A Coruña",
+  "Páxina web": "www.aliadie.com",
+  "Etiquetas": [
+   "Gastrobar",
+   "Mesones y taperías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "Alma Negra",
+  "Teléfono": "881 912 544",
+  "Dirección": "Barrera, 11-13 - 15001 - A Coruña",
+  "Páxina web": "www.conceptonegra.com",
+  "Etiquetas": [
+   "Bares y cafeterías",
+   "Cervecerías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "Ámsterdam",
+  "Teléfono": "981 229 583",
+  "Dirección": "Orzán, 69 - 15003 - A Coruña",
+  "Páxina web": "Non dispoñible",
+  "Etiquetas": [
+   "Bares y cafeterías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "Ana Kiro",
+  "Teléfono": "981 299 427",
+  "Dirección": "Pza. de Luis Seoane, s/n  Torre 1 - Bajo 5 - 15008 - A Coruña",
+  "Páxina web": "www.facebook.com/ana-kiro",
+  "Etiquetas": [
+   "Bares y cafeterías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "Anduriña",
+  "Teléfono": "981 200 804",
+  "Dirección": "Estrella, 8 - 15001 - A Coruña",
+  "Páxina web": "www.facebook.com/anduriña",
+  "Etiquetas": [
+   "Bares y cafeterías",
+   "Cervecerías",
+   "Mesones y taperías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "Antomar",
+  "Teléfono": "881 068 756",
+  "Dirección": "Enrique Mariñas Romero, 3 Bajo Izq. - MATOGRANDE - 15009 - A Coruña",
+  "Páxina web": "www.facebook.com/antomar",
+  "Etiquetas": [
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "Arallo",
+  "Teléfono": "Non dispoñible",
+  "Dirección": "Pza. de María Pita, 3 - 15001 - A Coruña",
+  "Páxina web": "www.arallotaberna.com",
+  "Etiquetas": [
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "Árbore da Veira",
+  "Teléfono": "981 100 823",
+  "Dirección": "Monte de San Pedro, s/n - 15011 - A Coruña",
+  "Páxina web": "www.arboredaveira.com",
+  "Etiquetas": [
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "Aroma",
+  "Teléfono": "981 223 943",
+  "Dirección": "Comandante Fontanes, 6 - 15003 - A Coruña",
+  "Páxina web": "www.restaurantearoma.es",
+  "Etiquetas": [
+   "Bares y cafeterías",
+   "Cervecerías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "Arriba la Cuchara",
+  "Teléfono": "Non dispoñible",
+  "Dirección": "Manuel Murguía, 12 - 15011 - A Coruña",
+  "Páxina web": "arriba-la-cuchara.eatbu.com",
+  "Etiquetas": [
+   "Creperías",
+   "Delivery, comida a domicilio",
+   "Restaurantes",
+   "Take away, comida para llevar"
+  ]
+ },
+ {
+  "Nome local": "Art & Shushi",
+  "Teléfono": "881 948 605",
+  "Dirección": "Juan Flórez, 52 Bajo 2 - 15004 - A Coruña",
+  "Páxina web": "www.artandsushi.es",
+  "Etiquetas": [
+   "Delivery, comida a domicilio",
+   "Restaurantes",
+   "Restaurantes ",
+   "Japoneses",
+   "Take away, comida para llevar"
+  ]
+ },
+ {
+  "Nome local": "Artabria Restaurante",
+  "Teléfono": "981 269 646",
+  "Dirección": "Fernando Macías, 28 Bajo - 15004 - A Coruña",
+  "Páxina web": "www.restauranteartabria.com",
+  "Etiquetas": [
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "Arume",
+  "Teléfono": "981 206 047",
+  "Dirección": "Franja, 17 Bajo Dch. - 15001 - A Coruña",
+  "Páxina web": "Non dispoñible",
+  "Etiquetas": [
+   "Mesones y taperías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "As Cavas",
+  "Teléfono": "981 229 022",
+  "Dirección": "Galera, 30 Bajo - 15003 - A Coruña",
+  "Páxina web": "www.facebook.com/as-cavas",
+  "Etiquetas": [
+   "Mesones y taperías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "As Lanchiñas",
+  "Teléfono": "981 297 066",
+  "Dirección": "Nicomedes Pastor Díaz, 8 Bajo - 15006 - A Coruña",
+  "Páxina web": "www.facebook.com/as-lanchiñas",
+  "Etiquetas": [
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "As Neves Raxaría",
+  "Teléfono": "981 266 922",
+  "Dirección": "Ronda de Outeiro, 300 - 15011 - A Coruña",
+  "Páxina web": "www.raxariaasneves.es",
+  "Etiquetas": [
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "Attica 21",
+  "Teléfono": "981 179 299",
+  "Dirección": "Enrique Mariñas Romero, 34 - MATOGRANDE - 15009 - A Coruña",
+  "Páxina web": "www.attica21hotels.com",
+  "Etiquetas": [
+   "Hoteles",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "Avenida",
+  "Teléfono": "981 249 466",
+  "Dirección": "Ronda de Outeiro, 99 A - 15007 - A Coruña",
+  "Páxina web": "www.hotelavenida.com",
+  "Etiquetas": [
+   "Hoteles",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "A'Xanela",
+  "Teléfono": "881 069 855",
+  "Dirección": "Agra del Orzán, 5 - 15010 - A Coruña",
+  "Páxina web": "www.facebook.com/a-xanela",
+  "Etiquetas": [
+   "Asadores, parrilladas y churrasquerías",
+   "Mesones y taperías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "̶B̶â̶b̶â̶ ̶B̶a̶r",
+  "Teléfono": "̶N̶o̶n̶ ̶d̶i̶s̶p̶o̶ñ̶i̶b̶l̶e",
+  "Dirección": "̶J̶o̶s̶é̶ ̶L̶u̶i̶s̶ ̶P̶é̶r̶e̶z̶ ̶C̶e̶p̶e̶d̶a̶,̶ ̶2̶3̶ ̶S̶t̶n̶o̶.̶ ̶-̶ ̶1̶5̶0̶0̶4̶ ̶-̶ ̶A̶ ̶C̶o̶r̶u̶ñ̶a",
+  "Páxina web": "̶N̶o̶n̶ ̶d̶i̶s̶p̶o̶ñ̶i̶b̶l̶e",
+  "Etiquetas": [
+   "̶R̶e̶s̶t̶a̶u̶r̶a̶n̶t̶e̶s"
+  ]
+ },
+ {
+  "Nome local": "Barítono Gastrocurruncho",
+  "Teléfono": "881 922 412",
+  "Dirección": "Angel, 9 - 15001 - A Coruña",
+  "Páxina web": "baritono-gastrocurruncho.negocio.site",
+  "Etiquetas": [
+   "Gastrobar",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "Barlovento",
+  "Teléfono": "881 927 142",
+  "Dirección": "Federico Tapia, 19 Bajo - 15004 - A Coruña",
+  "Páxina web": "barloventobar.es",
+  "Etiquetas": [
+   "Hamburgueserías gourmet",
+   "Hamburgueserías y bocaterías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "Barrera",
+  "Teléfono": "981 227 484",
+  "Dirección": "Barrera, 22 Bajo - 15001 - A Coruña",
+  "Páxina web": "www.facebook.com/barrera",
+  "Etiquetas": [
+   "Mesones y taperías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "Basílico",
+  "Teléfono": "981 271 608",
+  "Dirección": "Manuel Murguía, 34 - 15011 - A Coruña",
+  "Páxina web": "www.restaurantebasilico.com",
+  "Etiquetas": [
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "Beautiful",
+  "Teléfono": "881 888 949",
+  "Dirección": "Rosalía de Castro, 13 Bajo Ozq. - 15004 - A Coruña",
+  "Páxina web": "www.facebook.com/beautiful",
+  "Etiquetas": [
+   "Asadores, parrilladas y churrasquerías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "Becerra",
+  "Teléfono": "981 233 905",
+  "Dirección": "Marqués de Figueroa, 8 - 15007 - A Coruña",
+  "Páxina web": "www.facebook.com/becerra",
+  "Etiquetas": [
+   "Bares y cafeterías",
+   "Cervecerías",
+   "Mesones y taperías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "Bellota",
+  "Teléfono": "881 888 053",
+  "Dirección": "Manuel Azaña, 29 - 15011 - A Coruña",
+  "Páxina web": "Non dispoñible",
+  "Etiquetas": [
+   "Bares y cafeterías",
+   "Jamonerías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "Bembiú Jazz",
+  "Teléfono": "881 123 399",
+  "Dirección": "María Luisa Durán Marquina, 6 Bajo - 15011 - A Coruña",
+  "Páxina web": "www.facebook.com/bembiu-jazz",
+  "Etiquetas": [
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "Bico Bar",
+  "Teléfono": "981 072 601",
+  "Dirección": "Trva. Orillamar, 2 - 15001 - A Coruña",
+  "Páxina web": "www.facebook.com/bico-bar",
+  "Etiquetas": [
+   "Bares y cafeterías",
+   "Coctelerías",
+   "Restaurantes",
+   "Restaurantes vegetarianos"
+  ]
+ },
+ {
+  "Nome local": "Boavista",
+  "Teléfono": "981 211 308",
+  "Dirección": "Real, 83 9ª Pl. (Sporting Club Casino) - 15003 - A Coruña",
+  "Páxina web": "www.restauranteboavista.com",
+  "Etiquetas": [
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "Boca Negra",
+  "Teléfono": "881 895 464",
+  "Dirección": "Riego de Agua, 33 - 15001 - A Coruña",
+  "Páxina web": "www.conceptonegra.com",
+  "Etiquetas": [
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "Bocalino",
+  "Teléfono": "981 228 597",
+  "Dirección": "Cordelería, 38 - 15003 - A Coruña",
+  "Páxina web": "Non dispoñible",
+  "Etiquetas": [
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "Bocarrana",
+  "Teléfono": "981 923 469",
+  "Dirección": "Emilia Pardo Bazán, 17 Bajo - 15005 - A Coruña",
+  "Páxina web": "www.facebook.com/bocarrana",
+  "Etiquetas": [
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "Bouquet",
+  "Teléfono": "639 903 336",
+  "Dirección": "Avda. de Calvo Sotelo, 3 Bajo Dcha. - 15004 - A Coruña",
+  "Páxina web": "Non dispoñible",
+  "Etiquetas": [
+   "Arrocerías",
+   "Restaurantes",
+   "Take away, comida para llevar"
+  ]
+ },
+ {
+  "Nome local": "Brasa y Vino",
+  "Teléfono": "981 226 892",
+  "Dirección": "Olmos, 27 Bajo - 15003 - A Coruña",
+  "Páxina web": "www.brasayvino.com",
+  "Etiquetas": [
+   "Asadores, parrilladas y churrasquerías",
+   "Restaurantes",
+   "Take away, comida para llevar"
+  ]
+ },
+ {
+  "Nome local": "Brisa",
+  "Teléfono": "981 269 650",
+  "Dirección": "Paseo de Ronda, 60 - 15011 - A Coruña",
+  "Páxina web": "www.hotel-brisa.es",
+  "Etiquetas": [
+   "Bares y cafeterías",
+   "Restaurantes",
+   "Take away, comida para llevar"
+  ]
+ },
+ {
+  "Nome local": "Buena Sombra",
+  "Teléfono": "981 923 460",
+  "Dirección": "Avda. de Fernández Latorre, 23 Baixo - 15006 - A Coruña",
+  "Páxina web": "Non dispoñible",
+  "Etiquetas": [
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "Buenos Aires",
+  "Teléfono": "981 249 830",
+  "Dirección": "San Leandro, 5 - 15005 - A Coruña",
+  "Páxina web": "www.parrillada-buenosaires.com",
+  "Etiquetas": [
+   "Asadores, parrilladas y churrasquerías",
+   "Delivery, comida a domicilio",
+   "Restaurantes",
+   "Take away, comida para llevar"
+  ]
+ },
+ {
+  "Nome local": "Bulevar",
+  "Teléfono": "881 873 429",
+  "Dirección": "Hospital, 15 Bajo - 15002 - A Coruña",
+  "Páxina web": "www.facebook.com/bulevar",
+  "Etiquetas": [
+   "Asadores, parrilladas y churrasquerías",
+   "Cervecerías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "Burger King",
+  "Teléfono": "Non dispoñible",
+  "Dirección": "Severo Ochoa, s/n - Polígono A Grela - A Coruña",
+  "Páxina web": "www.burgerking.es",
+  "Etiquetas": [
+   "Bares y cafeterías",
+   "Hamburgueserías y bocaterías",
+   "Restaurantes",
+   "Take away, comida para llevar"
+  ]
+ },
+ {
+  "Nome local": "Burger King",
+  "Teléfono": "Non dispoñible",
+  "Dirección": "Avda. del Pasaje, 63 - 15006 - A Coruña",
+  "Páxina web": "www.burgerking.es",
+  "Etiquetas": [
+   "Hamburgueserías y bocaterías",
+   "Restaurantes",
+   "Take away, comida para llevar"
+  ]
+ },
+ {
+  "Nome local": "Burger King",
+  "Teléfono": "682 070 739",
+  "Dirección": "Ronda de Outeiro, 219 - 15007 - A Coruña",
+  "Páxina web": "www.burgerking.es",
+  "Etiquetas": [
+   "Bares y cafeterías",
+   "Hamburgueserías y bocaterías",
+   "Restaurantes",
+   "Take away, comida para llevar"
+  ]
+ },
+ {
+  "Nome local": "Burger King",
+  "Teléfono": "881 923 274",
+  "Dirección": "Riego de Agua, 25-27 Bajo - 15003 - A Coruña",
+  "Páxina web": "www.burgerking.es",
+  "Etiquetas": [
+   "Bares y cafeterías",
+   "Hamburgueserías y bocaterías",
+   "Restaurantes",
+   "Take away, comida para llevar"
+  ]
+ },
+ {
+  "Nome local": "Burger King",
+  "Teléfono": "981 632 280",
+  "Dirección": "Ctra. Baños de Arteixo, 43 (C. Cial. Marineda City), Planta 2, Loc. 33 - 15008 - A Coruña",
+  "Páxina web": "www.burgerking.es",
+  "Etiquetas": [
+   "Bares y cafeterías",
+   "Hamburgueserías y bocaterías",
+   "Restaurantes",
+   "Take away, comida para llevar"
+  ]
+ },
+ {
+  "Nome local": "Burger King",
+  "Teléfono": "981 172 065",
+  "Dirección": "José Pascual López Cortón, 10 (C. Cial. Espacio Coruña), 3ª Pl., Loc. 3.39-3.40 - SOMESO - 15008 - A Coruña",
+  "Páxina web": "www.burgerking.es",
+  "Etiquetas": [
+   "Bares y cafeterías",
+   "Hamburgueserías y bocaterías",
+   "Restaurantes",
+   "Take away, comida para llevar"
+  ]
+ },
+ {
+  "Nome local": "Burger King",
+  "Teléfono": "881 913 763",
+  "Dirección": "Alfredo Vicenti, 28 bajo - 15005 - A Coruña",
+  "Páxina web": "www.burgerking.es",
+  "Etiquetas": [
+   "Bares y cafeterías",
+   "Hamburgueserías y bocaterías",
+   "Restaurantes",
+   "Take away, comida para llevar"
+  ]
+ },
+ {
+  "Nome local": "Calma Chicha Café",
+  "Teléfono": "881 913 634",
+  "Dirección": "Orillamar, 84 - 15002 - A Coruña",
+  "Páxina web": "calmachichacafe.blogspot.com.es",
+  "Etiquetas": [
+   "Bares y cafeterías",
+   "Delivery, comida a domicilio",
+   "Restaurantes",
+   "Take away, comida para llevar"
+  ]
+ },
+ {
+  "Nome local": "Cambalache",
+  "Teléfono": "981 632 517",
+  "Dirección": "Ctra. Baños de Arteixo, 43 (C. Cial. Marineda City), Planta 2, Loc. 9 - 15008 - A Coruña",
+  "Páxina web": "www.pizzeriascambalache.es",
+  "Etiquetas": [
+   "Restaurantes",
+   "Restaurantes ",
+   "Argentinos",
+   "Restaurantes ",
+   "Italianos y pizzerías",
+   "Take away, comida para llevar"
+  ]
+ },
+ {
+  "Nome local": "Cambalache",
+  "Teléfono": "981 153 030",
+  "Dirección": "Concepción Arenal, 5 - A Coruña",
+  "Páxina web": "www.pizzeriascambalache.es",
+  "Etiquetas": [
+   "Delivery, comida a domicilio",
+   "Restaurantes",
+   "Restaurantes ",
+   "Italianos y pizzerías",
+   "Take away, comida para llevar"
+  ]
+ },
+ {
+  "Nome local": "Cambalache",
+  "Teléfono": "981 204 090",
+  "Dirección": "Paseo de Ronda, 19-21 - 15011 - A Coruña",
+  "Páxina web": "www.pizzeriascambalache.es",
+  "Etiquetas": [
+   "Delivery, comida a domicilio",
+   "Restaurantes",
+   "Restaurantes ",
+   "Argentinos",
+   "Restaurantes ",
+   "Italianos y pizzerías",
+   "Take away, comida para llevar"
+  ]
+ },
+ {
+  "Nome local": "Cambalache",
+  "Teléfono": "981 212 129",
+  "Dirección": "Avda. de Pedro Barrié de La Maza, 17 Bajo - 15003 - A Coruña",
+  "Páxina web": "www.pizzeriascambalache.es",
+  "Etiquetas": [
+   "Restaurantes",
+   "Restaurantes ",
+   "Argentinos",
+   "Restaurantes ",
+   "Italianos y pizzerías",
+   "Take away, comida para llevar"
+  ]
+ },
+ {
+  "Nome local": "Cambalache",
+  "Teléfono": "981 205 834",
+  "Dirección": "Pza. de María Pita, 14 Bajo - 15001 - A Coruña",
+  "Páxina web": "www.pizzeriascambalache.es",
+  "Etiquetas": [
+   "Delivery, comida a domicilio",
+   "Restaurantes",
+   "Restaurantes ",
+   "Argentinos",
+   "Restaurantes ",
+   "Italianos y pizzerías",
+   "Take away, comida para llevar"
+  ]
+ },
+ {
+  "Nome local": "Cambalache - Fábrica",
+  "Teléfono": "981 131 184",
+  "Dirección": "Calle 2, 9-13 - PO.CO.MA.CO. - 15190 - A Coruña",
+  "Páxina web": "www.pizzeriascambalache.es",
+  "Etiquetas": [
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "Cancelo",
+  "Teléfono": "981 259 024",
+  "Dirección": "Ronda de Outeiro, 258 - 15010 - A Coruña",
+  "Páxina web": "Non dispoñible",
+  "Etiquetas": [
+   "Marisquerías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "Cannibal",
+  "Teléfono": "881 963 250",
+  "Dirección": "Estrella, 4 - 15003 - A Coruña",
+  "Páxina web": "www.cannibalrawbar.es",
+  "Etiquetas": [
+   "Restaurantes",
+   "Tiendas de vinos, vinotecas, enotecas"
+  ]
+ },
+ {
+  "Nome local": "Cantante Nancy's",
+  "Teléfono": "881 123 666",
+  "Dirección": "Ronda de Nelle, 108 Bajo - 15010 - A Coruña",
+  "Páxina web": "Non dispoñible",
+  "Etiquetas": [
+   "Bares y cafeterías",
+   "Restaurantes",
+   "Restaurantes ",
+   "Peruanos"
+  ]
+ },
+ {
+  "Nome local": "̶C̶a̶p̶r̶i̶c̶e",
+  "Teléfono": "̶N̶o̶n̶ ̶d̶i̶s̶p̶o̶ñ̶i̶b̶l̶e",
+  "Dirección": "̶E̶n̶r̶i̶q̶u̶e̶ ̶M̶a̶r̶i̶ñ̶a̶s̶ ̶R̶o̶m̶e̶r̶o̶,̶ ̶3̶6̶ ̶B̶a̶j̶o̶ ̶-̶ ̶M̶A̶T̶O̶G̶R̶A̶N̶D̶E̶ ̶-̶ ̶1̶5̶0̶0̶9̶ ̶-̶ ̶A̶ ̶C̶o̶r̶u̶ñ̶a",
+  "Páxina web": "̶N̶o̶n̶ ̶d̶i̶s̶p̶o̶ñ̶i̶b̶l̶e",
+  "Etiquetas": [
+   "̶B̶a̶r̶e̶s̶ ̶y̶ ̶c̶a̶f̶e̶t̶e̶r̶í̶a̶s",
+   "̶H̶a̶m̶b̶u̶r̶g̶u̶e̶s̶e̶r̶í̶a̶s̶ ̶y̶ ̶b̶o̶c̶a̶t̶e̶r̶í̶a̶s",
+   "̶R̶e̶s̶t̶a̶u̶r̶a̶n̶t̶e̶s",
+   "̶T̶a̶k̶e̶ ̶a̶w̶a̶y̶,̶ ̶c̶o̶m̶i̶d̶a̶ ̶p̶a̶r̶a̶ ̶l̶l̶e̶v̶a̶r"
+  ]
+ },
+ {
+  "Nome local": "Caprice",
+  "Teléfono": "981 131 603",
+  "Dirección": "Francisco Pérez Carballo, 5 (C. Cial. Carrefour Alfonso Molina) - 15008 - A Coruña",
+  "Páxina web": "Non dispoñible",
+  "Etiquetas": [
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "Carris Marineda",
+  "Teléfono": "981 632 436",
+  "Dirección": "Ctra. Baños de Arteixo, 43 (C.Cial. Marineda City) - 15008 - A Coruña",
+  "Páxina web": "www.carrishoteles.com",
+  "Etiquetas": [
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "Cartal & Fénix",
+  "Teléfono": "981 131 374",
+  "Dirección": "Ctra. Baños de Arteixo, 14 - Polígono A Grela - 15008 - A Coruña",
+  "Páxina web": "Non dispoñible",
+  "Etiquetas": [
+   "Bares y cafeterías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "Casa Bieito",
+  "Teléfono": "691 991 639",
+  "Dirección": "Manuel Murguía, 2 Bajo Dcha. - 15011 - A Coruña",
+  "Páxina web": "www.facebook.com/casa-bieito",
+  "Etiquetas": [
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "Casa Canosa",
+  "Teléfono": "981 280 235",
+  "Dirección": "Someso, 2 - 15008 - A Coruña",
+  "Páxina web": "Non dispoñible",
+  "Etiquetas": [
+   "Hoteles",
+   "Pensiones",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "Casa Cuba",
+  "Teléfono": "981 232 412",
+  "Dirección": "Avda. Alcalde Alfonso Molina, 7 (Al lado Cuatro Caminos) - 15006 - A Coruña",
+  "Páxina web": "restaurantecasacuba.es",
+  "Etiquetas": [
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "Casa de Andalucía",
+  "Teléfono": "981 152 160",
+  "Dirección": "Avda. Ferrocarril, 64 Bajo - 15008 - A Coruña",
+  "Páxina web": "www.facebook.com/casa-de-andalucia",
+  "Etiquetas": [
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "Casa de Cantabria",
+  "Teléfono": "981 290 493",
+  "Dirección": "Mendaña de Neyra, 2 bajo - A Coruña",
+  "Páxina web": "casadecantabria.com",
+  "Etiquetas": [
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "Casa de León",
+  "Teléfono": "981 152 240",
+  "Dirección": "Noya, 50 Bajos - 15007 - A Coruña",
+  "Páxina web": "casaleoncorunaccyl.com",
+  "Etiquetas": [
+   "Centros culturales, teatros",
+   "Mesones y taperías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "Casa Juana",
+  "Teléfono": "981 299 858",
+  "Dirección": "5ª Avda., 2 - PO.CO.MA.CO. - 15190 - A Coruña",
+  "Páxina web": "www.hostalrestaurantecasajuana.com",
+  "Etiquetas": [
+   "Hoteles",
+   "Pensiones",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "Casa Lelín",
+  "Teléfono": "881 942 453",
+  "Dirección": "Olmos, 16-18 - 15003 - A Coruña",
+  "Páxina web": "www.facebook.com/casa-lelin",
+  "Etiquetas": [
+   "Mesones y taperías",
+   "Restaurantes",
+   "Sidrerías"
+  ]
+ },
+ {
+  "Nome local": "Casa Los Manueles",
+  "Teléfono": "981 280 855",
+  "Dirección": "Ctra. Puente del Pasaje al Burgo, 19 Bajo - 15009 - A Coruña",
+  "Páxina web": "www.casalosmanueles.com",
+  "Etiquetas": [
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "Casa Matilde",
+  "Teléfono": "981 914 444",
+  "Dirección": "Atocha Alta, 33 Bajo - 15002 - A Coruña",
+  "Páxina web": "www.facebook.com/casa-matilde",
+  "Etiquetas": [
+   "Asadores, parrilladas y churrasquerías",
+   "Bares y cafeterías",
+   "Mesones y taperías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "Casa Novo",
+  "Teléfono": "981 922 614",
+  "Dirección": "Perú, 2 - 15011 - A Coruña",
+  "Páxina web": "Non dispoñible",
+  "Etiquetas": [
+   "Bares y cafeterías",
+   "Restaurantes",
+   "Tiendas de vinos, vinotecas, enotecas"
+  ]
+ },
+ {
+  "Nome local": "Casa Peón",
+  "Teléfono": "981 250 016",
+  "Dirección": "Padre Sarmiento, 3 - 15005 - A Coruña",
+  "Páxina web": "Non dispoñible",
+  "Etiquetas": [
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "Casa Pilar",
+  "Teléfono": "Non dispoñible",
+  "Dirección": "Emilia Pardo Bazán, 40 bajo - 15005 - A Coruña",
+  "Páxina web": "www.facebook.com/casa-pilar",
+  "Etiquetas": [
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "Casa Ponte",
+  "Teléfono": "981 249 998",
+  "Dirección": "Juan Flórez, 95 - A Coruña",
+  "Páxina web": "www.facebook.com/casa-ponte",
+  "Etiquetas": [
+   "Mesones y taperías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "Casa Raxo",
+  "Teléfono": "881 879 972",
+  "Dirección": "Antonio Ríos, 65 Bajo C - 15009 - A Coruña",
+  "Páxina web": "Non dispoñible",
+  "Etiquetas": [
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "Casa Rita",
+  "Teléfono": "881 927 015",
+  "Dirección": "Payo Gómez, 8 - 15004 - A Coruña",
+  "Páxina web": "www.facebook.com/casa-rita",
+  "Etiquetas": [
+   "Bares y cafeterías",
+   "Restaurantes",
+   "Vermuterías"
+  ]
+ },
+ {
+  "Nome local": "Casa Saqués",
+  "Teléfono": "981 280 245",
+  "Dirección": "Avda. Oza, 41 - 15006 - A Coruña",
+  "Páxina web": "casa-saques.negocio.site",
+  "Etiquetas": [
+   "Bares y cafeterías",
+   "Mesones y taperías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "Castillo",
+  "Teléfono": "881 068 365",
+  "Dirección": "Magistrado Manuel Artime, 24 Bajo - A Coruña",
+  "Páxina web": "Non dispoñible",
+  "Etiquetas": [
+   "Bares y cafeterías",
+   "Cervecerías",
+   "Mesones y taperías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "Cazolo Furado",
+  "Teléfono": "881 082 086",
+  "Dirección": "Avda. de Peruleiro, 18 - 15011 - A Coruña",
+  "Páxina web": "www.facebook.com/cazolo-furado",
+  "Etiquetas": [
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "Central Park",
+  "Teléfono": "881 967 390",
+  "Dirección": "Menéndez Pelayo, 7 (Plaza de Vigo) - 15005 - A Coruña",
+  "Páxina web": "www.centralparkcoruna.es",
+  "Etiquetas": [
+   "Bares y cafeterías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "Centro Gallego",
+  "Teléfono": "981 222 236",
+  "Dirección": "Estrella, 2 - 15003 - A Coruña",
+  "Páxina web": "www.centrogallegocoruna.com",
+  "Etiquetas": [
+   "Bares y cafeterías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "Cerro Largo",
+  "Teléfono": "881 917 844",
+  "Dirección": "Avda. de Finisterre, 288 - 15010 - A Coruña",
+  "Páxina web": "Non dispoñible",
+  "Etiquetas": [
+   "Bares y cafeterías",
+   "Cervecerías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "Che!!! Restaurant",
+  "Teléfono": "981 632 389",
+  "Dirección": "Ctra. Baños de Arteixo, 43 (C. Cial. Marineda City) Plta. 2, Loc. 5 - 15008 - A Coruña",
+  "Páxina web": "www.cherestaurant.es",
+  "Etiquetas": [
+   "Asadores, parrilladas y churrasquerías",
+   "Restaurantes",
+   "Restaurantes ",
+   "Argentinos",
+   "Restaurantes ",
+   "Italianos y pizzerías"
+  ]
+ },
+ {
+  "Nome local": "Cheese Me",
+  "Teléfono": "881 940 251",
+  "Dirección": "Olmos, 2 bajo - 15003 - A Coruña",
+  "Páxina web": "www.facebook.com/cheese-me",
+  "Etiquetas": [
+   "Restaurantes",
+   "Restaurantes ",
+   "Franceses"
+  ]
+ },
+ {
+  "Nome local": "Chirashizushi",
+  "Teléfono": "881 922 539",
+  "Dirección": "San Juan, 29 Bajo - 15001 - A Coruña",
+  "Páxina web": "www.chirashizushi.es",
+  "Etiquetas": [
+   "Delivery, comida a domicilio",
+   "Restaurantes",
+   "Restaurantes ",
+   "Japoneses",
+   "Take away, comida para llevar"
+  ]
+ },
+ {
+  "Nome local": "Chitín",
+  "Teléfono": "881 082 824",
+  "Dirección": "Emilia Pardo Bazán, 14 - 15005 - A Coruña",
+  "Páxina web": "www.chitin.es",
+  "Etiquetas": [
+   "Bares y cafeterías",
+   "Restaurantes",
+   "Take away, comida para llevar",
+   "Vermuterías"
+  ]
+ },
+ {
+  "Nome local": "Comarea",
+  "Teléfono": "981 132 658",
+  "Dirección": "Carlos Martínez Barbeito y Morás, 4 Bajo - MATOGRANDE - 15009 - A Coruña",
+  "Páxina web": "www.grupocomarea.com",
+  "Etiquetas": [
+   "Arrocerías",
+   "Gastrobar",
+   "Restaurantes",
+   "Tiendas de vinos, vinotecas, enotecas"
+  ]
+ },
+ {
+  "Nome local": "Comarea",
+  "Teléfono": "881 898 534",
+  "Dirección": "Enrique Mariñas Romero, 1 Bajo - 15009 - A Coruña",
+  "Páxina web": "www.grupocomarea.com",
+  "Etiquetas": [
+   "Arrocerías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "Comarea Marina",
+  "Teléfono": "981 208 885",
+  "Dirección": "Paseo Marítimo Alcalde Francisco Vázquez, s/n - 15002 - A Coruña",
+  "Páxina web": "www.grupocomarea.com",
+  "Etiquetas": [
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "̶C̶o̶m̶e̶ ̶y̶ ̶C̶a̶ñ̶a",
+  "Teléfono": "̶N̶o̶n̶ ̶d̶i̶s̶p̶o̶ñ̶i̶b̶l̶e",
+  "Dirección": "̶F̶r̶a̶n̶j̶a̶,̶ ̶5̶6̶ ̶b̶a̶j̶o̶ ̶-̶ ̶A̶ ̶C̶o̶r̶u̶ñ̶a",
+  "Páxina web": "̶N̶o̶n̶ ̶d̶i̶s̶p̶o̶ñ̶i̶b̶l̶e",
+  "Etiquetas": [
+   "̶R̶e̶s̶t̶a̶u̶r̶a̶n̶t̶e̶s"
+  ]
+ },
+ {
+  "Nome local": "̶C̶o̶m̶e̶r̶ ̶y̶ ̶P̶i̶c̶a̶r",
+  "Teléfono": "̶N̶o̶n̶ ̶d̶i̶s̶p̶o̶ñ̶i̶b̶l̶e",
+  "Dirección": "̶C̶o̶m̶a̶n̶d̶a̶n̶t̶e̶ ̶F̶o̶n̶t̶a̶n̶e̶s̶,̶ ̶1̶ ̶B̶a̶j̶o̶ ̶-̶ ̶1̶5̶0̶0̶3̶ ̶-̶ ̶A̶ ̶C̶o̶r̶u̶ñ̶a",
+  "Páxina web": "̶N̶o̶n̶ ̶d̶i̶s̶p̶o̶ñ̶i̶b̶l̶e",
+  "Etiquetas": [
+   "̶R̶e̶s̶t̶a̶u̶r̶a̶n̶t̶e̶s"
+  ]
+ },
+ {
+  "Nome local": "Con Dos Fogones",
+  "Teléfono": "881 069 318",
+  "Dirección": "Severo Ochoa, 5 bajo - Polígono A Grela - 15008 - A Coruña",
+  "Páxina web": "www.facebook.com/con-dos-fogones",
+  "Etiquetas": [
+   "Bares y cafeterías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "Confort",
+  "Teléfono": "981 901 448",
+  "Dirección": "Francisco Catoira, 25 Bajo - 15007 - A Coruña",
+  "Páxina web": "Non dispoñible",
+  "Etiquetas": [
+   "Bares y cafeterías",
+   "Mesones y taperías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "̶C̶o̶r̶t̶e̶g̶a̶d̶a",
+  "Teléfono": "̶N̶o̶n̶ ̶d̶i̶s̶p̶o̶ñ̶i̶b̶l̶e",
+  "Dirección": "̶F̶e̶d̶e̶r̶i̶c̶o̶ ̶G̶a̶r̶c̶í̶a̶,̶ ̶3̶ ̶B̶a̶j̶o̶ ̶-̶ ̶1̶5̶0̶0̶9̶ ̶-̶ ̶A̶ ̶C̶o̶r̶u̶ñ̶a",
+  "Páxina web": "̶N̶o̶n̶ ̶d̶i̶s̶p̶o̶ñ̶i̶b̶l̶e",
+  "Etiquetas": [
+   "̶R̶e̶s̶t̶a̶u̶r̶a̶n̶t̶e̶s"
+  ]
+ },
+ {
+  "Nome local": "Coruña",
+  "Teléfono": "981 240 157",
+  "Dirección": "Pza. Alcalde José Crespo López Mora, 4 Bajo A - 15008 - A Coruña",
+  "Páxina web": "www.facebook.com/coruña",
+  "Etiquetas": [
+   "Asadores, parrilladas y churrasquerías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "Cosecha 81",
+  "Teléfono": "881 896 481",
+  "Dirección": "Nicomedes Pastor Díaz, 11 - 15006 - A Coruña",
+  "Páxina web": "www.facebook.com/cosecha-81",
+  "Etiquetas": [
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "Cristal",
+  "Teléfono": "881 068 053",
+  "Dirección": "Fariña Ferreño, 4 Bajo - 15009 - A Coruña",
+  "Páxina web": "www.facebook.com/cristal",
+  "Etiquetas": [
+   "Bares y cafeterías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "Culuca",
+  "Teléfono": "981 978 898",
+  "Dirección": "Avda. Arteixo, 10 - 15004 - A Coruña",
+  "Páxina web": "www.culuca.com",
+  "Etiquetas": [
+   "Bares y cafeterías",
+   "Catering",
+   "Restaurantes",
+   "Take away, comida para llevar"
+  ]
+ },
+ {
+  "Nome local": "D' Jaime",
+  "Teléfono": "Non dispoñible",
+  "Dirección": "Médico Rodríguez, 13 bajo - 15004 - A Coruña",
+  "Páxina web": "Non dispoñible",
+  "Etiquetas": [
+   "Bares y cafeterías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "D´Marino",
+  "Teléfono": "881 899 201",
+  "Dirección": "Franja, 49 bajo - 15001 - A Coruña",
+  "Páxina web": "Non dispoñible",
+  "Etiquetas": [
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "D'Al Lado",
+  "Teléfono": "981 213 355",
+  "Dirección": "Pza. de España, 15 - 15001 - A Coruña",
+  "Páxina web": "www.deallado.com",
+  "Etiquetas": [
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "Deportivo Ciudad",
+  "Teléfono": "Non dispoñible",
+  "Dirección": "Tinajas, 12-14 - 15001 - A Coruña",
+  "Páxina web": "Non dispoñible",
+  "Etiquetas": [
+   "Bares y cafeterías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "Do Bao",
+  "Teléfono": "981 261 510",
+  "Dirección": "Julio Rodríguez Yordi, 10 Bajo - 15011 - A Coruña",
+  "Páxina web": "www.facebook.com/do-bao",
+  "Etiquetas": [
+   "Mesones y taperías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "̶D̶o̶g̶g̶i̶e̶s",
+  "Teléfono": "̶N̶o̶n̶ ̶d̶i̶s̶p̶o̶ñ̶i̶b̶l̶e",
+  "Dirección": "̶A̶n̶t̶o̶n̶i̶o̶ ̶N̶o̶c̶h̶e̶ ̶L̶ó̶p̶e̶z̶,̶ ̶2̶8̶ ̶B̶a̶j̶o̶ ̶D̶c̶h̶a̶.̶ ̶-̶ ̶1̶5̶0̶0̶9̶ ̶-̶ ̶A̶ ̶C̶o̶r̶u̶ñ̶a",
+  "Páxina web": "̶N̶o̶n̶ ̶d̶i̶s̶p̶o̶ñ̶i̶b̶l̶e",
+  "Etiquetas": [
+   "̶H̶a̶m̶b̶u̶r̶g̶u̶e̶s̶e̶r̶í̶a̶s̶ ̶g̶o̶u̶r̶m̶e̶t",
+   "̶H̶a̶m̶b̶u̶r̶g̶u̶e̶s̶e̶r̶í̶a̶s̶ ̶y̶ ̶b̶o̶c̶a̶t̶e̶r̶í̶a̶s",
+   "̶R̶e̶s̶t̶a̶u̶r̶a̶n̶t̶e̶s"
+  ]
+ },
+ {
+  "Nome local": "Domino's Pizza",
+  "Teléfono": "981 928 760",
+  "Dirección": "Ramón del Cueto, 19 bajo - 15002 - A Coruña",
+  "Páxina web": "www.dominospizza.es",
+  "Etiquetas": [
+   "Delivery, comida a domicilio",
+   "Restaurantes",
+   "Restaurantes ",
+   "Italianos y pizzerías",
+   "Take away, comida para llevar"
+  ]
+ },
+ {
+  "Nome local": "Domino's Pizza",
+  "Teléfono": "881 918 203",
+  "Dirección": "Avda. Salvador de Madariaga, 36 - 15008 - A Coruña",
+  "Páxina web": "www.dominospizza.es",
+  "Etiquetas": [
+   "Delivery, comida a domicilio",
+   "Restaurantes",
+   "Restaurantes ",
+   "Italianos y pizzerías",
+   "Take away, comida para llevar"
+  ]
+ },
+ {
+  "Nome local": "Domino's Pizza",
+  "Teléfono": "981 904 081",
+  "Dirección": "Avda. de Finisterre, 263 Loc.10 - 15010 - A Coruña",
+  "Páxina web": "www.dominospizza.es",
+  "Etiquetas": [
+   "Delivery, comida a domicilio",
+   "Restaurantes",
+   "Restaurantes ",
+   "Italianos y pizzerías",
+   "Take away, comida para llevar"
+  ]
+ },
+ {
+  "Nome local": "Domus",
+  "Teléfono": "981 201 136",
+  "Dirección": "Angel Rebollo, s/n bajo - 15002 - A Coruña",
+  "Páxina web": "www.facebook.com/domus",
+  "Etiquetas": [
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "̶D̶'̶S̶i̶e̶m̶p̶r̶e",
+  "Teléfono": "̶N̶o̶n̶ ̶d̶i̶s̶p̶o̶ñ̶i̶b̶l̶e",
+  "Dirección": "̶M̶i̶r̶a̶m̶a̶r̶ ̶C̶a̶s̶t̶r̶i̶l̶l̶ó̶n̶,̶ ̶2̶ ̶B̶a̶j̶o̶ ̶-̶ ̶1̶5̶0̶0̶9̶ ̶-̶ ̶A̶ ̶C̶o̶r̶u̶ñ̶a",
+  "Páxina web": "̶N̶o̶n̶ ̶d̶i̶s̶p̶o̶ñ̶i̶b̶l̶e",
+  "Etiquetas": [
+   "̶B̶a̶r̶e̶s̶ ̶y̶ ̶c̶a̶f̶e̶t̶e̶r̶í̶a̶s",
+   "̶R̶e̶s̶t̶a̶u̶r̶a̶n̶t̶e̶s"
+  ]
+ },
+ {
+  "Nome local": "Eclectic",
+  "Teléfono": "617 621 423",
+  "Dirección": "Oliva, 3 Bajo - 15001 - A Coruña",
+  "Páxina web": "www.eclecticrestaurante.com",
+  "Etiquetas": [
+   "Gastrobar",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "El 10",
+  "Teléfono": "981 207 153",
+  "Dirección": "Pza. de España, 8 - 15001 - A Coruña",
+  "Páxina web": "www.marisqueriael10.es",
+  "Etiquetas": [
+   "Marisquerías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "El Almendro",
+  "Teléfono": "981 259 289",
+  "Dirección": "Avda. de Gran Canaria, 28 (Esq. Ronda de Outeiro, 406) - 15011 - A Coruña",
+  "Páxina web": "www.facebook.com/el-almendro",
+  "Etiquetas": [
+   "Asadores, parrilladas y churrasquerías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "El Atlántico",
+  "Teléfono": "981 904 731",
+  "Dirección": "Angel Rebollo, 90 Bajo - 15002 - A Coruña",
+  "Páxina web": "www.restaurantelatlantico.es/principal.html",
+  "Etiquetas": [
+   "Asadores, parrilladas y churrasquerías",
+   "Restaurantes",
+   "Restaurantes ",
+   "Argentinos"
+  ]
+ },
+ {
+  "Nome local": "El Birloque",
+  "Teléfono": "981 131 267",
+  "Dirección": "Birloque, 8 Bajo - 15008 - A Coruña",
+  "Páxina web": "Non dispoñible",
+  "Etiquetas": [
+   "Mesones y taperías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "El Cantoncillo",
+  "Teléfono": "981 228 196",
+  "Dirección": "Pza. del General Azcárraga, 1 A - 15001 - A Coruña",
+  "Páxina web": "Non dispoñible",
+  "Etiquetas": [
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "El Capricho de Conchiñas",
+  "Teléfono": "881 878 245",
+  "Dirección": "Avda. Conchiñas, 24 Bajo Izq. - 15010 - A Coruña",
+  "Páxina web": "www.facebook.com/el-capricho-de-conchiñas",
+  "Etiquetas": [
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "El Charrúa",
+  "Teléfono": "881 927 582",
+  "Dirección": "Estrella, 6 - 15003 - A Coruña",
+  "Páxina web": "www.elcharrua.es",
+  "Etiquetas": [
+   "Asadores, parrilladas y churrasquerías",
+   "Restaurantes",
+   "Restaurantes ",
+   "Argentinos"
+  ]
+ },
+ {
+  "Nome local": "El Cigarral",
+  "Teléfono": "663 301 680",
+  "Dirección": "Primavera, 7 Bajo - 15006 - A Coruña",
+  "Páxina web": "www.elcigarral.es",
+  "Etiquetas": [
+   "Bares y cafeterías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "El de Alberto",
+  "Teléfono": "981 907 411",
+  "Dirección": "Comandante Fontanes, 1 Bajo - 15003 - A Coruña",
+  "Páxina web": "www.facebook.com/el-de-alberto",
+  "Etiquetas": [
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "El Ensanche",
+  "Teléfono": "881 896 498",
+  "Dirección": "Rosalía de Castro, 4 Bajo Dcha. - 15004 - A Coruña",
+  "Páxina web": "Non dispoñible",
+  "Etiquetas": [
+   "Jamonerías",
+   "Restaurantes",
+   "Tiendas de vinos, vinotecas, enotecas"
+  ]
+ },
+ {
+  "Nome local": "El Hoyo",
+  "Teléfono": "881 019 180",
+  "Dirección": "Copérnico, 3 Bajo - Polígono A Grela - 15008 - A Coruña",
+  "Páxina web": "www.facebook.com/el-hoyo",
+  "Etiquetas": [
+   "Bares y cafeterías",
+   "Cervecerías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "El Invernadero",
+  "Teléfono": "981 925 616",
+  "Dirección": "Pensamientos, 10 - A Coruña",
+  "Páxina web": "www.facebook.com/el-invernadero",
+  "Etiquetas": [
+   "Bares y cafeterías",
+   "Delivery, comida a domicilio",
+   "Restaurantes",
+   "Take away, comida para llevar"
+  ]
+ },
+ {
+  "Nome local": "El Local 20",
+  "Teléfono": "981 926 944",
+  "Dirección": "Pza. Alfonso XIII, 7 - 15008 - A Coruña",
+  "Páxina web": "Non dispoñible",
+  "Etiquetas": [
+   "Bares y cafeterías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "El Matadero",
+  "Teléfono": "981 270 747",
+  "Dirección": "Gambrinus, 28-30 - Polígono A Grela - 15008 - A Coruña",
+  "Páxina web": "Non dispoñible",
+  "Etiquetas": [
+   "Bares y cafeterías",
+   "Cervecerías",
+   "Restaurantes",
+   "Take away, comida para llevar"
+  ]
+ },
+ {
+  "Nome local": "El Mesón del Abuelo",
+  "Teléfono": "981 273 702",
+  "Dirección": "Ronda de Outeiro, 267 Bajo - 15011 - A Coruña",
+  "Páxina web": "Non dispoñible",
+  "Etiquetas": [
+   "Mesones y taperías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "El Pantalán Rest Club",
+  "Teléfono": "Non dispoñible",
+  "Dirección": "Dársena de Oza, s/n - 15006 - A Coruña",
+  "Páxina web": "www.facebook.com/el-pantalan-rest-club",
+  "Etiquetas": [
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "El Pentágono",
+  "Teléfono": "881 916 010",
+  "Dirección": "Gutenberg, 23 - Polígono A Grela - 15008 - A Coruña",
+  "Páxina web": "Non dispoñible",
+  "Etiquetas": [
+   "Bares y cafeterías",
+   "Cervecerías",
+   "Mesones y taperías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "El Pescador",
+  "Teléfono": "981 246 824",
+  "Dirección": "Médico Rodríguez, 15 Bajo - 15004 - A Coruña",
+  "Páxina web": "www.restauranteelpescador.com",
+  "Etiquetas": [
+   "Bares y cafeterías",
+   "Cervecerías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "El Rincón de Eli",
+  "Teléfono": "881 873 246",
+  "Dirección": "Estrella, 42 Bajo - 15003 - A Coruña",
+  "Páxina web": "Non dispoñible",
+  "Etiquetas": [
+   "Mesones y taperías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "El Rincón de Fredy",
+  "Teléfono": "881 922 527",
+  "Dirección": "Fama, 1 - 15004 - A Coruña",
+  "Páxina web": "www.facebook.com/el-rincon-de-fredy",
+  "Etiquetas": [
+   "Arrocerías",
+   "Asadores, parrilladas y churrasquerías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "El Rincón del Reino",
+  "Teléfono": "881 913 960",
+  "Dirección": "Castiñeiras de Abajo, 24-26 Bajo - 15006 - A Coruña",
+  "Páxina web": "Non dispoñible",
+  "Etiquetas": [
+   "Restaurantes",
+   "Take away, comida para llevar"
+  ]
+ },
+ {
+  "Nome local": "El Sauce",
+  "Teléfono": "981 220 920",
+  "Dirección": "Sinagoga, 8 Bajo - 15001 - A Coruña",
+  "Páxina web": "Non dispoñible",
+  "Etiquetas": [
+   "Mesones y taperías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "El Serrano",
+  "Teléfono": "981 220 353",
+  "Dirección": "Galera, 21 - 15003 - A Coruña",
+  "Páxina web": "www.elserrano.es",
+  "Etiquetas": [
+   "Jamonerías",
+   "Mesones y taperías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "El Tapeo",
+  "Teléfono": "981 246 849",
+  "Dirección": "Noya, 29 - 15007 - A Coruña",
+  "Páxina web": "Non dispoñible",
+  "Etiquetas": [
+   "Bares y cafeterías",
+   "Mesones y taperías",
+   "Restaurantes",
+   "Take away, comida para llevar"
+  ]
+ },
+ {
+  "Nome local": "El Tránsito 3",
+  "Teléfono": "699 669 474",
+  "Dirección": "Copérnico, 3 bajo - Polígono A Grela - 15008 - A Coruña",
+  "Páxina web": "www.facebook.com/el-transito-3",
+  "Etiquetas": [
+   "Bares y cafeterías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "El Trastero",
+  "Teléfono": "629 828 445",
+  "Dirección": "Barrera, 17 Bajo - 15001 - A Coruña",
+  "Páxina web": "Non dispoñible",
+  "Etiquetas": [
+   "Mesones y taperías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "Entre 2",
+  "Teléfono": "881 888 673",
+  "Dirección": "Emilia Pardo Bazán, 7 Bajo - 15005 - A Coruña",
+  "Páxina web": "www.facebook.com/entre-2",
+  "Etiquetas": [
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "Entre Bateas",
+  "Teléfono": "981 111 949",
+  "Dirección": "Franja, 48 - 15001 - A Coruña",
+  "Páxina web": "Non dispoñible",
+  "Etiquetas": [
+   "Catering",
+   "Mesones y taperías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "Enzo's",
+  "Teléfono": "981 228 328",
+  "Dirección": "Agar, 2 Bajo - 15001 - A Coruña",
+  "Páxina web": "www.enzos.es",
+  "Etiquetas": [
+   "Delivery, comida a domicilio",
+   "Restaurantes",
+   "Restaurantes ",
+   "Italianos y pizzerías",
+   "Take away, comida para llevar"
+  ]
+ },
+ {
+  "Nome local": "Esencia",
+  "Teléfono": "981 290 111",
+  "Dirección": "Avda. de Fernández Latorre, 45 - 15006 - A Coruña",
+  "Páxina web": "www.hotelplaza.es",
+  "Etiquetas": [
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "Finisterrae",
+  "Teléfono": "981 209 077",
+  "Dirección": "Avda. de Navarra, 63 - 15002 - A Coruña",
+  "Páxina web": "www.restaurantedelatorre.com",
+  "Etiquetas": [
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "Finisterrae",
+  "Teléfono": "981 217 682",
+  "Dirección": "Paseo Marítimo Alcalde Francisco Vázquez, s/n - 15002 - A Coruña",
+  "Páxina web": "www.restaurantedelacuario.com",
+  "Etiquetas": [
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "Fire Capitano",
+  "Teléfono": "881 068 066",
+  "Dirección": "Federico García, 2 - 15009 - A Coruña",
+  "Páxina web": "www.firecapitano.es",
+  "Etiquetas": [
+   "Bares y cafeterías",
+   "Restaurantes",
+   "Restaurantes ",
+   "Italianos y pizzerías"
+  ]
+ },
+ {
+  "Nome local": "Fondeadero",
+  "Teléfono": "981 918 208",
+  "Dirección": "Galera, 17 - 15003 - A Coruña",
+  "Páxina web": "www.facebook.com/fondeadero",
+  "Etiquetas": [
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "Fontenova",
+  "Teléfono": "981 141 099",
+  "Dirección": "Avda. de Finisterre, 388 - Polígono A Grela - 15010 - A Coruña",
+  "Páxina web": "www.facebook.com/fontenova",
+  "Etiquetas": [
+   "Asadores, parrilladas y churrasquerías",
+   "Bares y cafeterías",
+   "Restaurantes",
+   "Take away, comida para llevar"
+  ]
+ },
+ {
+  "Nome local": "Foster's Hollywood",
+  "Teléfono": "981 224 893",
+  "Dirección": "Ctra. Baños de Arteixo, 43 (C. Cial. Marineda City), Planta 2, Loc. 36 - 15008 - A Coruña",
+  "Páxina web": "www.fostershollywood.es",
+  "Etiquetas": [
+   "Delivery, comida a domicilio",
+   "Restaurantes",
+   "Take away, comida para llevar"
+  ]
+ },
+ {
+  "Nome local": "Fujiyama",
+  "Teléfono": "881 926 230",
+  "Dirección": "Angel, 17 - 15001 - A Coruña",
+  "Páxina web": "www.instagram.com/fujiyamasushibar",
+  "Etiquetas": [
+   "Restaurantes",
+   "Restaurantes ",
+   "Japoneses"
+  ]
+ },
+ {
+  "Nome local": "Galipizza",
+  "Teléfono": "881 087 978",
+  "Dirección": "Pza. de Galicia, 2 Bajo - 15004 - A Coruña",
+  "Páxina web": "galipizza.com",
+  "Etiquetas": [
+   "Hamburgueserías y bocaterías",
+   "Restaurantes",
+   "Restaurantes ",
+   "Italianos y pizzerías",
+   "Take away, comida para llevar"
+  ]
+ },
+ {
+  "Nome local": "Galiur",
+  "Teléfono": "981 297 891",
+  "Dirección": "Luciano Yordi de Carricarte, 6 Bajo - MATOGRANDE - 15008 - A Coruña",
+  "Páxina web": "www.facebook.com/galiur",
+  "Etiquetas": [
+   "Asadores, parrilladas y churrasquerías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "Gasthof",
+  "Teléfono": "981 160 084",
+  "Dirección": "Copérnico, 7 - Polígono A Grela - 15010 - A Coruña",
+  "Páxina web": "www.gasthof.es",
+  "Etiquetas": [
+   "Bares y cafeterías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "Gasthof",
+  "Teléfono": "981 204 890",
+  "Dirección": "Avda. de Pedro Barrié de La Maza, 19 - 15003 - A Coruña",
+  "Páxina web": "www.gasthof.es",
+  "Etiquetas": [
+   "Bares y cafeterías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "Gasthof 3",
+  "Teléfono": "981 221 027",
+  "Dirección": "Avda. de la Marina, 6 - 15001 - A Coruña",
+  "Páxina web": "www.gasthof.es",
+  "Etiquetas": [
+   "Bares y cafeterías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "Gasthof 5",
+  "Teléfono": "981 232 803",
+  "Dirección": "Ramón y Cajal, 55 (C. Cial. Cuatro Caminos), Loc. B1 - 15006 - A Coruña",
+  "Páxina web": "www.gasthof.es",
+  "Etiquetas": [
+   "Bares y cafeterías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "Gasthof 6",
+  "Teléfono": "981 153 767",
+  "Dirección": "Ramón y Cajal, 55 (C. Cial. Cuatro Caminos), Loc. B21 - 15006 - A Coruña",
+  "Páxina web": "www.gasthof.es",
+  "Etiquetas": [
+   "Bares y cafeterías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "Gastroteca",
+  "Teléfono": "981 010 328",
+  "Dirección": "Médico Rodríguez, 3 - A Coruña",
+  "Páxina web": "gastrotecacoruña.com",
+  "Etiquetas": [
+   "Gastrobar",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "Gaucho Díaz 14",
+  "Teléfono": "981 903 810",
+  "Dirección": "Luis López Casanegra, 7 Bajo Izq. - 15006 - A Coruña",
+  "Páxina web": "www.facebook.com/gaucho-diaz-14",
+  "Etiquetas": [
+   "Asadores, parrilladas y churrasquerías",
+   "Restaurantes",
+   "Take away, comida para llevar"
+  ]
+ },
+ {
+  "Nome local": "Ginos",
+  "Teléfono": "981 228 706",
+  "Dirección": "Juana de Vega, 17 bajo - 15004 - A Coruña",
+  "Páxina web": "www.ginos.es",
+  "Etiquetas": [
+   "Restaurantes",
+   "Restaurantes ",
+   "Italianos y pizzerías"
+  ]
+ },
+ {
+  "Nome local": "Ginza",
+  "Teléfono": "881 919 324",
+  "Dirección": "Pza. de María Pita, 11 Bajo - 15001 - A Coruña",
+  "Páxina web": "www.facebook.com/ginza",
+  "Etiquetas": [
+   "Restaurantes",
+   "Restaurantes ",
+   "Japoneses"
+  ]
+ },
+ {
+  "Nome local": "Gloria Bendita",
+  "Teléfono": "881 878 284",
+  "Dirección": "Riazor, 2 - A Coruña",
+  "Páxina web": "www.gloriabenditarestaurante.com",
+  "Etiquetas": [
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "Go Sushi",
+  "Teléfono": "881 064 495",
+  "Dirección": "Ramón de la Sagra, 22 bajo - 15005 - A Coruña",
+  "Páxina web": "www.gosushi.es",
+  "Etiquetas": [
+   "Delivery, comida a domicilio",
+   "Restaurantes",
+   "Restaurantes ",
+   "Japoneses",
+   "Take away, comida para llevar"
+  ]
+ },
+ {
+  "Nome local": "̶G̶o̶d̶e̶l̶l̶o",
+  "Teléfono": "̶N̶o̶n̶ ̶d̶i̶s̶p̶o̶ñ̶i̶b̶l̶e",
+  "Dirección": "̶A̶n̶g̶e̶l̶a̶ ̶B̶l̶a̶n̶c̶o̶ ̶d̶e̶ ̶S̶o̶t̶o̶,̶ ̶1̶ ̶b̶a̶j̶o̶ ̶-̶ ̶1̶5̶0̶0̶9̶ ̶-̶ ̶A̶ ̶C̶o̶r̶u̶ñ̶a",
+  "Páxina web": "̶N̶o̶n̶ ̶d̶i̶s̶p̶o̶ñ̶i̶b̶l̶e",
+  "Etiquetas": [
+   "̶M̶e̶s̶o̶n̶e̶s̶ ̶y̶ ̶t̶a̶p̶e̶r̶í̶a̶s",
+   "̶R̶e̶s̶t̶a̶u̶r̶a̶n̶t̶e̶s"
+  ]
+ },
+ {
+  "Nome local": "Goiko Grill",
+  "Teléfono": "881 251 714",
+  "Dirección": "Ctra. Baños de Arteixo, 43 (C.Cial. Marineda City) Planta 2, Loc. 155 - 15008 - A Coruña",
+  "Páxina web": "www.goikogrill.com",
+  "Etiquetas": [
+   "Delivery, comida a domicilio",
+   "Hamburgueserías gourmet",
+   "Hamburgueserías y bocaterías",
+   "Restaurantes",
+   "Take away, comida para llevar"
+  ]
+ },
+ {
+  "Nome local": "Goiko Grill",
+  "Teléfono": "Non dispoñible",
+  "Dirección": "Avda. de Rubine, 11 - 15011 - A Coruña",
+  "Páxina web": "www.goiko.com",
+  "Etiquetas": [
+   "Bares y cafeterías",
+   "Delivery, comida a domicilio",
+   "Hamburgueserías gourmet",
+   "Hamburgueserías y bocaterías",
+   "Restaurantes",
+   "Take away, comida para llevar"
+  ]
+ },
+ {
+  "Nome local": "Gol",
+  "Teléfono": "981 905 910",
+  "Dirección": "Julio Rodríguez Yordi, 1 Bajo Izq. (esquina Almirante Eulate) - 15011 - A Coruña",
+  "Páxina web": "Non dispoñible",
+  "Etiquetas": [
+   "Bares y cafeterías",
+   "Cervecerías",
+   "Restaurantes",
+   "Restaurantes ",
+   "Italianos y pizzerías",
+   "Take away, comida para llevar"
+  ]
+ },
+ {
+  "Nome local": "Gonzaba",
+  "Teléfono": "981 261 916",
+  "Dirección": "Avda. de La Habana, 22 - 15011 - A Coruña",
+  "Páxina web": "asadorgonzaba.com",
+  "Etiquetas": [
+   "Asadores, parrilladas y churrasquerías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "Gran Escena",
+  "Teléfono": "981 221 166",
+  "Dirección": "Sol, 35 Bajo - 15003 - A Coruña",
+  "Páxina web": "www.restaurantegranescena.com",
+  "Etiquetas": [
+   "Delivery, comida a domicilio",
+   "Restaurantes",
+   "Restaurantes ",
+   "Chinos",
+   "Take away, comida para llevar"
+  ]
+ },
+ {
+  "Nome local": "Grand Cru Café La Cantera",
+  "Teléfono": "881 120 696",
+  "Dirección": "Glorieta América, 2 Bajo - 15004 - A Coruña",
+  "Páxina web": "www.grandcrucafe.es",
+  "Etiquetas": [
+   "Bares y cafeterías",
+   "Restaurantes",
+   "Restaurantes ",
+   "Italianos y pizzerías",
+   "Take away, comida para llevar"
+  ]
+ },
+ {
+  "Nome local": "Greca",
+  "Teléfono": "981 262 176",
+  "Dirección": "Historiador Vedia, 34 - 15004 - A Coruña",
+  "Páxina web": "www.facebook.com/greca",
+  "Etiquetas": [
+   "Bares y cafeterías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "Grumi",
+  "Teléfono": "608 099 591",
+  "Dirección": "Rafael Alberti, 10 - 15008 - A Coruña",
+  "Páxina web": "www.facebook.com/grumi",
+  "Etiquetas": [
+   "Bares y cafeterías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "Hao Wey",
+  "Teléfono": "981 902 268",
+  "Dirección": "Avda. de Finisterre, 265 Bajo Dcha. - 15008 - A Coruña",
+  "Páxina web": "Non dispoñible",
+  "Etiquetas": [
+   "Delivery, comida a domicilio",
+   "Restaurantes",
+   "Restaurantes ",
+   "Chinos",
+   "Take away, comida para llevar"
+  ]
+ },
+ {
+  "Nome local": "Hellas",
+  "Teléfono": "981 213 991",
+  "Dirección": "Callejón Estacada, 2 (Avda. de la Marina) - 15001 - A Coruña",
+  "Páxina web": "www.facebook.com/hellas",
+  "Etiquetas": [
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "Herculina",
+  "Teléfono": "981 924 942",
+  "Dirección": "Juan Flórez, 85 - 15005 - A Coruña",
+  "Páxina web": "www.facebook.com/herculina",
+  "Etiquetas": [
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "Hermes' Journey",
+  "Teléfono": "616 429 570",
+  "Dirección": "Orzán, 28 Bajo - 15001 - A Coruña",
+  "Páxina web": "www.hermesjourney.com",
+  "Etiquetas": [
+   "Hamburgueserías gourmet",
+   "Hamburgueserías y bocaterías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "Hong Kong",
+  "Teléfono": "981 143 369",
+  "Dirección": "Avda. de Finisterre, 224 - 15010 - A Coruña",
+  "Páxina web": "www.hongkongcoruna.com",
+  "Etiquetas": [
+   "Delivery, comida a domicilio",
+   "Restaurantes",
+   "Restaurantes ",
+   "Chinos",
+   "Take away, comida para llevar"
+  ]
+ },
+ {
+  "Nome local": "Il Giardino Ristorante",
+  "Teléfono": "981 258 879",
+  "Dirección": "Pza. del Libro, s/n - 15005 - A Coruña",
+  "Páxina web": "Non dispoñible",
+  "Etiquetas": [
+   "Restaurantes",
+   "Restaurantes ",
+   "Italianos y pizzerías"
+  ]
+ },
+ {
+  "Nome local": "Il Mercato",
+  "Teléfono": "881 964 215",
+  "Dirección": "Pza. de Lugo, s/n (Mercado Eusebio da Guarda) - 15004 - A Coruña",
+  "Páxina web": "www.facebook.com/il-mercato",
+  "Etiquetas": [
+   "Delivery, comida a domicilio",
+   "Restaurantes",
+   "Restaurantes ",
+   "Italianos y pizzerías",
+   "Take away, comida para llevar"
+  ]
+ },
+ {
+  "Nome local": "Il Milenio",
+  "Teléfono": "981 145 416",
+  "Dirección": "San Roque de Afuera, 7 (Pº Marítimo) - 15011 - A Coruña",
+  "Páxina web": "www.ilmilenio.com",
+  "Etiquetas": [
+   "Restaurantes",
+   "Restaurantes ",
+   "Italianos y pizzerías"
+  ]
+ },
+ {
+  "Nome local": "Il Piccolino Restaurante Italiano",
+  "Teléfono": "981 221 900",
+  "Dirección": "Franja, 8 - 15001 - A Coruña",
+  "Páxina web": "www.restauranteilpiccolino.es",
+  "Etiquetas": [
+   "Restaurantes",
+   "Restaurantes ",
+   "Italianos y pizzerías"
+  ]
+ },
+ {
+  "Nome local": "Intenso",
+  "Teléfono": "Non dispoñible",
+  "Dirección": "Barrera, 23 - 15001 - A Coruña",
+  "Páxina web": "www.facebook.com/intenso",
+  "Etiquetas": [
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "Internacional 2",
+  "Teléfono": "981 251 588",
+  "Dirección": "Avda. de Rubine, 7-9 - 15004 - A Coruña",
+  "Páxina web": "www.cafeteriainternacional.com",
+  "Etiquetas": [
+   "Bares y cafeterías",
+   "Cervecerías",
+   "Puntos de vending",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "It’s Green",
+  "Teléfono": "881 898 908",
+  "Dirección": "San Andrés, 141 Bajo - 15003 - A Coruña",
+  "Páxina web": "itsgreen.es",
+  "Etiquetas": [
+   "Restaurantes",
+   "Take away, comida para llevar"
+  ]
+ },
+ {
+  "Nome local": "̶I̶v̶y",
+  "Teléfono": "̶N̶o̶n̶ ̶d̶i̶s̶p̶o̶ñ̶i̶b̶l̶e",
+  "Dirección": "̶S̶a̶n̶ ̶J̶o̶s̶é̶,̶ ̶1̶9̶ ̶B̶a̶j̶o̶ ̶-̶ ̶1̶5̶0̶0̶2̶ ̶-̶ ̶A̶ ̶C̶o̶r̶u̶ñ̶a",
+  "Páxina web": "̶N̶o̶n̶ ̶d̶i̶s̶p̶o̶ñ̶i̶b̶l̶e",
+  "Etiquetas": [
+   "̶B̶a̶r̶e̶s̶ ̶y̶ ̶c̶a̶f̶e̶t̶e̶r̶í̶a̶s",
+   "̶M̶e̶s̶o̶n̶e̶s̶ ̶y̶ ̶t̶a̶p̶e̶r̶í̶a̶s",
+   "̶R̶e̶s̶t̶a̶u̶r̶a̶n̶t̶e̶s"
+  ]
+ },
+ {
+  "Nome local": "Jaleo",
+  "Teléfono": "881 916 520",
+  "Dirección": "Galera, 43 A - 15003 - A Coruña",
+  "Páxina web": "www.instagram.com/vinoteca_jaleo",
+  "Etiquetas": [
+   "Mesones y taperías",
+   "Restaurantes",
+   "Tiendas de vinos, vinotecas, enotecas"
+  ]
+ },
+ {
+  "Nome local": "Javier",
+  "Teléfono": "981 271 177",
+  "Dirección": "Pondal, 1-3 - 15004 - A Coruña",
+  "Páxina web": "Non dispoñible",
+  "Etiquetas": [
+   "Bares y cafeterías",
+   "Mesones y taperías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "Jazz Coffee Food & Drink",
+  "Teléfono": "881 252 389",
+  "Dirección": "Pza. de España, 27 Bajo - 15001 - A Coruña",
+  "Páxina web": "www.facebook.com/jazz-coffee-food-drink",
+  "Etiquetas": [
+   "Bares y cafeterías",
+   "Delivery, comida a domicilio",
+   "Mesones y taperías",
+   "Restaurantes",
+   "Take away, comida para llevar"
+  ]
+ },
+ {
+  "Nome local": "Kafé",
+  "Teléfono": "881 915 529",
+  "Dirección": "Nebrija, 1 - 15004 - A Coruña",
+  "Páxina web": "www.cafeteriakafe.com",
+  "Etiquetas": [
+   "Bares y cafeterías",
+   "Restaurantes",
+   "Take away, comida para llevar"
+  ]
+ },
+ {
+  "Nome local": "KFC",
+  "Teléfono": "981 632 126",
+  "Dirección": "Ctra. Baños de Arteixo, 43 (C. Cial. Marineda City), Planta 2, Loc. 06 B - 15008 - A Coruña",
+  "Páxina web": "www.kfc.es",
+  "Etiquetas": [
+   "Delivery, comida a domicilio",
+   "Restaurantes",
+   "Take away, comida para llevar"
+  ]
+ },
+ {
+  "Nome local": "Koh Lanta",
+  "Teléfono": "981 913 343",
+  "Dirección": "Pza. de Cormelana, 7 Bajo - 15003 - A Coruña",
+  "Páxina web": "www.kohlanta.es",
+  "Etiquetas": [
+   "Catering",
+   "Food trucks",
+   "Restaurantes",
+   "Restaurantes ",
+   "Chinos",
+   "Restaurantes ",
+   "Japoneses",
+   "Restaurantes ",
+   "Tailandeses"
+  ]
+ },
+ {
+  "Nome local": "Kos Café",
+  "Teléfono": "881 888 076",
+  "Dirección": "Pza. Alfonso XIII, 8 Bajo - 15008 - A Coruña",
+  "Páxina web": "Non dispoñible",
+  "Etiquetas": [
+   "Bares y cafeterías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "Kyoto Galicia",
+  "Teléfono": "881 878 701",
+  "Dirección": "Federico Tapia, 56 - 15005 - A Coruña",
+  "Páxina web": "www.facebook.com/kyoto-galicia",
+  "Etiquetas": [
+   "Delivery, comida a domicilio",
+   "Restaurantes",
+   "Restaurantes ",
+   "Japoneses",
+   "Take away, comida para llevar"
+  ]
+ },
+ {
+  "Nome local": "La Abuela Carlotta",
+  "Teléfono": "881 067 320",
+  "Dirección": "Parque, 8 - 15002 - A Coruña",
+  "Páxina web": "www.abuelacarlotta.com",
+  "Etiquetas": [
+   "Delivery, comida a domicilio",
+   "Restaurantes",
+   "Restaurantes ",
+   "Italianos y pizzerías",
+   "Take away, comida para llevar"
+  ]
+ },
+ {
+  "Nome local": "La Abuelita",
+  "Teléfono": "881 928 451",
+  "Dirección": "Antón Vilar Ponte, 3 Bajo - 15005 - A Coruña",
+  "Páxina web": "Non dispoñible",
+  "Etiquetas": [
+   "Bares y cafeterías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "La Almudena",
+  "Teléfono": "629 571 329",
+  "Dirección": "Calle 1, 14 - PO.CO.MA.CO. - 15190 - A Coruña",
+  "Páxina web": "Non dispoñible",
+  "Etiquetas": [
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "La Burguería",
+  "Teléfono": "881 889 132",
+  "Dirección": "Durán Loriga, 2 - 15003 - A Coruña",
+  "Páxina web": "www.laburgueria.com",
+  "Etiquetas": [
+   "Delivery, comida a domicilio",
+   "Hamburgueserías gourmet",
+   "Hamburgueserías y bocaterías",
+   "Restaurantes",
+   "Take away, comida para llevar"
+  ]
+ },
+ {
+  "Nome local": "La Cabaña",
+  "Teléfono": "981 200 066",
+  "Dirección": "Torre, 93 Bajo - 15002 - A Coruña",
+  "Páxina web": "asadorlacabana.es",
+  "Etiquetas": [
+   "Asadores, parrilladas y churrasquerías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "La Cerilla by Lois",
+  "Teléfono": "981 220 179",
+  "Dirección": "Capitán Troncoso, 5 Bajo - 15001 - A Coruña",
+  "Páxina web": "www.facebook.com/la-cerilla-by-lois",
+  "Etiquetas": [
+   "Mesones y taperías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "La Cocina de Manuela",
+  "Teléfono": "662 595 266",
+  "Dirección": "Ronda de Nelle, 125 Bajo - 15010 - A Coruña",
+  "Páxina web": "www.instagram.com/lacocinademanuela",
+  "Etiquetas": [
+   "Restaurantes",
+   "Take away, comida para llevar"
+  ]
+ },
+ {
+  "Nome local": "La Conquista",
+  "Teléfono": "981 928 792",
+  "Dirección": "Emilia Pardo Bazán, 23 Bajo - 15005 - A Coruña",
+  "Páxina web": "www.facebook.com/la-conquista",
+  "Etiquetas": [
+   "Restaurantes",
+   "Restaurantes ",
+   "Peruanos",
+   "Take away, comida para llevar"
+  ]
+ },
+ {
+  "Nome local": "La Consentida Food & Soul",
+  "Teléfono": "881 068 342",
+  "Dirección": "Alfredo Vicenti, 35 - 15004 - A Coruña",
+  "Páxina web": "www.la-consentida.es",
+  "Etiquetas": [
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "La Dehesa",
+  "Teléfono": "881 928 458",
+  "Dirección": "Donantes de Sangre, 5 Bajo - 15004 - A Coruña",
+  "Páxina web": "www.ladehesacoruna.es",
+  "Etiquetas": [
+   "Restaurantes",
+   "Take away, comida para llevar"
+  ]
+ },
+ {
+  "Nome local": "La Dolce",
+  "Teléfono": "981 270 733",
+  "Dirección": "Ronda de Outeiro, 258 - 15010 - A Coruña",
+  "Páxina web": "www.restauranteladolce.es",
+  "Etiquetas": [
+   "Restaurantes",
+   "Restaurantes ",
+   "Italianos y pizzerías"
+  ]
+ },
+ {
+  "Nome local": "La Escondita",
+  "Teléfono": "610 415 454",
+  "Dirección": "Pza. de María Pita, 1 B Bajo - 15001 - A Coruña",
+  "Páxina web": "www.facebook.com/la-escondita",
+  "Etiquetas": [
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "La Estancia",
+  "Teléfono": "881 924 284",
+  "Dirección": "Avda. Labañou, 4 - 15011 - A Coruña",
+  "Páxina web": "Non dispoñible",
+  "Etiquetas": [
+   "Asadores, parrilladas y churrasquerías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "La Famiglia",
+  "Teléfono": "981 902 120",
+  "Dirección": "Paseo de Ronda, 45 bajo - 15011 - A Coruña",
+  "Páxina web": "famigliabymp.es/es",
+  "Etiquetas": [
+   "Restaurantes",
+   "Restaurantes ",
+   "Italianos y pizzerías"
+  ]
+ },
+ {
+  "Nome local": "La Favola",
+  "Teléfono": "981 264 272",
+  "Dirección": "Avda. de Finisterre, 232 Bajo - 15010 - A Coruña",
+  "Páxina web": "lafavola.es",
+  "Etiquetas": [
+   "Restaurantes",
+   "Restaurantes ",
+   "Italianos y pizzerías",
+   "Take away, comida para llevar"
+  ]
+ },
+ {
+  "Nome local": "La Flor de La Torre",
+  "Teléfono": "881 022 786",
+  "Dirección": "Ctra. de Circunvalación, 26 Bajo - 15002 - A Coruña",
+  "Páxina web": "Non dispoñible",
+  "Etiquetas": [
+   "Asadores, parrilladas y churrasquerías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "La Fontana",
+  "Teléfono": "608 782 983",
+  "Dirección": "Ronda de Monte Alto, 2 bajo - 15002 - A Coruña",
+  "Páxina web": "Non dispoñible",
+  "Etiquetas": [
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "La Granera",
+  "Teléfono": "981 154 061",
+  "Dirección": "Pza. Fábrica de Tabacos, 1 - 15006 - A Coruña",
+  "Páxina web": "www.lagranera.es",
+  "Etiquetas": [
+   "Bares y cafeterías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "La Granera Styles",
+  "Teléfono": "881 169 672",
+  "Dirección": "Copérnico, 2 (Ibis Styles) - Polígono A Grela - 15008 - A Coruña",
+  "Páxina web": "www.facebook.com/la-granera-styles",
+  "Etiquetas": [
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "La Hermandad",
+  "Teléfono": "881 065 421",
+  "Dirección": "Franja, 36 Bajo - 15001 - A Coruña",
+  "Páxina web": "www.facebook.com/la-hermandad",
+  "Etiquetas": [
+   "Restaurantes",
+   "Restaurantes ",
+   "Mexicanos"
+  ]
+ },
+ {
+  "Nome local": "La Indiscreta",
+  "Teléfono": "Non dispoñible",
+  "Dirección": "Avda. Buenos Aires, 9 bajo - 15004 - A Coruña",
+  "Páxina web": "www.facebook.com/la-indiscreta",
+  "Etiquetas": [
+   "Hamburgueserías gourmet",
+   "Hamburgueserías y bocaterías",
+   "Restaurantes",
+   "Take away, comida para llevar"
+  ]
+ },
+ {
+  "Nome local": "La Leonesa",
+  "Teléfono": "981 212 944",
+  "Dirección": "Cuesta Santo Domingo, 2 (Ciudad Vieja) - 15001 - A Coruña",
+  "Páxina web": "Non dispoñible",
+  "Etiquetas": [
+   "Charcuterías",
+   "Jamonerías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "La Mafia se Sienta a la Mesa",
+  "Teléfono": "981 121 212",
+  "Dirección": "Ferrol, 2 (Pza. Galicia) - 15004 - A Coruña",
+  "Páxina web": "lamafia.es/a-coruna",
+  "Etiquetas": [
+   "Restaurantes",
+   "Restaurantes ",
+   "Italianos y pizzerías",
+   "Take away, comida para llevar"
+  ]
+ },
+ {
+  "Nome local": "La Mansión 1783",
+  "Teléfono": "881 962 748",
+  "Dirección": "Avda. de la Marina, 14 - 15001 - A Coruña",
+  "Páxina web": "grupolamansion.com",
+  "Etiquetas": [
+   "Bares y cafeterías",
+   "Coctelerías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "La Marina",
+  "Teléfono": "981 914 760",
+  "Dirección": "Avda. de la Marina, 36 - 15003 - A Coruña",
+  "Páxina web": "www.jamonerialamarina.com",
+  "Etiquetas": [
+   "Alimentación tradicional y tiendas gourmet",
+   "Jamonerías",
+   "Restaurantes",
+   "Tiendas de alimentación"
+  ]
+ },
+ {
+  "Nome local": "La Marmota Repostrebar",
+  "Teléfono": "881 165 179",
+  "Dirección": "Boquete San Andrés, 14 Bajo - 15003 - A Coruña",
+  "Páxina web": "www.facebook.com/la-marmota-repostrebar",
+  "Etiquetas": [
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "La Marola",
+  "Teléfono": "981 218 484",
+  "Dirección": "Comandante Fontanes, 19 - 15003 - A Coruña",
+  "Páxina web": "www.facebook.com/la-marola",
+  "Etiquetas": [
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "̶L̶a̶ ̶M̶a̶r̶o̶t̶e̶c̶a",
+  "Teléfono": "̶N̶o̶n̶ ̶d̶i̶s̶p̶o̶ñ̶i̶b̶l̶e",
+  "Dirección": "̶P̶z̶a̶.̶ ̶F̶á̶b̶r̶i̶c̶a̶ ̶d̶e̶ ̶T̶a̶b̶a̶c̶o̶s̶,̶ ̶5̶ ̶B̶a̶j̶o̶ ̶I̶z̶q̶.̶ ̶-̶ ̶1̶5̶0̶0̶6̶ ̶-̶ ̶A̶ ̶C̶o̶r̶u̶ñ̶a",
+  "Páxina web": "̶N̶o̶n̶ ̶d̶i̶s̶p̶o̶ñ̶i̶b̶l̶e",
+  "Etiquetas": [
+   "̶M̶a̶r̶i̶s̶q̶u̶e̶r̶í̶a̶s",
+   "̶R̶e̶s̶t̶a̶u̶r̶a̶n̶t̶e̶s"
+  ]
+ },
+ {
+  "Nome local": "La Masía",
+  "Teléfono": "981 242 627",
+  "Dirección": "Avda. Arteixo, 88 - 15008 - A Coruña",
+  "Páxina web": "www.facebook.com/la-masia",
+  "Etiquetas": [
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "La Mina",
+  "Teléfono": "881 043 295",
+  "Dirección": "Ctra. Baños de Arteixo, 43 (C. Cial. Marineda City), Planta 2 Loc. 2-02B - 15008 - A Coruña",
+  "Páxina web": "www.facebook.com/la-mina",
+  "Etiquetas": [
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "La Nonna Sette Porte",
+  "Teléfono": "981 928 285",
+  "Dirección": "Galera, 16 - 15003 - A Coruña",
+  "Páxina web": "Non dispoñible",
+  "Etiquetas": [
+   "Restaurantes",
+   "Restaurantes ",
+   "Italianos y pizzerías",
+   "Take away, comida para llevar"
+  ]
+ },
+ {
+  "Nome local": "La Nueva Estación",
+  "Teléfono": "881 878 620",
+  "Dirección": "Avda. Labañou, 2 Bajo - 15011 - A Coruña",
+  "Páxina web": "www.facebook.com/la-nueva-estacion",
+  "Etiquetas": [
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "La Nueva Estación",
+  "Teléfono": "881 892 790",
+  "Dirección": "Emilio González López, 80 - LOS ROSALES - 15011 - A Coruña",
+  "Páxina web": "www.facebook.com/la-nueva-estacion",
+  "Etiquetas": [
+   "Bares y cafeterías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "La Penela",
+  "Teléfono": "981 209 200",
+  "Dirección": "Pza. de María Pita, 12 - 15001 - A Coruña",
+  "Páxina web": "www.lapenela.com",
+  "Etiquetas": [
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "La Pepita",
+  "Teléfono": "881 120 535",
+  "Dirección": "Juan Flórez, 13 - 15004 - A Coruña",
+  "Páxina web": "www.lapepitaburgerbar.com",
+  "Etiquetas": [
+   "Hamburgueserías gourmet",
+   "Hamburgueserías y bocaterías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "La Pérgola de Oído Cocina",
+  "Teléfono": "981 138 197",
+  "Dirección": "Ana María Mogás Fontcuberta, 1 - 15192 - A Coruña",
+  "Páxina web": "www.facebook.com/la-pergola-de-oido-cocina",
+  "Etiquetas": [
+   "Delivery, comida a domicilio",
+   "Restaurantes",
+   "Take away, comida para llevar"
+  ]
+ },
+ {
+  "Nome local": "La Pescadería de Fredy",
+  "Teléfono": "981 110 260",
+  "Dirección": "Franja, 3 bajo - A Coruña",
+  "Páxina web": "www.facebook.com/la-pescaderia-de-fredy",
+  "Etiquetas": [
+   "Marisquerías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "La Piadina",
+  "Teléfono": "881 883 356",
+  "Dirección": "Ctra. Baños de Arteixo, 43 (C. Cial. Marineda City), Planta 2, Loc. 11 - 15008 - A Coruña",
+  "Páxina web": "www.lapiadinariminese.com",
+  "Etiquetas": [
+   "Delivery, comida a domicilio",
+   "Restaurantes",
+   "Restaurantes ",
+   "Italianos y pizzerías",
+   "Take away, comida para llevar"
+  ]
+ },
+ {
+  "Nome local": "La Piadina Riminese",
+  "Teléfono": "981 915 590",
+  "Dirección": "Juana de Vega, 19 - 15004 - A Coruña",
+  "Páxina web": "www.lapiadinariminese.com",
+  "Etiquetas": [
+   "Restaurantes",
+   "Restaurantes ",
+   "Italianos y pizzerías"
+  ]
+ },
+ {
+  "Nome local": "La Postrería",
+  "Teléfono": "981 916 067",
+  "Dirección": "Fernando Arenas Quintela, 5 (Pza. Santa Catalina) - 15003 - A Coruña",
+  "Páxina web": "www.postreria.com",
+  "Etiquetas": [
+   "Bares y cafeterías",
+   "Delivery, comida a domicilio",
+   "Restaurantes",
+   "Restaurantes vegetarianos",
+   "Take away, comida para llevar"
+  ]
+ },
+ {
+  "Nome local": "La Quadriglia",
+  "Teléfono": "644 895 202",
+  "Dirección": "Pza. As Atochas, 8 bajo - 15001 - A Coruña",
+  "Páxina web": "www.facebook.com/la-quadriglia",
+  "Etiquetas": [
+   "Restaurantes",
+   "Restaurantes ",
+   "Italianos y pizzerías"
+  ]
+ },
+ {
+  "Nome local": "La Quadriglia",
+  "Teléfono": "605 071 601",
+  "Dirección": "Pza. de María Pita, 24 - 15001 - A Coruña",
+  "Páxina web": "www.facebook.com/la-quadriglia",
+  "Etiquetas": [
+   "Restaurantes",
+   "Restaurantes ",
+   "Italianos y pizzerías"
+  ]
+ },
+ {
+  "Nome local": "La Sabrosa",
+  "Teléfono": "Non dispoñible",
+  "Dirección": "Paseo de Ronda, 35 - 15011 - A Coruña",
+  "Páxina web": "Non dispoñible",
+  "Etiquetas": [
+   "Bares y cafeterías",
+   "Cervecerías",
+   "Mesones y taperías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "La Saporita",
+  "Teléfono": "881 963 790",
+  "Dirección": "Franja, 28 - 15001 - A Coruña",
+  "Páxina web": "www.facebook.com/la-saporita",
+  "Etiquetas": [
+   "Restaurantes",
+   "Restaurantes ",
+   "Italianos y pizzerías"
+  ]
+ },
+ {
+  "Nome local": "La Sartén",
+  "Teléfono": "981 919 313",
+  "Dirección": "Pza. de España, 11 Bajo - 15001 - A Coruña",
+  "Páxina web": "www.restaurantelasarten.com",
+  "Etiquetas": [
+   "Marisquerías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "La Sastrería",
+  "Teléfono": "881 940 881",
+  "Dirección": "Emilia Pardo Bazán, 38 Bajo - 15005 - A Coruña",
+  "Páxina web": "www.facebook.com/la-sastreria",
+  "Etiquetas": [
+   "Mesones y taperías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "La Taberna de Alia",
+  "Teléfono": "881 068 829",
+  "Dirección": "Emilia Pardo Bazán, 17 Bajo - 15005 - A Coruña",
+  "Páxina web": "Non dispoñible",
+  "Etiquetas": [
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "La Taberna de Rita",
+  "Teléfono": "881 886 684",
+  "Dirección": "Estrella, 18-20 - 15003 - A Coruña",
+  "Páxina web": "Non dispoñible",
+  "Etiquetas": [
+   "Mesones y taperías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "La Taberna del Chipirón",
+  "Teléfono": "981 228 348",
+  "Dirección": "San Francisco, 21 - 15001 - A Coruña",
+  "Páxina web": "Non dispoñible",
+  "Etiquetas": [
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "La Tacita de Oro",
+  "Teléfono": "981 234 042",
+  "Dirección": "Chile, 4 - 15008 - A Coruña",
+  "Páxina web": "www.facebook.com/la-tacita-de-oro",
+  "Etiquetas": [
+   "Bares y cafeterías",
+   "Restaurantes",
+   "Take away, comida para llevar"
+  ]
+ },
+ {
+  "Nome local": "La Tagliatella",
+  "Teléfono": "981 919 193",
+  "Dirección": "Ctra. Baños de Arteixo, 43 (C. Cial. Marineda City), Planta 2, Loc. 2.23 - 15008 - A Coruña",
+  "Páxina web": "www.latagliatella.es",
+  "Etiquetas": [
+   "Delivery, comida a domicilio",
+   "Restaurantes",
+   "Restaurantes ",
+   "Italianos y pizzerías",
+   "Take away, comida para llevar"
+  ]
+ },
+ {
+  "Nome local": "La Tavernetta",
+  "Teléfono": "981 279 080",
+  "Dirección": "Julio Rodríguez Yordi, 6 - 15011 - A Coruña",
+  "Páxina web": "Non dispoñible",
+  "Etiquetas": [
+   "Delivery, comida a domicilio",
+   "Restaurantes",
+   "Restaurantes ",
+   "Italianos y pizzerías",
+   "Take away, comida para llevar"
+  ]
+ },
+ {
+  "Nome local": "La Teresa",
+  "Teléfono": "981 903 005",
+  "Dirección": "Capitán Troncoso, 12 Bajo - 15001 - A Coruña",
+  "Páxina web": "www.lateresa.com",
+  "Etiquetas": [
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "La Terraza",
+  "Teléfono": "981 280 073",
+  "Dirección": "Avda. del Pasaje, 85 A - 15006 - A Coruña",
+  "Páxina web": "www.terrazapasaje.com",
+  "Etiquetas": [
+   "Bares y cafeterías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "La Torre",
+  "Teléfono": "981 908 055",
+  "Dirección": "Avda. de Navarra, 37 Bajo - 15002 - A Coruña",
+  "Páxina web": "www.parrilladalatorre.wix.com/latorre",
+  "Etiquetas": [
+   "Asadores, parrilladas y churrasquerías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "La Toscana",
+  "Teléfono": "643 964 720",
+  "Dirección": "Ctra. Puente del Pasaje al Burgo, 17-19 Bajo - 15009 - A Coruña",
+  "Páxina web": "Non dispoñible",
+  "Etiquetas": [
+   "Restaurantes",
+   "Restaurantes ",
+   "Italianos y pizzerías"
+  ]
+ },
+ {
+  "Nome local": "La Tribuna",
+  "Teléfono": "981 304 926",
+  "Dirección": "Almirante Cadarso, 2 bajo - 15011 - A Coruña",
+  "Páxina web": "Non dispoñible",
+  "Etiquetas": [
+   "Bares y cafeterías",
+   "Mesones y taperías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "La Uva Dorada",
+  "Teléfono": "981 214 091",
+  "Dirección": "Ramón del Cueto, 37 Bajo - 15002 - A Coruña",
+  "Páxina web": "www.facebook.com/la-uva-dorada",
+  "Etiquetas": [
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "La Viña das Travesas",
+  "Teléfono": "981 280 854",
+  "Dirección": "Avda. del Pasaje, 123 - 15006 - A Coruña",
+  "Páxina web": "Non dispoñible",
+  "Etiquetas": [
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "Lambón Bar",
+  "Teléfono": "881 915 155",
+  "Dirección": "Atocha Baja, 26 bajo - 15001 - A Coruña",
+  "Páxina web": "Non dispoñible",
+  "Etiquetas": [
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "Las Pepas",
+  "Teléfono": "881 305 485",
+  "Dirección": "Juan Flórez, 76 Bajo - 15005 - A Coruña",
+  "Páxina web": "laspepasfoodrinks.negocio.site",
+  "Etiquetas": [
+   "Hamburgueserías gourmet",
+   "Hamburgueserías y bocaterías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "Las Viudas",
+  "Teléfono": "881 926 128",
+  "Dirección": "Nicaragua, 2 - 15005 - A Coruña",
+  "Páxina web": "www.facebook.com/las-viudas",
+  "Etiquetas": [
+   "Mesones y taperías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "Lembranzas",
+  "Teléfono": "981 306 816",
+  "Dirección": "Ramón Cabanillas, 26 Bajo - 15007 - A Coruña",
+  "Páxina web": "www.facebook.com/lembranzas",
+  "Etiquetas": [
+   "Asadores, parrilladas y churrasquerías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "Leviandier",
+  "Teléfono": "981 074 915",
+  "Dirección": "Rosalía de Castro, 4 Bajo - 15004 - A Coruña",
+  "Páxina web": "www.facebook.com/leviandier",
+  "Etiquetas": [
+   "Panaderías y pastelerías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "Lex Thermopolium",
+  "Teléfono": "981 217 258",
+  "Dirección": "Oidor Gregorio Tovar, 18 Bajo - 15007 - A Coruña",
+  "Páxina web": "Non dispoñible",
+  "Etiquetas": [
+   "Restaurantes",
+   "Take away, comida para llevar"
+  ]
+ },
+ {
+  "Nome local": "L'Exquisite",
+  "Teléfono": "881 022 533",
+  "Dirección": "Franja, 32 bajo - A Coruña",
+  "Páxina web": "www.instagram.com/lexquisitegrillandribs",
+  "Etiquetas": [
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "Lizarrán",
+  "Teléfono": "881 166 447",
+  "Dirección": "Ctra. Baños de Arteixo, 43 (C. Cial. Marineda City), Planta 2, Loc. 8 - 15008 - A Coruña",
+  "Páxina web": "www.lizarran.es",
+  "Etiquetas": [
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "Lois",
+  "Teléfono": "981 212 269",
+  "Dirección": "Estrella, 40 - 15003 - A Coruña",
+  "Páxina web": "hotel-lois.mydirectstay.com",
+  "Etiquetas": [
+   "Hoteles",
+   "Mesones y taperías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "̶L̶o̶l̶a",
+  "Teléfono": "̶N̶o̶n̶ ̶d̶i̶s̶p̶o̶ñ̶i̶b̶l̶e",
+  "Dirección": "̶J̶o̶s̶é̶ ̶L̶u̶i̶s̶ ̶B̶u̶g̶a̶l̶l̶a̶l̶ ̶M̶a̶r̶c̶h̶e̶s̶i̶,̶ ̶1̶6̶ ̶-̶ ̶1̶5̶0̶0̶8̶ ̶-̶ ̶A̶ ̶C̶o̶r̶u̶ñ̶a",
+  "Páxina web": "̶N̶o̶n̶ ̶d̶i̶s̶p̶o̶ñ̶i̶b̶l̶e",
+  "Etiquetas": [
+   "̶B̶a̶r̶e̶s̶ ̶y̶ ̶c̶a̶f̶e̶t̶e̶r̶í̶a̶s",
+   "̶P̶u̶l̶p̶e̶r̶í̶a̶s",
+   "̶R̶e̶s̶t̶a̶u̶r̶a̶n̶t̶e̶s"
+  ]
+ },
+ {
+  "Nome local": "Lola & Cía",
+  "Teléfono": "981 903 603",
+  "Dirección": "Barrera, 3 Bajo - 15001 - A Coruña",
+  "Páxina web": "www.facebook.com/lola-cia",
+  "Etiquetas": [
+   "Mesones y taperías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "Los Ángeles",
+  "Teléfono": "981 204 285",
+  "Dirección": "Fuente Seoane, 3 Bajo - 15001 - A Coruña",
+  "Páxina web": "www.facebook.com/los-angeles",
+  "Etiquetas": [
+   "Bares y cafeterías",
+   "Restaurantes",
+   "Take away, comida para llevar"
+  ]
+ },
+ {
+  "Nome local": "Los Farolitos",
+  "Teléfono": "981 915 030",
+  "Dirección": "Ronda de Outeiro, 249 - 15010 - A Coruña",
+  "Páxina web": "www.facebook.com/los-farolitos",
+  "Etiquetas": [
+   "Bares y cafeterías",
+   "Restaurantes",
+   "Restaurantes ",
+   "Mexicanos",
+   "Take away, comida para llevar"
+  ]
+ },
+ {
+  "Nome local": "Los Ramos",
+  "Teléfono": "981 236 316",
+  "Dirección": "Ramón Menéndez Pidal, 19 Bajo - 15007 - A Coruña",
+  "Páxina web": "www.facebook.com/los-ramos",
+  "Etiquetas": [
+   "Bares y cafeterías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "Loureiro",
+  "Teléfono": "981 926 660",
+  "Dirección": "Mendaña de Neyra, 4-6 Bajo - 15008 - A Coruña",
+  "Páxina web": "Non dispoñible",
+  "Etiquetas": [
+   "Asadores, parrilladas y churrasquerías",
+   "Mesones y taperías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "Loureiro",
+  "Teléfono": "981 136 100",
+  "Dirección": "Lugar Martinete, 28 bajo - BIRLOQUE - 15008 - A Coruña",
+  "Páxina web": "Non dispoñible",
+  "Etiquetas": [
+   "Bares y cafeterías",
+   "Mesones y taperías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "Lumar",
+  "Teléfono": "881 873 353",
+  "Dirección": "Federico Tapia, 24 Bajo - 15005 - A Coruña",
+  "Páxina web": "www.facebook.com/lumar",
+  "Etiquetas": [
+   "Bares y cafeterías",
+   "Restaurantes",
+   "Take away, comida para llevar"
+  ]
+ },
+ {
+  "Nome local": "Made In Italy",
+  "Teléfono": "643 715 248",
+  "Dirección": "Pza. de Lugo, 23 Sótano - 15004 - A Coruña",
+  "Páxina web": "Non dispoñible",
+  "Etiquetas": [
+   "Restaurantes",
+   "Restaurantes ",
+   "Italianos y pizzerías"
+  ]
+ },
+ {
+  "Nome local": "Mahalo Poké",
+  "Teléfono": "881 887 772",
+  "Dirección": "Ctra. Baños de Arteixo, 43 (C. Cial. Marineda City), Planta 2, Loc. 28 - 15008 - A Coruña",
+  "Páxina web": "www.mahalopoke.es",
+  "Etiquetas": [
+   "Delivery, comida a domicilio",
+   "Restaurantes",
+   "Take away, comida para llevar"
+  ]
+ },
+ {
+  "Nome local": "Mahara Taberna",
+  "Teléfono": "Non dispoñible",
+  "Dirección": "Orzán, 36 Bajo - 15003 - A Coruña",
+  "Páxina web": "www.facebook.com/mahara-taberna",
+  "Etiquetas": [
+   "Bares y cafeterías",
+   "Mesones y taperías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "Mamá África",
+  "Teléfono": "981 977 178",
+  "Dirección": "Pascual Veiga, 14 Bajo - 15010 - A Coruña",
+  "Páxina web": "www.facebook.com/mama-africa",
+  "Etiquetas": [
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "Mamá Chicó",
+  "Teléfono": "881 913 657",
+  "Dirección": "Picavia, 5 - 15004 - A Coruña",
+  "Páxina web": "www.mamachico.com",
+  "Etiquetas": [
+   "Restaurantes",
+   "Restaurantes ",
+   "Italianos y pizzerías"
+  ]
+ },
+ {
+  "Nome local": "Manda Truco",
+  "Teléfono": "981 210 702",
+  "Dirección": "Avda. de Navarra, 21 - 15002 - A Coruña",
+  "Páxina web": "www.mandatruco.com",
+  "Etiquetas": [
+   "Marisquerías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "Manhattan Plaza",
+  "Teléfono": "981 206 114",
+  "Dirección": "Pza. de Pontevedra, 24 - 15003 - A Coruña",
+  "Páxina web": "Non dispoñible",
+  "Etiquetas": [
+   "Bares y cafeterías",
+   "Restaurantes",
+   "Take away, comida para llevar"
+  ]
+ },
+ {
+  "Nome local": "Manolito",
+  "Teléfono": "981 282 062",
+  "Dirección": "Ramón y Cajal, 45 - 15006 - A Coruña",
+  "Páxina web": "www.restaurantesmanolito.es",
+  "Etiquetas": [
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "Mantelería",
+  "Teléfono": "881 893 633",
+  "Dirección": "Mantelería, 3 - 15003 - A Coruña",
+  "Páxina web": "Non dispoñible",
+  "Etiquetas": [
+   "Mesones y taperías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "María Pita",
+  "Teléfono": "981 908 523",
+  "Dirección": "Pza. de María Pita, 20 Bajo - 15001 - A Coruña",
+  "Páxina web": "www.pulpeiramariapita.com",
+  "Etiquetas": [
+   "Pulperías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "Marisquería Ríos",
+  "Teléfono": "981 286 511",
+  "Dirección": "Río de Quintas, 10 El Portazgo (Al lado del Alcampo) - 15170 - A Coruña",
+  "Páxina web": "Non dispoñible",
+  "Etiquetas": [
+   "Marisquerías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "Martínez",
+  "Teléfono": "981 914 448",
+  "Dirección": "Galera, 33 - 15003 - A Coruña",
+  "Páxina web": "www.instagram.com/martinez_vermuteria_sherrybar/?hl=es",
+  "Etiquetas": [
+   "Bares y cafeterías",
+   "Restaurantes",
+   "Vermuterías"
+  ]
+ },
+ {
+  "Nome local": "Maruma",
+  "Teléfono": "981 909 228",
+  "Dirección": "Avda. del Ejército, 23 Bajo - 15006 - A Coruña",
+  "Páxina web": "www.facebook.com/maruma",
+  "Etiquetas": [
+   "Bares y cafeterías",
+   "Mesones y taperías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "̶M̶a̶s̶a̶l̶a",
+  "Teléfono": "̶N̶o̶n̶ ̶d̶i̶s̶p̶o̶ñ̶i̶b̶l̶e",
+  "Dirección": "̶J̶u̶a̶n̶ ̶D̶í̶a̶z̶ ̶P̶o̶r̶l̶i̶e̶r̶,̶ ̶4̶ ̶B̶a̶j̶o̶ ̶-̶ ̶A̶ ̶C̶o̶r̶u̶ñ̶a",
+  "Páxina web": "̶N̶o̶n̶ ̶d̶i̶s̶p̶o̶ñ̶i̶b̶l̶e",
+  "Etiquetas": [
+   "̶R̶e̶s̶t̶a̶u̶r̶a̶n̶t̶e̶s",
+   "̶R̶e̶s̶t̶a̶u̶r̶a̶n̶t̶e̶s̶ ",
+   "̶I̶n̶d̶i̶o̶s"
+  ]
+ },
+ {
+  "Nome local": "Masala",
+  "Teléfono": "881 918 852",
+  "Dirección": "Ronda de Outeiro, 111 Bajo - 15009 - A Coruña",
+  "Páxina web": "Non dispoñible",
+  "Etiquetas": [
+   "Restaurantes",
+   "Restaurantes ",
+   "Turcos y kebab"
+  ]
+ },
+ {
+  "Nome local": "Maximum",
+  "Teléfono": "881 896 372",
+  "Dirección": "Avda. de Finisterre, 198 Bajo - 15010 - A Coruña",
+  "Páxina web": "www.maximumrestaurante.es",
+  "Etiquetas": [
+   "Restaurantes",
+   "Take away, comida para llevar"
+  ]
+ },
+ {
+  "Nome local": "Mcdonald's",
+  "Teléfono": "981 101 177",
+  "Dirección": "Severo Ochoa, 6 - Polígono A Grela - 15008 - A Coruña",
+  "Páxina web": "www.mcdonalds.es",
+  "Etiquetas": [
+   "Bares y cafeterías",
+   "Hamburgueserías y bocaterías",
+   "Restaurantes",
+   "Take away, comida para llevar"
+  ]
+ },
+ {
+  "Nome local": "Mcdonald's",
+  "Teléfono": "981 632 442",
+  "Dirección": "Ctra. Baños de Arteixo, 43 (C. Cial. Marineda City), Planta 2 - 15008 - A Coruña",
+  "Páxina web": "www.mcdonalds.es",
+  "Etiquetas": [
+   "Bares y cafeterías",
+   "Delivery, comida a domicilio",
+   "Hamburgueserías y bocaterías",
+   "Restaurantes",
+   "Take away, comida para llevar"
+  ]
+ },
+ {
+  "Nome local": "Mesón de Hervés",
+  "Teléfono": "881 964 392",
+  "Dirección": "Fontán, 4 - 15004 - A Coruña",
+  "Páxina web": "www.mesondeherves.es",
+  "Etiquetas": [
+   "Catering",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "Mesón do Pulpo",
+  "Teléfono": "981 202 444",
+  "Dirección": "Franja, 9-11 Bajo - 15001 - A Coruña",
+  "Páxina web": "Non dispoñible",
+  "Etiquetas": [
+   "Mesones y taperías",
+   "Pulperías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "Miga",
+  "Teléfono": "881 924 882",
+  "Dirección": "Pza. de España, 7 - 15001 - A Coruña",
+  "Páxina web": "www.migacoruna.com",
+  "Etiquetas": [
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "Milenium",
+  "Teléfono": "981 257 347",
+  "Dirección": "Avda. de Finisterre, 265 D - Polígono A Grela - 15008 - A Coruña",
+  "Páxina web": "www.facebook.com/milenium",
+  "Etiquetas": [
+   "Jamonerías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "Milongas",
+  "Teléfono": "881 820 830",
+  "Dirección": "Río Monelos, 13 (Parque Europa) - 15006 - A Coruña",
+  "Páxina web": "milongasparrillada.com",
+  "Etiquetas": [
+   "Asadores, parrilladas y churrasquerías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "Mistura",
+  "Teléfono": "981 925 120",
+  "Dirección": "Estrella, 30 - 15003 - A Coruña",
+  "Páxina web": "www.facebook.com/mistura",
+  "Etiquetas": [
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "Momos",
+  "Teléfono": "981 214 453",
+  "Dirección": "Cuesta Santo Domingo, 16 - 15001 - A Coruña",
+  "Páxina web": "Non dispoñible",
+  "Etiquetas": [
+   "Mesones y taperías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "Moncho",
+  "Teléfono": "981 914 981",
+  "Dirección": "Sol, 9 - 15003 - A Coruña",
+  "Páxina web": "Non dispoñible",
+  "Etiquetas": [
+   "Mesones y taperías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "Moncho",
+  "Teléfono": "981 207 169",
+  "Dirección": "Socorro, 13 - 15003 - A Coruña",
+  "Páxina web": "Non dispoñible",
+  "Etiquetas": [
+   "Bares y cafeterías",
+   "Cervecerías",
+   "Mesones y taperías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "Monte Alto",
+  "Teléfono": "683 387 922",
+  "Dirección": "Santo Tomás, 23-25 Bajo - 15002 - A Coruña",
+  "Páxina web": "www.facebook.com/monte-alto",
+  "Etiquetas": [
+   "Pulperías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "Morriña",
+  "Teléfono": "881 893 627",
+  "Dirección": "Olmos, 12 Bajo - 15005 - A Coruña",
+  "Páxina web": "www.restaurantemorrina.com",
+  "Etiquetas": [
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "Muerde la Pasta",
+  "Teléfono": "Non dispoñible",
+  "Dirección": "Ctra. Baños de Arteixo, 43 (C. Cial. Marineda City), Planta 2, Loc. 15 - 15008 - A Coruña",
+  "Páxina web": "www.muerdelapasta.com",
+  "Etiquetas": [
+   "Restaurantes",
+   "Restaurantes buffet libre y ",
+   "Wok",
+   "Restaurantes ",
+   "Italianos y pizzerías"
+  ]
+ },
+ {
+  "Nome local": "Nado",
+  "Teléfono": "981 979 433",
+  "Dirección": "Callejón Estacada, 9 Bajo - 15002 - A Coruña",
+  "Páxina web": "www.nado.es",
+  "Etiquetas": [
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "Nakama Sushi Fusión",
+  "Teléfono": "881 906 084",
+  "Dirección": "Juan Díaz Porlier, 15 Bajo - 15009 - A Coruña",
+  "Páxina web": "www.facebook.com/nakama-sushi-fusion",
+  "Etiquetas": [
+   "Restaurantes",
+   "Restaurantes ",
+   "Japoneses"
+  ]
+ },
+ {
+  "Nome local": "Namoreira",
+  "Teléfono": "881 898 625",
+  "Dirección": "María Barbeito, 1 Bajo - 15001 - A Coruña",
+  "Páxina web": "www.facebook.com/namoreira",
+  "Etiquetas": [
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "Nana Pancha",
+  "Teléfono": "981 978 795",
+  "Dirección": "Alameda, 44 - 15003 - A Coruña",
+  "Páxina web": "nanapancha.es",
+  "Etiquetas": [
+   "Restaurantes",
+   "Restaurantes ",
+   "Mexicanos"
+  ]
+ },
+ {
+  "Nome local": "Nauta Coruña",
+  "Teléfono": "981 220 097",
+  "Dirección": "Paseo Marítimo Alcalde Francisco Vázquez, 6 - 15001 - A Coruña",
+  "Páxina web": "Non dispoñible",
+  "Etiquetas": [
+   "Catering",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "Nemo Bar",
+  "Teléfono": "881 990 133",
+  "Dirección": "Arzobispo Gelmírez, s/n (Dársena de la Marina) - 15002 - A Coruña",
+  "Páxina web": "www.facebook.com/nemo-bar",
+  "Etiquetas": [
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "NH Collection Coruña Finisterre",
+  "Teléfono": "981 205 400",
+  "Dirección": "Paseo del Parrote, 2 - 15001 - A Coruña",
+  "Páxina web": "www.nh-hoteles.es/hotel/nh-collection-a-coruna-finisterre",
+  "Etiquetas": [
+   "Catering",
+   "Hoteles",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "Niko´s",
+  "Teléfono": "881 872 001",
+  "Dirección": "Gaiteira, 47 bajo - 15009 - A Coruña",
+  "Páxina web": "www.facebook.com/niko-s",
+  "Etiquetas": [
+   "Bares y cafeterías",
+   "Restaurantes",
+   "Restaurantes ",
+   "Italianos y pizzerías"
+  ]
+ },
+ {
+  "Nome local": "Nogueira",
+  "Teléfono": "981 153 597",
+  "Dirección": "Francisco Catoira, 24 - 15007 - A Coruña",
+  "Páxina web": "Non dispoñible",
+  "Etiquetas": [
+   "Mesones y taperías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "Nomar",
+  "Teléfono": "981 978 148",
+  "Dirección": "Manuel Murguía, 4-6 bajo - 15011 - A Coruña",
+  "Páxina web": "Non dispoñible",
+  "Etiquetas": [
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "Nova Lúa Chea",
+  "Teléfono": "981 222 898",
+  "Dirección": "Paseo Marítimo, 4 (As Lagoas) - 15002 - A Coruña",
+  "Páxina web": "www.novaluacheagastrobar.es/es",
+  "Etiquetas": [
+   "Gastrobar",
+   "Restaurantes",
+   "Tiendas de vinos, vinotecas, enotecas"
+  ]
+ },
+ {
+  "Nome local": "Nova Ría",
+  "Teléfono": "981 220 800",
+  "Dirección": "Capitán Troncoso, 16 Bajo - 15001 - A Coruña",
+  "Páxina web": "www.facebook.com/nova-ria",
+  "Etiquetas": [
+   "Mesones y taperías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "Novo",
+  "Teléfono": "981 215 215",
+  "Dirección": "Paseo del Parrote, 2 (Hotel NH Collection Finisterre) - 15001 - A Coruña",
+  "Páxina web": "www.nh-hoteles.es/hotel/nh-collection-a-coruna-finisterre",
+  "Etiquetas": [
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "Nuevo Mundial 82",
+  "Teléfono": "981 241 309",
+  "Dirección": "Alberto Datas Panero, 12 Bajo - 15007 - A Coruña",
+  "Páxina web": "www.nuevomundial82.es",
+  "Etiquetas": [
+   "Bares y cafeterías",
+   "Mesones y taperías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "O Cabazo",
+  "Teléfono": "981 276 221",
+  "Dirección": "Enrique Dequidt Hevia, 7 Bajo - 15005 - A Coruña",
+  "Páxina web": "www.mesonocabazo.com",
+  "Etiquetas": [
+   "Asadores, parrilladas y churrasquerías",
+   "Mesones y taperías",
+   "Restaurantes",
+   "Take away, comida para llevar"
+  ]
+ },
+ {
+  "Nome local": "O Cabo",
+  "Teléfono": "981 917 404",
+  "Dirección": "Picavia, 2 - 15004 - A Coruña",
+  "Páxina web": "Non dispoñible",
+  "Etiquetas": [
+   "Mesones y taperías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "O Carreteiro",
+  "Teléfono": "981 296 208",
+  "Dirección": "Avda. Concordia, 13 (Os Castros) - 15009 - A Coruña",
+  "Páxina web": "Non dispoñible",
+  "Etiquetas": [
+   "Mesones y taperías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "O Celeiro",
+  "Teléfono": "981 221 854",
+  "Dirección": "Franja, 41-43 Bajo - 15001 - A Coruña",
+  "Páxina web": "www.restauranteceleiro.es",
+  "Etiquetas": [
+   "Marisquerías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "O Cenlle",
+  "Teléfono": "981 295 429",
+  "Dirección": "Monte das Moas, 4 Bajo - 15009 - A Coruña",
+  "Páxina web": "Non dispoñible",
+  "Etiquetas": [
+   "Mesones y taperías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "O Chicote",
+  "Teléfono": "981 923 861",
+  "Dirección": "Ramón y Cajal, 13 - 15006 - A Coruña",
+  "Páxina web": "Non dispoñible",
+  "Etiquetas": [
+   "Mesones y taperías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "O Dezasete",
+  "Teléfono": "881 894 645",
+  "Dirección": "Olmos, 17 Bajo - 15003 - A Coruña",
+  "Páxina web": "www.odezasetetaberna.es",
+  "Etiquetas": [
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "O Espeto",
+  "Teléfono": "981 928 332",
+  "Dirección": "Ronda de Outeiro, 408 - 15011 - A Coruña",
+  "Páxina web": "Non dispoñible",
+  "Etiquetas": [
+   "Mesones y taperías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "O Fado",
+  "Teléfono": "981 904 347",
+  "Dirección": "Ctra. de Circunvalación, s/n - 15002 - A Coruña",
+  "Páxina web": "restaurante-o-fado.business.site",
+  "Etiquetas": [
+   "Arrocerías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "O Faiado",
+  "Teléfono": "670 872 167",
+  "Dirección": "Avda. Ferrocarril, 3 Bajo Izq. - 15007 - A Coruña",
+  "Páxina web": "www.instagram.com/ofaiadotaberna",
+  "Etiquetas": [
+   "Jamonerías",
+   "Mesones y taperías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "O Fartón",
+  "Teléfono": "981 903 318",
+  "Dirección": "Chile, 25 bajo - A Coruña",
+  "Páxina web": "www.facebook.com/o-farton",
+  "Etiquetas": [
+   "Mesones y taperías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "O Fieital",
+  "Teléfono": "981 174 466",
+  "Dirección": "Juan Díaz Porlier, 22 Bajo - MATOGRANDE - 15009 - A Coruña",
+  "Páxina web": "www.facebook.com/o-fieital",
+  "Etiquetas": [
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "O Fiúza",
+  "Teléfono": "981 923 470",
+  "Dirección": "Avda. de Navarra, 33 - 15002 - A Coruña",
+  "Páxina web": "www.pulpeiraofiuza.com",
+  "Etiquetas": [
+   "Pulperías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "O Lagar da Estrella",
+  "Teléfono": "881 967 598",
+  "Dirección": "Estrella, 14-16 Bajo - 15003 - A Coruña",
+  "Páxina web": "www.instagram.com/olagardaestrella",
+  "Etiquetas": [
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "O Lagar de José",
+  "Teléfono": "881 872 097",
+  "Dirección": "Copérnico, 5 Bajo Dch. - Polígono A Grela - 15008 - A Coruña",
+  "Páxina web": "Non dispoñible",
+  "Etiquetas": [
+   "Asadores, parrilladas y churrasquerías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "O Lagar de José",
+  "Teléfono": "981 132 333",
+  "Dirección": "Posse, 25 - 15009 - A Coruña",
+  "Páxina web": "www.olagardejose.com",
+  "Etiquetas": [
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "O Lar de María",
+  "Teléfono": "881 968 177",
+  "Dirección": "José Luis Bugallal Marchesi, 3 Local 8 y 9 - 15008 - A Coruña",
+  "Páxina web": "Non dispoñible",
+  "Etiquetas": [
+   "Bares y cafeterías",
+   "Hamburgueserías y bocaterías",
+   "Mesones y taperías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "O Merendeiro",
+  "Teléfono": "981 915 287",
+  "Dirección": "Galera, 32 Bajo - A Coruña",
+  "Páxina web": "Non dispoñible",
+  "Etiquetas": [
+   "Mesones y taperías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "O Merendeiro",
+  "Teléfono": "981 915 287",
+  "Dirección": "Galera, 23 Bajo - A Coruña",
+  "Páxina web": "Non dispoñible",
+  "Etiquetas": [
+   "Mesones y taperías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "O Novo Trincado",
+  "Teléfono": "981 250 074",
+  "Dirección": "Francisco Añón, 40 - 15010 - A Coruña",
+  "Páxina web": "Non dispoñible",
+  "Etiquetas": [
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "O Parladoiro",
+  "Teléfono": "981 073 633",
+  "Dirección": "Posse, 12 Bajo - 15009 - A Coruña",
+  "Páxina web": "Non dispoñible",
+  "Etiquetas": [
+   "Asadores, parrilladas y churrasquerías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "O Pendello",
+  "Teléfono": "981 294 967",
+  "Dirección": "Cabana, 26 - SOMESO - 15008 - A Coruña",
+  "Páxina web": "www.facebook.com/o-pendello",
+  "Etiquetas": [
+   "Mesones y taperías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "O Petón",
+  "Teléfono": "981 927 632",
+  "Dirección": "Ramón y Cajal, 55 (C. Cial. Cuatro Caminos), Loc. B31 - 15006 - A Coruña",
+  "Páxina web": "Non dispoñible",
+  "Etiquetas": [
+   "Bares y cafeterías",
+   "Cervecerías",
+   "Hamburgueserías y bocaterías",
+   "Restaurantes",
+   "Restaurantes ",
+   "Italianos y pizzerías"
+  ]
+ },
+ {
+  "Nome local": "O Prestige",
+  "Teléfono": "664 869 495",
+  "Dirección": "Avda. Concordia, 7 Bajo - 15009 - A Coruña",
+  "Páxina web": "Non dispoñible",
+  "Etiquetas": [
+   "Mesones y taperías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "O Puntal",
+  "Teléfono": "636 332 728",
+  "Dirección": "Dársena de Oza, s/n - 15006 - A Coruña",
+  "Páxina web": "www.restauranteopuntal.com",
+  "Etiquetas": [
+   "Bares y cafeterías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "O Recodo",
+  "Teléfono": "981 922 778",
+  "Dirección": "Magistrado Manuel Artime, 5 - 15004 - A Coruña",
+  "Páxina web": "Non dispoñible",
+  "Etiquetas": [
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "O Recuncho",
+  "Teléfono": "881 884 306",
+  "Dirección": "Rafael Alberti, 33 Bajo - 15008 - A Coruña",
+  "Páxina web": "Non dispoñible",
+  "Etiquetas": [
+   "Mesones y taperías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "O Recuncho de Mayte",
+  "Teléfono": "881 991 716",
+  "Dirección": "Pórtico de San Andrés, 11 - 15003 - A Coruña",
+  "Páxina web": "Non dispoñible",
+  "Etiquetas": [
+   "Mesones y taperías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "O Remo",
+  "Teléfono": "981 205 067",
+  "Dirección": "Paseo de la Dársena, 2 - 15001 - A Coruña",
+  "Páxina web": "Non dispoñible",
+  "Etiquetas": [
+   "Mesones y taperías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "O Rescaldo",
+  "Teléfono": "604 076 764",
+  "Dirección": "González del Villar, 13 Bajo - 15007 - A Coruña",
+  "Páxina web": "www.facebook.com/o-rescaldo",
+  "Etiquetas": [
+   "Gastrobar",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "O Ribeirao",
+  "Teléfono": "Non dispoñible",
+  "Dirección": "José Luis Bugallal Marchesi, 2 Bajo - 15008 - A Coruña",
+  "Páxina web": "Non dispoñible",
+  "Etiquetas": [
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "O Rico",
+  "Teléfono": "981 242 994",
+  "Dirección": "Francisco Catoira, 19 Bajo - 15007 - A Coruña",
+  "Páxina web": "Non dispoñible",
+  "Etiquetas": [
+   "Mesones y taperías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "O Rincón de Juan",
+  "Teléfono": "981 979 531",
+  "Dirección": "Trva. Montiño, 2 - 15009 - A Coruña",
+  "Páxina web": "Non dispoñible",
+  "Etiquetas": [
+   "Bares y cafeterías",
+   "Cervecerías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "O Rueiro",
+  "Teléfono": "981 213 854",
+  "Dirección": "Miguel Servet, 10 bajo - 15002 - A Coruña",
+  "Páxina web": "Non dispoñible",
+  "Etiquetas": [
+   "Pulperías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "O Sampaio",
+  "Teléfono": "981 467 344",
+  "Dirección": "Enrique Mariñas Romero, 2 Bajo - MATOGRANDE - 15009 - A Coruña",
+  "Páxina web": "osampaio.es",
+  "Etiquetas": [
+   "Cervecerías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "O Sampaio",
+  "Teléfono": "981 903 792",
+  "Dirección": "Bailén, 4 Bajo - 15001 - A Coruña",
+  "Páxina web": "osampaio.es",
+  "Etiquetas": [
+   "Cervecerías",
+   "Mesones y taperías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "O Sampaio",
+  "Teléfono": "981 226 538",
+  "Dirección": "Fama, 1 (Esq. Avda. de la Marina) - A Coruña",
+  "Páxina web": "www.osampaio.es",
+  "Etiquetas": [
+   "Bares y cafeterías",
+   "Restaurantes",
+   "Take away, comida para llevar"
+  ]
+ },
+ {
+  "Nome local": "O Tanagra",
+  "Teléfono": "981 228 019",
+  "Dirección": "Angel, 4 Bajo - 15001 - A Coruña",
+  "Páxina web": "Non dispoñible",
+  "Etiquetas": [
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "O´Abade",
+  "Teléfono": "981 136 987",
+  "Dirección": "Galileo Galilei, 40-42 - Polígono A Grela - 15008 - A Coruña",
+  "Páxina web": "Non dispoñible",
+  "Etiquetas": [
+   "Bares y cafeterías",
+   "Restaurantes",
+   "Take away, comida para llevar"
+  ]
+ },
+ {
+  "Nome local": "O'Bo",
+  "Teléfono": "981 927 237",
+  "Dirección": "Menéndez Pelayo, 18 Bajo - 15005 - A Coruña",
+  "Páxina web": "mesonobo.es",
+  "Etiquetas": [
+   "Bares y cafeterías",
+   "Cervecerías",
+   "Mesones y taperías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "O'Mascoto",
+  "Teléfono": "981 273 400",
+  "Dirección": "Avda. Arteixo, 9 - 15004 - A Coruña",
+  "Páxina web": "Non dispoñible",
+  "Etiquetas": [
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "Orballo",
+  "Teléfono": "981 922 719",
+  "Dirección": "Olmos, 24 bajo - 15003 - A Coruña",
+  "Páxina web": "www.facebook.com/orballo",
+  "Etiquetas": [
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "Os Barriles",
+  "Teléfono": "881 124 156",
+  "Dirección": "Manuel Piñeiro Pose, 8 bajo - 15006 - A Coruña",
+  "Páxina web": "www.facebook.com/os-barriles",
+  "Etiquetas": [
+   "Mesones y taperías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "Os Bocois",
+  "Teléfono": "981 234 632",
+  "Dirección": "Plá y Cancela, 30 Bajo - 15005 - A Coruña",
+  "Páxina web": "Non dispoñible",
+  "Etiquetas": [
+   "Mesones y taperías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "Os Castros",
+  "Teléfono": "981 137 385",
+  "Dirección": "Monte das Moas, 1 - 15009 - A Coruña",
+  "Páxina web": "Non dispoñible",
+  "Etiquetas": [
+   "Mesones y taperías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "Os Tigres Rabiosos",
+  "Teléfono": "981 227 879",
+  "Dirección": "Torreiro, 6-8 - 15003 - A Coruña",
+  "Páxina web": "Non dispoñible",
+  "Etiquetas": [
+   "Mesones y taperías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "Os Trasnos",
+  "Teléfono": "981 915 867",
+  "Dirección": "Trva. San Mateo, 2 bajo - 15004 - A Coruña",
+  "Páxina web": "www.facebook.com/os-trasnos",
+  "Etiquetas": [
+   "Mesones y taperías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "O'Secreto",
+  "Teléfono": "981 916 010",
+  "Dirección": "Alameda, 18 Bajo - 15003 - A Coruña",
+  "Páxina web": "www.tabernaosecreto.com",
+  "Etiquetas": [
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "Óvera",
+  "Teléfono": "881 885 549",
+  "Dirección": "Durán Loriga, 8 Bajo - 15003 - A Coruña",
+  "Páxina web": "www.facebook.com/overa",
+  "Etiquetas": [
+   "Restaurantes",
+   "Restaurantes ",
+   "Japoneses"
+  ]
+ },
+ {
+  "Nome local": "O'Xugo",
+  "Teléfono": "881 124 346",
+  "Dirección": "Rafael Bárez Vázquez, 15 (Urb. Soto) - 15009 - A Coruña",
+  "Páxina web": "www.facebook.com/o-xugo",
+  "Etiquetas": [
+   "Mesones y taperías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "Pablo Gallego",
+  "Teléfono": "981 208 888",
+  "Dirección": "Capitán Troncoso, 4 - 15001 - A Coruña",
+  "Páxina web": "www.pablogallego.com",
+  "Etiquetas": [
+   "Catering",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "Pachinko",
+  "Teléfono": "981 220 577",
+  "Dirección": "Torreiro, 3 - 15003 - A Coruña",
+  "Páxina web": "www.panchinkoacoruna.com",
+  "Etiquetas": [
+   "Catering",
+   "Delivery, comida a domicilio",
+   "Restaurantes",
+   "Restaurantes ",
+   "Japoneses",
+   "Restaurantes ",
+   "Tailandeses",
+   "Take away, comida para llevar"
+  ]
+ },
+ {
+  "Nome local": "Palacio de China",
+  "Teléfono": "981 138 940",
+  "Dirección": "Avda. Salvador de Madariaga, 34 Bajo - 15008 - A Coruña",
+  "Páxina web": "www.palaciodechinacoruna.com",
+  "Etiquetas": [
+   "Delivery, comida a domicilio",
+   "Restaurantes",
+   "Restaurantes ",
+   "Chinos",
+   "Take away, comida para llevar"
+  ]
+ },
+ {
+  "Nome local": "Paladar y Tomar",
+  "Teléfono": "981 901 467",
+  "Dirección": "Riego de Agua, 38 Bajo - 15001 - A Coruña",
+  "Páxina web": "www.facebook.com/paladar-y-tomar",
+  "Etiquetas": [
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "Pandelino",
+  "Teléfono": "981 207 584",
+  "Dirección": "Rosalía de Castro, 7 - 15004 - A Coruña",
+  "Páxina web": "www.pandelino.es",
+  "Etiquetas": [
+   "Desayunos a domicilio",
+   "Panaderías y pastelerías",
+   "Restaurantes",
+   "Tiendas de alimentación",
+   "Tiendas ecológicas"
+  ]
+ },
+ {
+  "Nome local": "París",
+  "Teléfono": "981 280 917",
+  "Dirección": "Avda. del Ejército, 21 Bajo - 15006 - A Coruña",
+  "Páxina web": "www.instagram.com/mesonparis1974",
+  "Etiquetas": [
+   "Mesones y taperías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "Parque Zapateira",
+  "Teléfono": "609 584 460",
+  "Dirección": "Avda. Nueva York, s/n (Parque Zapateira) - 15174 - A Coruña",
+  "Páxina web": "www.parquezapateira.com",
+  "Etiquetas": [
+   "Bares y cafeterías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "Parrillada La Grela",
+  "Teléfono": "981 256 312",
+  "Dirección": "Avda. de Finisterre, 444 - Polígono A Grela - 15008 - A Coruña",
+  "Páxina web": "Non dispoñible",
+  "Etiquetas": [
+   "Asadores, parrilladas y churrasquerías",
+   "Restaurantes",
+   "Take away, comida para llevar"
+  ]
+ },
+ {
+  "Nome local": "Pato Mareado",
+  "Teléfono": "981 122 204",
+  "Dirección": "Padre Feijoo, 7 - 15004 - A Coruña",
+  "Páxina web": "www.instagram.com/elpatomareadocoruna",
+  "Etiquetas": [
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "Peculiar",
+  "Teléfono": "981 975 897",
+  "Dirección": "Galera, 24 - 15003 - A Coruña",
+  "Páxina web": "www.facebook.com/peculiar",
+  "Etiquetas": [
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "̶P̶e̶g̶g̶y̶ ̶S̶u̶e̶'̶s",
+  "Teléfono": "̶N̶o̶n̶ ̶d̶i̶s̶p̶o̶ñ̶i̶b̶l̶e",
+  "Dirección": "̶C̶t̶r̶a̶.̶ ̶B̶a̶ñ̶o̶s̶ ̶d̶e̶ ̶A̶r̶t̶e̶i̶x̶o̶,̶ ̶4̶3̶ ̶(̶C̶.̶ ̶C̶i̶a̶l̶ ̶M̶a̶r̶i̶n̶e̶d̶a̶ ̶C̶i̶t̶y̶)̶,̶ ̶P̶l̶a̶n̶t̶a̶ ̶2̶,̶ ̶L̶o̶c̶.̶ ̶1̶0̶ ̶-̶ ̶1̶5̶0̶0̶8̶ ̶-̶ ̶A̶ ̶C̶o̶r̶u̶ñ̶a",
+  "Páxina web": "̶N̶o̶n̶ ̶d̶i̶s̶p̶o̶ñ̶i̶b̶l̶e",
+  "Etiquetas": [
+   "̶H̶a̶m̶b̶u̶r̶g̶u̶e̶s̶e̶r̶í̶a̶s̶ ̶g̶o̶u̶r̶m̶e̶t",
+   "̶H̶a̶m̶b̶u̶r̶g̶u̶e̶s̶e̶r̶í̶a̶s̶ ̶y̶ ̶b̶o̶c̶a̶t̶e̶r̶í̶a̶s",
+   "̶R̶e̶s̶t̶a̶u̶r̶a̶n̶t̶e̶s"
+  ]
+ },
+ {
+  "Nome local": "Pes-K-2 Brasería",
+  "Teléfono": "981 251 173",
+  "Dirección": "Villa de Negreira, 60 - 15011 - A Coruña",
+  "Páxina web": "Non dispoñible",
+  "Etiquetas": [
+   "Asadores, parrilladas y churrasquerías",
+   "Restaurantes",
+   "Take away, comida para llevar"
+  ]
+ },
+ {
+  "Nome local": "Pico Fino",
+  "Teléfono": "881 253 683",
+  "Dirección": "Ronda de Outeiro, 418 - 15011 - A Coruña",
+  "Páxina web": "Non dispoñible",
+  "Etiquetas": [
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "Pivito",
+  "Teléfono": "981 136 514",
+  "Dirección": "Avda. Oza, 88 Bajo - 15006 - A Coruña",
+  "Páxina web": "www.facebook.com/pivito",
+  "Etiquetas": [
+   "Bares y cafeterías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "Pizza Movil",
+  "Teléfono": "981 121 495",
+  "Dirección": "Ronda de Outeiro, 139 bajo - 15007 - A Coruña",
+  "Páxina web": "www.pizzamovil.es",
+  "Etiquetas": [
+   "Delivery, comida a domicilio",
+   "Restaurantes",
+   "Restaurantes ",
+   "Italianos y pizzerías",
+   "Take away, comida para llevar"
+  ]
+ },
+ {
+  "Nome local": "̶P̶i̶z̶z̶a̶ ̶M̶ó̶v̶i̶l",
+  "Teléfono": "̶N̶o̶n̶ ̶d̶i̶s̶p̶o̶ñ̶i̶b̶l̶e",
+  "Dirección": "̶C̶t̶r̶a̶.̶ ̶B̶a̶ñ̶o̶s̶ ̶d̶e̶ ̶A̶r̶t̶e̶i̶x̶o̶,̶ ̶4̶3̶ ̶(̶C̶.̶ ̶C̶i̶a̶l̶.̶ ̶M̶a̶r̶i̶n̶e̶d̶a̶ ̶C̶i̶t̶y̶)̶,̶ ̶P̶l̶a̶n̶t̶a̶ ̶2̶,̶ ̶L̶o̶c̶.̶ ̶2̶7̶ ̶-̶ ̶1̶5̶0̶0̶8̶ ̶-̶ ̶A̶ ̶C̶o̶r̶u̶ñ̶a",
+  "Páxina web": "̶N̶o̶n̶ ̶d̶i̶s̶p̶o̶ñ̶i̶b̶l̶e",
+  "Etiquetas": [
+   "̶D̶e̶l̶i̶v̶e̶r̶y̶,̶ ̶c̶o̶m̶i̶d̶a̶ ̶a̶ ̶d̶o̶m̶i̶c̶i̶l̶i̶o",
+   "̶R̶e̶s̶t̶a̶u̶r̶a̶n̶t̶e̶s",
+   "̶R̶e̶s̶t̶a̶u̶r̶a̶n̶t̶e̶s̶ ",
+   "̶I̶t̶a̶l̶i̶a̶n̶o̶s̶ ̶y̶ ̶p̶i̶z̶z̶e̶r̶í̶a̶s",
+   "̶T̶a̶k̶e̶ ̶a̶w̶a̶y̶,̶ ̶c̶o̶m̶i̶d̶a̶ ̶p̶a̶r̶a̶ ̶l̶l̶e̶v̶a̶r"
+  ]
+ },
+ {
+  "Nome local": "Pizza Móvil",
+  "Teléfono": "981 148 220",
+  "Dirección": "Manuel Murguía, 17 Bajo (Esq. Juan González Rodríguez) - 15011 - A Coruña",
+  "Páxina web": "www.pizzamovil.es",
+  "Etiquetas": [
+   "Delivery, comida a domicilio",
+   "Restaurantes",
+   "Restaurantes ",
+   "Italianos y pizzerías",
+   "Take away, comida para llevar"
+  ]
+ },
+ {
+  "Nome local": "Pizza Tutto",
+  "Teléfono": "981 902 100",
+  "Dirección": "Pascual Veiga, 32 - 15010 - A Coruña",
+  "Páxina web": "www.pizzatutto.es",
+  "Etiquetas": [
+   "Delivery, comida a domicilio",
+   "Restaurantes",
+   "Restaurantes ",
+   "Italianos y pizzerías",
+   "Take away, comida para llevar"
+  ]
+ },
+ {
+  "Nome local": "Pizza Tutto",
+  "Teléfono": "981 137 000",
+  "Dirección": "Avda. Oza, 100 Bajo - 15006 - A Coruña",
+  "Páxina web": "Non dispoñible",
+  "Etiquetas": [
+   "Delivery, comida a domicilio",
+   "Restaurantes",
+   "Restaurantes ",
+   "Italianos y pizzerías",
+   "Take away, comida para llevar"
+  ]
+ },
+ {
+  "Nome local": "Pizzería Pepe",
+  "Teléfono": "881 896 698",
+  "Dirección": "Ronda de Outeiro, 122 Bajo Izq. - 15007 - A Coruña",
+  "Páxina web": "www.pizzeriapepe.es",
+  "Etiquetas": [
+   "Restaurantes",
+   "Restaurantes ",
+   "Italianos y pizzerías"
+  ]
+ },
+ {
+  "Nome local": "̶P̶o̶m̶o̶d̶o̶r̶o",
+  "Teléfono": "̶N̶o̶n̶ ̶d̶i̶s̶p̶o̶ñ̶i̶b̶l̶e",
+  "Dirección": "̶C̶t̶r̶a̶.̶ ̶B̶a̶ñ̶o̶s̶ ̶d̶e̶ ̶A̶r̶t̶e̶i̶x̶o̶,̶ ̶4̶3̶ ̶(̶C̶.̶ ̶C̶i̶a̶l̶.̶ ̶M̶a̶r̶i̶n̶e̶d̶a̶ ̶C̶i̶t̶y̶)̶ ̶p̶l̶.̶ ̶2̶ ̶-̶ ̶1̶5̶0̶0̶8̶ ̶-̶ ̶A̶ ̶C̶o̶r̶u̶ñ̶a",
+  "Páxina web": "̶N̶o̶n̶ ̶d̶i̶s̶p̶o̶ñ̶i̶b̶l̶e",
+  "Etiquetas": [
+   "̶H̶a̶m̶b̶u̶r̶g̶u̶e̶s̶e̶r̶í̶a̶s̶ ̶y̶ ̶b̶o̶c̶a̶t̶e̶r̶í̶a̶s",
+   "̶R̶e̶s̶t̶a̶u̶r̶a̶n̶t̶e̶s",
+   "̶R̶e̶s̶t̶a̶u̶r̶a̶n̶t̶e̶s̶ ",
+   "̶I̶t̶a̶l̶i̶a̶n̶o̶s̶ ̶y̶ ̶p̶i̶z̶z̶e̶r̶í̶a̶s"
+  ]
+ },
+ {
+  "Nome local": "Portobello Café",
+  "Teléfono": "981 254 807",
+  "Dirección": "Alcalde Lens, 32 Bajo - 15010 - A Coruña",
+  "Páxina web": "www.facebook.com/portobello-cafe",
+  "Etiquetas": [
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "̶P̶o̶r̶t̶o̶f̶i̶n̶o",
+  "Teléfono": "̶N̶o̶n̶ ̶d̶i̶s̶p̶o̶ñ̶i̶b̶l̶e",
+  "Dirección": "̶E̶s̶t̶r̶e̶l̶l̶a̶,̶ ̶1̶5̶ ̶P̶l̶a̶n̶t̶a̶ ̶B̶ ̶-̶ ̶1̶5̶0̶0̶4̶ ̶-̶ ̶A̶ ̶C̶o̶r̶u̶ñ̶a",
+  "Páxina web": "̶N̶o̶n̶ ̶d̶i̶s̶p̶o̶ñ̶i̶b̶l̶e",
+  "Etiquetas": [
+   "̶B̶a̶r̶e̶s̶ ̶y̶ ̶c̶a̶f̶e̶t̶e̶r̶í̶a̶s",
+   "̶C̶e̶r̶v̶e̶c̶e̶r̶í̶a̶s",
+   "̶R̶e̶s̶t̶a̶u̶r̶a̶n̶t̶e̶s"
+  ]
+ },
+ {
+  "Nome local": "Pracer",
+  "Teléfono": "981 009 750",
+  "Dirección": "Salgado Somoza, 13 - 15002 - A Coruña",
+  "Páxina web": "www.restaurantepracerzalaeta.com",
+  "Etiquetas": [
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "̶P̶u̶e̶r̶t̶a̶ ̶C̶o̶r̶u̶ñ̶a",
+  "Teléfono": "̶N̶o̶n̶ ̶d̶i̶s̶p̶o̶ñ̶i̶b̶l̶e",
+  "Dirección": "̶E̶n̶r̶i̶q̶u̶e̶ ̶M̶a̶r̶i̶ñ̶a̶s̶ ̶R̶o̶m̶e̶r̶o̶,̶ ̶2̶ ̶B̶a̶j̶o̶ ̶-̶ ̶1̶5̶0̶0̶9̶ ̶-̶ ̶A̶ ̶C̶o̶r̶u̶ñ̶a",
+  "Páxina web": "̶N̶o̶n̶ ̶d̶i̶s̶p̶o̶ñ̶i̶b̶l̶e",
+  "Etiquetas": [
+   "̶R̶e̶s̶t̶a̶u̶r̶a̶n̶t̶e̶s"
+  ]
+ },
+ {
+  "Nome local": "Puerto Carmela",
+  "Teléfono": "881 873 988",
+  "Dirección": "Emilia Pardo Bazán, 25 Bajo - 15005 - A Coruña",
+  "Páxina web": "www.facebook.com/puerto-carmela",
+  "Etiquetas": [
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "Pulpeira Coruña",
+  "Teléfono": "649 134 968",
+  "Dirección": "Monte das Moas, 5 Bajo Dcha. - 15009 - A Coruña",
+  "Páxina web": "pulpeira-coruna.metro.bar",
+  "Etiquetas": [
+   "Delivery, comida a domicilio",
+   "Pulperías",
+   "Restaurantes",
+   "Take away, comida para llevar"
+  ]
+ },
+ {
+  "Nome local": "Pulpeira de Arzúa",
+  "Teléfono": "981 235 076",
+  "Dirección": "Francisco Catoira, 8 - 15007 - A Coruña",
+  "Páxina web": "www.pulpeiradearzua.es",
+  "Etiquetas": [
+   "Pulperías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "Pulpeira de Lola la Antigua de Melide",
+  "Teléfono": "981 236 164",
+  "Dirección": "Ronda de Outeiro, 135 Bajo - 15007 - A Coruña",
+  "Páxina web": "pulpeira-de-lola-la-antigua-de-melide.business.site",
+  "Etiquetas": [
+   "Pulperías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "Ricardo",
+  "Teléfono": "981 918 582",
+  "Dirección": "Riazor, 8 - 15004 - A Coruña",
+  "Páxina web": "www.facebook.com/ricardo",
+  "Etiquetas": [
+   "Restaurantes",
+   "Take away, comida para llevar"
+  ]
+ },
+ {
+  "Nome local": "Río Ulla",
+  "Teléfono": "981 282 265",
+  "Dirección": "Nueva Travesía de Buenavista, 13 Bajo - 15006 - A Coruña",
+  "Páxina web": "Non dispoñible",
+  "Etiquetas": [
+   "Marisquerías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "Ríos",
+  "Teléfono": "981 232 277",
+  "Dirección": "San Lucas, 11 - 15007 - A Coruña",
+  "Páxina web": "Non dispoñible",
+  "Etiquetas": [
+   "Marisquerías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "Rodicio",
+  "Teléfono": "981 221 092",
+  "Dirección": "Álvaro Cebreiro, 7 Bajo - 15003 - A Coruña",
+  "Páxina web": "Non dispoñible",
+  "Etiquetas": [
+   "Asadores, parrilladas y churrasquerías",
+   "Restaurantes",
+   "Rodizios"
+  ]
+ },
+ {
+  "Nome local": "̶R̶o̶d̶i̶l̶l̶a",
+  "Teléfono": "̶N̶o̶n̶ ̶d̶i̶s̶p̶o̶ñ̶i̶b̶l̶e",
+  "Dirección": "̶C̶t̶r̶a̶.̶ ̶B̶a̶ñ̶o̶s̶ ̶d̶e̶ ̶A̶r̶t̶e̶i̶x̶o̶,̶ ̶4̶3̶ ̶(̶C̶.̶ ̶C̶i̶a̶l̶.̶ ̶M̶a̶r̶i̶n̶e̶d̶a̶ ̶C̶i̶t̶y̶)̶ ̶-̶ ̶E̶l̶ ̶C̶o̶r̶t̶e̶ ̶I̶n̶g̶l̶é̶s̶ ̶-̶ ̶1̶5̶0̶0̶8̶ ̶-̶ ̶A̶ ̶C̶o̶r̶u̶ñ̶a",
+  "Páxina web": "̶N̶o̶n̶ ̶d̶i̶s̶p̶o̶ñ̶i̶b̶l̶e",
+  "Etiquetas": [
+   "̶R̶e̶s̶t̶a̶u̶r̶a̶n̶t̶e̶s"
+  ]
+ },
+ {
+  "Nome local": "Roma 1",
+  "Teléfono": "981 229 214",
+  "Dirección": "Orillamar, 88-90 Bajo - 15002 - A Coruña",
+  "Páxina web": "cafeteriaroma1.es",
+  "Etiquetas": [
+   "Bares y cafeterías",
+   "Restaurantes",
+   "Restaurantes ",
+   "Italianos y pizzerías",
+   "Take away, comida para llevar"
+  ]
+ },
+ {
+  "Nome local": "Rompeolas",
+  "Teléfono": "881 894 800",
+  "Dirección": "Manuel Murguía, 6 - 15011 - A Coruña",
+  "Páxina web": "www.facebook.com/rompeolas",
+  "Etiquetas": [
+   "Bares y cafeterías",
+   "Restaurantes",
+   "Take away, comida para llevar"
+  ]
+ },
+ {
+  "Nome local": "Roots",
+  "Teléfono": "981 918 782",
+  "Dirección": "Emilia Pardo Bazán, 20 Bajo (Plaza de Vigo) - 15005 - A Coruña",
+  "Páxina web": "www.facebook.com/roots",
+  "Etiquetas": [
+   "Bares y cafeterías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "Rubia & Gallega",
+  "Teléfono": "881 066 886",
+  "Dirección": "Enrique Mariñas Romero, 3 bajo - MATOGRANDE - 15009 - A Coruña",
+  "Páxina web": "www.facebook.com/rubia-gallega",
+  "Etiquetas": [
+   "Bares y cafeterías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "Sabaneque",
+  "Teléfono": "981 103 253",
+  "Dirección": "Avda. de Finisterre, 236 - 15007 - A Coruña",
+  "Páxina web": "www.instagram.com/gruposabaneque",
+  "Etiquetas": [
+   "Restaurantes",
+   "Take away, comida para llevar"
+  ]
+ },
+ {
+  "Nome local": "Sabor na Brasa",
+  "Teléfono": "981 926 089",
+  "Dirección": "Hospital, 23 - 15002 - A Coruña",
+  "Páxina web": "www.sabornabrasa.es",
+  "Etiquetas": [
+   "Delivery, comida a domicilio",
+   "Restaurantes",
+   "Rodizios",
+   "Take away, comida para llevar"
+  ]
+ },
+ {
+  "Nome local": "Sahil",
+  "Teléfono": "632 962 028",
+  "Dirección": "Arenal, 7 - 15002 - A Coruña",
+  "Páxina web": "www.facebook.com/sahil",
+  "Etiquetas": [
+   "Hamburgueserías y bocaterías",
+   "Restaurantes",
+   "Restaurantes ",
+   "Turcos y kebab",
+   "Take away, comida para llevar"
+  ]
+ },
+ {
+  "Nome local": "Salentina",
+  "Teléfono": "981 263 755",
+  "Dirección": "Gambrinus, 11 - Polígono A Grela - 15008 - A Coruña",
+  "Páxina web": "Non dispoñible",
+  "Etiquetas": [
+   "Bares y cafeterías",
+   "Delivery, comida a domicilio",
+   "Restaurantes",
+   "Restaurantes ",
+   "Italianos y pizzerías",
+   "Take away, comida para llevar"
+  ]
+ },
+ {
+  "Nome local": "Salitre",
+  "Teléfono": "981 923 253",
+  "Dirección": "Paseo Marítimo Alcalde Francisco Vázquez, 25 Bajo - 15002 - A Coruña",
+  "Páxina web": "www.salitrecoruna.com",
+  "Etiquetas": [
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "Samaná",
+  "Teléfono": "981 707 172",
+  "Dirección": "Rosalía de Castro, 9 bajo - 15004 - A Coruña",
+  "Páxina web": "www.samanacoruna.com",
+  "Etiquetas": [
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "San Francisco",
+  "Teléfono": "881 889 362",
+  "Dirección": "San Francisco, 10 - 15001 - A Coruña",
+  "Páxina web": "Non dispoñible",
+  "Etiquetas": [
+   "Bares y cafeterías",
+   "Mesones y taperías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "San Javier",
+  "Teléfono": "981 258 889",
+  "Dirección": "Magistrado Manuel Artime, 10 - 15004 - A Coruña",
+  "Páxina web": "www.hosteleriasanjavier.com",
+  "Etiquetas": [
+   "Academias, escuelas de hostelería",
+   "Centros de formación",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "Santa Clara",
+  "Teléfono": "981 264 315",
+  "Dirección": "Arquitecto Rey Pedreira, 19 - 15011 - A Coruña",
+  "Páxina web": "www.restaurantesantaclara.es",
+  "Etiquetas": [
+   "Bares y cafeterías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "Santa Clara Destapa",
+  "Teléfono": "881 893 382",
+  "Dirección": "María Puga Cerdido, 8 - 15009 - A Coruña",
+  "Páxina web": "www.facebook.com/santa-clara-destapa",
+  "Etiquetas": [
+   "Bares y cafeterías",
+   "Cervecerías",
+   "Mesones y taperías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "Saque de Esquina",
+  "Teléfono": "981 296 939",
+  "Dirección": "Castrillón, 37 B - 15009 - A Coruña",
+  "Páxina web": "www.saquedeesquina.es",
+  "Etiquetas": [
+   "Hamburgueserías gourmet",
+   "Hamburgueserías y bocaterías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "Selo Tapas 2.0",
+  "Teléfono": "664 516 297",
+  "Dirección": "Capitán Troncoso, 18 Bajo - 15001 - A Coruña",
+  "Páxina web": "Non dispoñible",
+  "Etiquetas": [
+   "Mesones y taperías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "Senpan",
+  "Teléfono": "981 071 058",
+  "Dirección": "Federico Tapia, 20 bajo - 15005 - A Coruña",
+  "Páxina web": "www.senpan.es",
+  "Etiquetas": [
+   "Delivery, comida a domicilio",
+   "Restaurantes",
+   "Restaurantes vegetarianos",
+   "Take away, comida para llevar"
+  ]
+ },
+ {
+  "Nome local": "Shouri Concept",
+  "Teléfono": "881 897 520",
+  "Dirección": "Avda. de Fernández Latorre, 92 - 15006 - A Coruña",
+  "Páxina web": "www.grupotown.es",
+  "Etiquetas": [
+   "Restaurantes",
+   "Restaurantes ",
+   "Japoneses"
+  ]
+ },
+ {
+  "Nome local": "Sibuya",
+  "Teléfono": "981 901 560",
+  "Dirección": "Galera, 21 (Pza. de la Galera) - 15003 - A Coruña",
+  "Páxina web": "www.sibuyaurbansushibar.com",
+  "Etiquetas": [
+   "Restaurantes",
+   "Restaurantes ",
+   "Japoneses"
+  ]
+ },
+ {
+  "Nome local": "Simbo",
+  "Teléfono": "981 131 192",
+  "Dirección": "Concepción Arenal, 19 Bajo - 15006 - A Coruña",
+  "Páxina web": "www.restaurantesimbo.com",
+  "Etiquetas": [
+   "Restaurantes",
+   "Restaurantes ",
+   "Chinos",
+   "Take away, comida para llevar"
+  ]
+ },
+ {
+  "Nome local": "Sobrado",
+  "Teléfono": "981 236 302",
+  "Dirección": "Europa, 19 Bajo - 15007 - A Coruña",
+  "Páxina web": "meson-sobrado.negocio.site",
+  "Etiquetas": [
+   "Delivery, comida a domicilio",
+   "Mesones y taperías",
+   "Restaurantes",
+   "Take away, comida para llevar"
+  ]
+ },
+ {
+  "Nome local": "Soho Café",
+  "Teléfono": "881 600 299",
+  "Dirección": "Enrique Mariñas Romero, 32 D - 15009 - A Coruña",
+  "Páxina web": "www.sohocafecoruna.com",
+  "Etiquetas": [
+   "Bares y cafeterías",
+   "Coctelerías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "Sol",
+  "Teléfono": "981 059 682",
+  "Dirección": "Sol, 10 Bajo - 15009 - A Coruña",
+  "Páxina web": "Non dispoñible",
+  "Etiquetas": [
+   "Hoteles",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "Sousantos 2",
+  "Teléfono": "981 227 609",
+  "Dirección": "Francisco Mariño, 10 - 15004 - A Coruña",
+  "Páxina web": "Non dispoñible",
+  "Etiquetas": [
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "Sousantos 3",
+  "Teléfono": "981 297 955",
+  "Dirección": "Alcalde Marchesi, 33 - 15009 - A Coruña",
+  "Páxina web": "Non dispoñible",
+  "Etiquetas": [
+   "Bares y cafeterías",
+   "Restaurantes",
+   "Take away, comida para llevar"
+  ]
+ },
+ {
+  "Nome local": "Stenbol",
+  "Teléfono": "981 908 959",
+  "Dirección": "Pza. de Pontevedra, 17 Bajo Izq. - 15004 - A Coruña",
+  "Páxina web": "stenbol.es",
+  "Etiquetas": [
+   "Delivery, comida a domicilio",
+   "Restaurantes",
+   "Restaurantes ",
+   "Italianos y pizzerías",
+   "Restaurantes ",
+   "Turcos y kebab",
+   "Take away, comida para llevar"
+  ]
+ },
+ {
+  "Nome local": "Stollen",
+  "Teléfono": "981 140 819",
+  "Dirección": "Manuel Murguía, 32 Bajo - 15011 - A Coruña",
+  "Páxina web": "Non dispoñible",
+  "Etiquetas": [
+   "Asadores, parrilladas y churrasquerías",
+   "Mesones y taperías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "̶S̶u̶s̶h̶i̶ ̶&̶ ̶B̶e̶e̶r̶s",
+  "Teléfono": "̶N̶o̶n̶ ̶d̶i̶s̶p̶o̶ñ̶i̶b̶l̶e",
+  "Dirección": "̶J̶o̶s̶é̶ ̶L̶u̶i̶s̶ ̶P̶é̶r̶e̶z̶ ̶C̶e̶p̶e̶d̶a̶,̶ ̶2̶-̶1̶0̶ ̶-̶ ̶1̶5̶0̶0̶4̶ ̶-̶ ̶A̶ ̶C̶o̶r̶u̶ñ̶a",
+  "Páxina web": "̶N̶o̶n̶ ̶d̶i̶s̶p̶o̶ñ̶i̶b̶l̶e",
+  "Etiquetas": [
+   "̶B̶a̶r̶e̶s̶ ̶y̶ ̶c̶a̶f̶e̶t̶e̶r̶í̶a̶s",
+   "̶C̶e̶r̶v̶e̶c̶e̶r̶í̶a̶s",
+   "̶R̶e̶s̶t̶a̶u̶r̶a̶n̶t̶e̶s",
+   "̶R̶e̶s̶t̶a̶u̶r̶a̶n̶t̶e̶s̶ ",
+   "̶J̶a̶p̶o̶n̶e̶s̶e̶s"
+  ]
+ },
+ {
+  "Nome local": "Sushi & Sushi",
+  "Teléfono": "981 279 966",
+  "Dirección": "Avda. de Calvo Sotelo, 9 Bajo - 15004 - A Coruña",
+  "Páxina web": "Non dispoñible",
+  "Etiquetas": [
+   "Delivery, comida a domicilio",
+   "Restaurantes",
+   "Restaurantes ",
+   "Japoneses",
+   "Take away, comida para llevar"
+  ]
+ },
+ {
+  "Nome local": "Sushi Bar Minato",
+  "Teléfono": "981 919 135",
+  "Dirección": "Capitán Troncoso, 9 Bajo - 15001 - A Coruña",
+  "Páxina web": "www.sushibarminato.com",
+  "Etiquetas": [
+   "Restaurantes",
+   "Restaurantes ",
+   "Japoneses"
+  ]
+ },
+ {
+  "Nome local": "Taberna Bikiño",
+  "Teléfono": "981 926 394",
+  "Dirección": "San José, 1 - 15002 - A Coruña",
+  "Páxina web": "www.restaurantetabernabikino.es",
+  "Etiquetas": [
+   "Bares y cafeterías",
+   "Restaurantes",
+   "Vermuterías"
+  ]
+ },
+ {
+  "Nome local": "Taberna da Galera",
+  "Teléfono": "881 923 996",
+  "Dirección": "Galera, 32 - 15003 - A Coruña",
+  "Páxina web": "www.tabernadagalera.com",
+  "Etiquetas": [
+   "Mesones y taperías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "Taberna da Penela",
+  "Teléfono": "981 201 969",
+  "Dirección": "Pza. de María Pita, 9 - 15001 - A Coruña",
+  "Páxina web": "tabernadapenela.com",
+  "Etiquetas": [
+   "Mesones y taperías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "Taberna del Arriero",
+  "Teléfono": "981 979 692",
+  "Dirección": "Capitán Troncoso, 19 Bajo - 15001 - A Coruña",
+  "Páxina web": "www.facebook.com/taberna-del-arriero",
+  "Etiquetas": [
+   "Mesones y taperías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "Taberna del Magistrado",
+  "Teléfono": "695 389 970",
+  "Dirección": "Magistrado Manuel Artime, 15 - 15004 - A Coruña",
+  "Páxina web": "Non dispoñible",
+  "Etiquetas": [
+   "Bares y cafeterías",
+   "Mesones y taperías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "Taberna D'José",
+  "Teléfono": "881 873 658",
+  "Dirección": "Nicomedes Pastor Díaz, 15 - 15006 - A Coruña",
+  "Páxina web": "Non dispoñible",
+  "Etiquetas": [
+   "Bares y cafeterías",
+   "Mesones y taperías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "Taco Bell",
+  "Teléfono": "881 087 692",
+  "Dirección": "Ctra. Baños de Arteixo, 43 (C. Cial. Marineda City) pl. 2 - 15008 - A Coruña",
+  "Páxina web": "www.tacobell.es",
+  "Etiquetas": [
+   "Delivery, comida a domicilio",
+   "Restaurantes",
+   "Restaurantes ",
+   "Mexicanos",
+   "Take away, comida para llevar"
+  ]
+ },
+ {
+  "Nome local": "Tagliatella",
+  "Teléfono": "981 918 485",
+  "Dirección": "Alfredo Vicenti, 12-14 - 15004 - A Coruña",
+  "Páxina web": "www.latagliatella.es",
+  "Etiquetas": [
+   "Restaurantes",
+   "Restaurantes ",
+   "Italianos y pizzerías",
+   "Take away, comida para llevar"
+  ]
+ },
+ {
+  "Nome local": "Tamarindo",
+  "Teléfono": "981 928 303",
+  "Dirección": "Pondal, 10 - 15004 - A Coruña",
+  "Páxina web": "www.restaurantetamarindo.com",
+  "Etiquetas": [
+   "Restaurantes",
+   "Restaurantes ",
+   "Mexicanos",
+   "Take away, comida para llevar"
+  ]
+ },
+ {
+  "Nome local": "Tapa Negra",
+  "Teléfono": "881 962 861",
+  "Dirección": "Barrera, 32 Bajo - 15001 - A Coruña",
+  "Páxina web": "www.conceptonegra.com",
+  "Etiquetas": [
+   "Mesones y taperías",
+   "Restaurantes",
+   "Take away, comida para llevar"
+  ]
+ },
+ {
+  "Nome local": "Tasca Sueva",
+  "Teléfono": "981 208 124",
+  "Dirección": "Pza. As Atochas, 12 - 15001 - A Coruña",
+  "Páxina web": "Non dispoñible",
+  "Etiquetas": [
+   "Bares y cafeterías",
+   "Restaurantes",
+   "Take away, comida para llevar"
+  ]
+ },
+ {
+  "Nome local": "Tasty Poke",
+  "Teléfono": "881 894 071",
+  "Dirección": "Federico Tapia, 14 Bajo - A Coruña",
+  "Páxina web": "tastypokebar.com",
+  "Etiquetas": [
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "Té Oriental",
+  "Teléfono": "981 261 245",
+  "Dirección": "Avda. Buenos Aires, 12 B - 15004 - A Coruña",
+  "Páxina web": "www.teorientalcoruna.com",
+  "Etiquetas": [
+   "Delivery, comida a domicilio",
+   "Restaurantes",
+   "Restaurantes ",
+   "Chinos",
+   "Restaurantes ",
+   "Japoneses",
+   "Take away, comida para llevar"
+  ]
+ },
+ {
+  "Nome local": "Tela Marinera",
+  "Teléfono": "Non dispoñible",
+  "Dirección": "Monasterio de Caaveiro, 28 Bajo - 15010 - A Coruña",
+  "Páxina web": "www.facebook.com/tela-marinera",
+  "Etiquetas": [
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "Telepizza",
+  "Teléfono": "981 173 317",
+  "Dirección": "María Puga Cerdido, 1 Bajo - MATOGRANDE - 15009 - A Coruña",
+  "Páxina web": "www.telepizza.es",
+  "Etiquetas": [
+   "Delivery, comida a domicilio",
+   "Restaurantes",
+   "Restaurantes ",
+   "Italianos y pizzerías",
+   "Take away, comida para llevar"
+  ]
+ },
+ {
+  "Nome local": "Telepizza",
+  "Teléfono": "981 222 232",
+  "Dirección": "Avda. de Pedro Barrié de La Maza, 23 Bajo - 15002 - A Coruña",
+  "Páxina web": "www.telepizza.es",
+  "Etiquetas": [
+   "Delivery, comida a domicilio",
+   "Restaurantes",
+   "Restaurantes ",
+   "Italianos y pizzerías",
+   "Take away, comida para llevar"
+  ]
+ },
+ {
+  "Nome local": "Telepizza",
+  "Teléfono": "981 995 211",
+  "Dirección": "Igualdade, 2 (Edf. Armonía) - 15008 - A Coruña",
+  "Páxina web": "www.telepizza.es",
+  "Etiquetas": [
+   "Delivery, comida a domicilio",
+   "Restaurantes",
+   "Restaurantes ",
+   "Italianos y pizzerías",
+   "Take away, comida para llevar"
+  ]
+ },
+ {
+  "Nome local": "Termo Galicia, S.L.",
+  "Teléfono": "981 226 974",
+  "Dirección": "Paseo de la Dársena, s/n - 15001 - A Coruña",
+  "Páxina web": "Non dispoñible",
+  "Etiquetas": [
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "Terra Mia",
+  "Teléfono": "981 008 479",
+  "Dirección": "Juan Flórez, 87 - 15004 - A Coruña",
+  "Páxina web": "www.facebook.com/terra-mia",
+  "Etiquetas": [
+   "Restaurantes",
+   "Restaurantes ",
+   "Italianos y pizzerías",
+   "Take away, comida para llevar"
+  ]
+ },
+ {
+  "Nome local": "Terracota",
+  "Teléfono": "881 965 733",
+  "Dirección": "Emilia Pardo Bazán, 18 Bajo - 15005 - A Coruña",
+  "Páxina web": "www.facebook.com/terracota",
+  "Etiquetas": [
+   "Gastrobar",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "Terreo",
+  "Teléfono": "881 917 182",
+  "Dirección": "San Andrés, 109 - 15003 - A Coruña",
+  "Páxina web": "www.terreococinacasual.net",
+  "Etiquetas": [
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "TGB - The Good Burguer",
+  "Teléfono": "981 306 798",
+  "Dirección": "Ctra. Baños de Arteixo, 43 (C. Cial. Marineda City), Planta 2 - 15008 - A Coruña",
+  "Páxina web": "thegoodburger.com",
+  "Etiquetas": [
+   "Delivery, comida a domicilio",
+   "Hamburgueserías gourmet",
+   "Hamburgueserías y bocaterías",
+   "Restaurantes",
+   "Take away, comida para llevar"
+  ]
+ },
+ {
+  "Nome local": "Thai Market",
+  "Teléfono": "881 918 531",
+  "Dirección": "Avda. de la Marina, 25 Bajo - 15003 - A Coruña",
+  "Páxina web": "thaimarket.es",
+  "Etiquetas": [
+   "Restaurantes",
+   "Restaurantes ",
+   "Tailandeses"
+  ]
+ },
+ {
+  "Nome local": "The Wolf",
+  "Teléfono": "981 101 926",
+  "Dirección": "Comandante Fontanes, 17 (Entrada también por C/Cordelería) - 15003 - A Coruña",
+  "Páxina web": "thewolf.es",
+  "Etiquetas": [
+   "Bares y cafeterías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "Tira do Playa",
+  "Teléfono": "981 140 877",
+  "Dirección": "Andén de Riazor, s/n - 15004 - A Coruña",
+  "Páxina web": "www.tiradoplaya.com",
+  "Etiquetas": [
+   "Bares y cafeterías",
+   "Restaurantes"
+  ]
+ }
+]

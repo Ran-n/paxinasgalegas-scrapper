@@ -1,0 +1,125 @@
+[
+ {
+  "Nome local": "Parrillada O Garaxe",
+  "Teléfono": "981 669 465",
+  "Dirección": "Crendes, s/n - 15318 - Abegondo",
+  "Páxina web": "www.restauranteogaraxe.com",
+  "Etiquetas": [
+   "Asadores, parrilladas y churrasquerías",
+   "Restaurantes",
+   "Take away, comida para llevar"
+  ]
+ },
+ {
+  "Nome local": "Casa Julia A Pequeñita",
+  "Teléfono": "981 630 242",
+  "Dirección": "San Paio, 6 - VILACOBA - 15318 - Abegondo",
+  "Páxina web": "www.facebook.com/casa-julia-a-pequeñita",
+  "Etiquetas": [
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "Casa Manolo",
+  "Teléfono": "981 673 006",
+  "Dirección": "Monte, 22 - MABEGONDO - 15318 - Abegondo",
+  "Páxina web": "www.facebook.com/casa-manolo",
+  "Etiquetas": [
+   "Hoteles",
+   "Pensiones",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "Casa Pepito",
+  "Teléfono": "881 062 725",
+  "Dirección": "Monte, 50 - MABEGONDO - 15318 - Abegondo",
+  "Páxina web": "Non dispoñible",
+  "Etiquetas": [
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "Damil",
+  "Teléfono": "981 671 585",
+  "Dirección": "Damil, 18 - FIGUEROA - 15318 - Abegondo",
+  "Páxina web": "Non dispoñible",
+  "Etiquetas": [
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "El Pantano",
+  "Teléfono": "981 676 869",
+  "Dirección": "Orto, s/n - 15318 - Abegondo",
+  "Páxina web": "www.elpantanorestaurante.com",
+  "Etiquetas": [
+   "Pazos y fincas para bodas",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "La Flor de Montouto",
+  "Teléfono": "981 669 478",
+  "Dirección": "Nogueiras, 11 - Abegondo",
+  "Páxina web": "www.facebook.com/la-flor-de-montouto",
+  "Etiquetas": [
+   "Bares y cafeterías",
+   "Discotecas",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "O Bodegón",
+  "Teléfono": "981 669 083",
+  "Dirección": "Lugar Iglesia, 30 (Santirso) - MABEGONDO - 15318 - Abegondo",
+  "Páxina web": "www.facebook.com/o-bodegon",
+  "Etiquetas": [
+   "Asadores, parrilladas y churrasquerías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "San Marcos",
+  "Teléfono": "981 673 585",
+  "Dirección": "Agra de San Marcos, s/n - 15318 - Abegondo",
+  "Páxina web": "Non dispoñible",
+  "Etiquetas": [
+   "Mesones y taperías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "San Tirso",
+  "Teléfono": "981 673 307",
+  "Dirección": "Mabegondo, 3 - 15318 - Abegondo",
+  "Páxina web": "Non dispoñible",
+  "Etiquetas": [
+   "Mesones y taperías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "Tizon's",
+  "Teléfono": "881 062 228",
+  "Dirección": "Orto de Arriba, 18 - 15318 - Abegondo",
+  "Páxina web": "tizons-pizzeria.negocio.site",
+  "Etiquetas": [
+   "Asadores, parrilladas y churrasquerías",
+   "Cervecerías",
+   "Restaurantes",
+   "Restaurantes ",
+   "Italianos y pizzerías"
+  ]
+ },
+ {
+  "Nome local": "Xente No Camiño",
+  "Teléfono": "981 673 120",
+  "Dirección": "Campo de Nuestra Señora de la Saleta, 30 - PRESEDO - 15318 - Abegondo",
+  "Páxina web": "www.alfredoerias.com",
+  "Etiquetas": [
+   "Mesones y taperías",
+   "Restaurantes"
+  ]
+ }
+]

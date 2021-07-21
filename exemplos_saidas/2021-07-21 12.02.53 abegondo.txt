@@ -1,0 +1,123 @@
+[
+ {
+  "Nome local": "Centro de Saúde de Abegondo",
+  "Teléfono": "981 669 430",
+  "Dirección": "Campo da Feira, s/n - 15318 - Abegondo",
+  "Páxina web": "www.sergas.es",
+  "Etiquetas": [
+   "Ambulatorios, centros de salud, hospitales"
+  ]
+ },
+ {
+  "Nome local": "Ayuntamiento - Concello Abegondo",
+  "Teléfono": "981 647 996",
+  "Dirección": "San Marcos, 1 - 15318 - Abegondo",
+  "Páxina web": "abegondo.gal",
+  "Etiquetas": [
+   "Ayuntamientos, concellos"
+  ]
+ },
+ {
+  "Nome local": "Aula Mentor Abegondo",
+  "Teléfono": "981 647 909",
+  "Dirección": "San Marcos, 1 - 15318 - Abegondo",
+  "Páxina web": "www.aulamentor.gal",
+  "Etiquetas": [
+   "Centros culturales, teatros"
+  ]
+ },
+ {
+  "Nome local": "Gasóleos Abegondo - Cepsa",
+  "Teléfono": "981 229 941",
+  "Dirección": "Avda. de Hércules, 7-9 Bajo - 15002 - A Coruña",
+  "Páxina web": "www.gasabegondo.com",
+  "Etiquetas": [
+   "Distribuidores butano"
+  ]
+ },
+ {
+  "Nome local": "Gasóleos Abegondo - Cepsa",
+  "Teléfono": "988 102 100",
+  "Dirección": " - Ourense",
+  "Páxina web": "www.cepsa.com/es",
+  "Etiquetas": [
+   "Distribuidores de gas"
+  ]
+ },
+ {
+  "Nome local": "Instalaciones Abegondo",
+  "Teléfono": "639 810 988",
+  "Dirección": "Cerneda, 10 (As Casas Grandes) - 15318 - Abegondo",
+  "Páxina web": "Non dispoñible",
+  "Etiquetas": [
+   "Fontanería"
+  ]
+ },
+ {
+  "Nome local": "Gas Abegondo, S.L. - Cepsa",
+  "Teléfono": "981 216 872",
+  "Dirección": "Avda. de Hércules, 7 Bajo - 15002 - A Coruña",
+  "Páxina web": "www.gasabegondo.com",
+  "Etiquetas": [
+   "Gas"
+  ]
+ },
+ {
+  "Nome local": "Ciudad Deportiva de Abegondo",
+  "Teléfono": "981 259 500",
+  "Dirección": "Agra de Marcés, s/n - San Tirso Mabegondo - 15318 - Abegondo",
+  "Páxina web": "www.rcdeportivo.es/anosacasa/ciudad-deportiva-de-abegondo",
+  "Etiquetas": [
+   "Campos de fútbol",
+   "Instalaciones deportivas y pabellones"
+  ]
+ },
+ {
+  "Nome local": "Cepsa Abegondo - Cepsa",
+  "Teléfono": "Non dispoñible",
+  "Dirección": "Ctra. AC-542, Km. 10 - San Marcos - 15318 - Abegondo",
+  "Páxina web": "www.cepsa.com",
+  "Etiquetas": [
+   "Estaciones de servicio, gasolineras",
+   "Lavado de coches"
+  ]
+ },
+ {
+  "Nome local": "JNV Montajes Abegondo, S.L.",
+  "Teléfono": "600 389 820",
+  "Dirección": "MEANGOS, 5 - 15318 - Abegondo",
+  "Páxina web": "www.facebook.com/jnv-montajes-abegondo-sl",
+  "Etiquetas": [
+   "Montajes industriales"
+  ]
+ },
+ {
+  "Nome local": "Parroquia y Cementerio de Santa Eulalia de Abegondo",
+  "Teléfono": "981 251 090",
+  "Dirección": "Atrio - 15318 - Abegondo",
+  "Páxina web": "Non dispoñible",
+  "Etiquetas": [
+   "Cementerios",
+   "Parroquias católicas, iglesias"
+  ]
+ },
+ {
+  "Nome local": "Agro Abegondo",
+  "Teléfono": "981 673 398",
+  "Dirección": "Lugar Peneda, 1 A Bajo - 15318 - Abegondo",
+  "Páxina web": "www.facebook.com/agro-abegondo",
+  "Etiquetas": [
+   "Fertilizantes, abonos y piensos",
+   "Productos fitosanitarios"
+  ]
+ },
+ {
+  "Nome local": "Parada Taxis de Abegondo",
+  "Teléfono": "981 673 526",
+  "Dirección": "San Marcos, s/n - 15318 - Abegondo",
+  "Páxina web": "Non dispoñible",
+  "Etiquetas": [
+   "Taxis"
+  ]
+ }
+]

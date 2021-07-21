@@ -1,0 +1,148 @@
+[
+ {
+  "Nome local": "A Boa Cervexa",
+  "Teléfono": "608 897 500",
+  "Dirección": "Paraíso, 31 - 15175 - Carral",
+  "Páxina web": "www.facebook.com/a-boa-cervexa",
+  "Etiquetas": [
+   "Bares y cafeterías",
+   "Cervecerías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "A Rotonda",
+  "Teléfono": "Non dispoñible",
+  "Dirección": "Víctor Velasco, 31 Bajo - 15175 - Carral",
+  "Páxina web": "www.facebook.com/a-rotonda",
+  "Etiquetas": [
+   "Pulperías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "A' Taberna XXI",
+  "Teléfono": "981 671 370",
+  "Dirección": "Río de Canles, Bajo 1 - 15175 - Carral",
+  "Páxina web": "www.facebook.com/a-taberna-xxi",
+  "Etiquetas": [
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "̶A̶d̶e̶g̶a̶ ̶O̶ ̶C̶r̶u̶c̶e̶i̶r̶o",
+  "Teléfono": "̶N̶o̶n̶ ̶d̶i̶s̶p̶o̶ñ̶i̶b̶l̶e",
+  "Dirección": "̶C̶u̶r̶r̶á̶s̶,̶ ̶1̶ ̶-̶ ̶T̶A̶B̶E̶A̶I̶O̶ ̶-̶ ̶1̶5̶1̶8̶2̶ ̶-̶ ̶C̶a̶r̶r̶a̶l",
+  "Páxina web": "̶N̶o̶n̶ ̶d̶i̶s̶p̶o̶ñ̶i̶b̶l̶e",
+  "Etiquetas": [
+   "̶A̶s̶a̶d̶o̶r̶e̶s̶,̶ ̶p̶a̶r̶r̶i̶l̶l̶a̶d̶a̶s̶ ̶y̶ ̶c̶h̶u̶r̶r̶a̶s̶q̶u̶e̶r̶í̶a̶s",
+   "̶B̶a̶r̶e̶s̶ ̶y̶ ̶c̶a̶f̶e̶t̶e̶r̶í̶a̶s",
+   "̶R̶e̶s̶t̶a̶u̶r̶a̶n̶t̶e̶s"
+  ]
+ },
+ {
+  "Nome local": "Caravel",
+  "Teléfono": "981 672 344",
+  "Dirección": "Avda. dos Mártires, 32 - 15175 - Carral",
+  "Páxina web": "Non dispoñible",
+  "Etiquetas": [
+   "Bares y cafeterías",
+   "Mesones y taperías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "Casa Juanito",
+  "Teléfono": "981 670 232",
+  "Dirección": "Ponte Lago, 19 - 15173 - Carral",
+  "Páxina web": "Non dispoñible",
+  "Etiquetas": [
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "El Rincón de Oro",
+  "Teléfono": "981 670 459",
+  "Dirección": "Paraíso, 34 - 15175 - Carral",
+  "Páxina web": "Non dispoñible",
+  "Etiquetas": [
+   "Asadores, parrilladas y churrasquerías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "Las Tablas",
+  "Teléfono": "981 630 305",
+  "Dirección": "Tablas, s/n - ABRIGOSA - 15175 - Carral",
+  "Páxina web": "Non dispoñible",
+  "Etiquetas": [
+   "Asadores, parrilladas y churrasquerías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "Muíño Vello",
+  "Teléfono": "981 672 524",
+  "Dirección": "Pza. de Cortaduría, 8 - 15175 - Carral",
+  "Páxina web": "Non dispoñible",
+  "Etiquetas": [
+   "Restaurantes",
+   "Tiendas de vinos, vinotecas, enotecas"
+  ]
+ },
+ {
+  "Nome local": "O' Lareiras",
+  "Teléfono": "981 672 607",
+  "Dirección": "Víctor Velasco, 3 - 15175 - Carral",
+  "Páxina web": "www.facebook.com/o-lareiras",
+  "Etiquetas": [
+   "Bares y cafeterías",
+   "Mesones y taperías",
+   "Restaurantes"
+  ]
+ },
+ {
+  "Nome local": "Hassan",
+  "Teléfono": "693 054 359",
+  "Dirección": "Cura Pereiro, s/n - 15175 - Carral",
+  "Páxina web": "Non dispoñible",
+  "Etiquetas": [
+   "Hamburgueserías y bocaterías",
+   "Restaurantes ",
+   "Italianos y pizzerías",
+   "Restaurantes ",
+   "Turcos y kebab"
+  ]
+ },
+ {
+  "Nome local": "Ivi's",
+  "Teléfono": "981 671 372",
+  "Dirección": "Paraíso, 2 bajo - 15175 - Carral",
+  "Páxina web": "Non dispoñible",
+  "Etiquetas": [
+   "Bares y cafeterías",
+   "Cervecerías",
+   "Hamburgueserías y bocaterías"
+  ]
+ },
+ {
+  "Nome local": "Parola",
+  "Teléfono": "667 415 931",
+  "Dirección": "Paraíso, 9 Bajo - 15175 - Carral",
+  "Páxina web": "Non dispoñible",
+  "Etiquetas": [
+   "Bares y cafeterías",
+   "Hamburgueserías y bocaterías"
+  ]
+ },
+ {
+  "Nome local": "Betanceiro",
+  "Teléfono": "981 670 131",
+  "Dirección": "Rosalía de Castro, 5 - 15175 - Carral",
+  "Páxina web": "Non dispoñible",
+  "Etiquetas": [
+   "Bares y cafeterías",
+   "Mesones y taperías"
+  ]
+ }
+]
